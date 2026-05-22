@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Daily Plant</title>
+    <link>https://andrewmerluzzi.github.io/plantcast-d7fafc</link>
+    <atom:link href="https://andrewmerluzzi.github.io/plantcast-d7fafc/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>An automatically generated daily podcast for the serious gardener and designer. Each episode is a focused, master-gardener-level deep dive on a single plant or genus relevant to the Eastern US — native species, the non-native ornamentals and invasives you encounter in real gardens — covering identification, range and ecology, culture, mature habit, design use, companions, and the best cultivars. Most episodes end with a short spaced-repetition quiz on plants covered earlier, to build lasting recall.</description>
+    <itunes:subtitle>A daily, expert-level deep dive on one plant or genus for East Coast garden designers.</itunes:subtitle>
+    <itunes:summary>An automatically generated daily podcast for the serious gardener and designer. Each episode is a focused, master-gardener-level deep dive on a single plant or genus relevant to the Eastern US — native species, the non-native ornamentals and invasives you encounter in real gardens — covering identification, range and ecology, culture, mature habit, design use, companions, and the best cultivars. Most episodes end with a short spaced-repetition quiz on plants covered earlier, to build lasting recall.</itunes:summary>
+    <itunes:author>Andrew Merluzzi</itunes:author>
+    <copyright>Andrew Merluzzi</copyright>
+    <itunes:owner>
+      <itunes:name>Andrew Merluzzi</itunes:name>
+      <itunes:email>andrewmerluzzi@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://andrewmerluzzi.github.io/plantcast-d7fafc/cover.jpg"/>
+    <image><url>https://andrewmerluzzi.github.io/plantcast-d7fafc/cover.jpg</url><title>The Daily Plant</title><link>https://andrewmerluzzi.github.io/plantcast-d7fafc</link></image>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Fri, 22 May 2026 20:03:22 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Flowering Dogwood (Cornus florida)</title>
+      <description>Cornus florida, the flowering dogwood, is the signature understory tree of the eastern North American forest and one of the most ecologically consequential natives a designer can specify. This episode covers diagnostic ID and common confusables, the East Coast culture requirements that determine success or failure, the Discula destructiva anthracnose epidemic and what it means for specification today, the cultivar Appalachian Spring and its unusual origin, specific Lepidoptera and specialist bee relationships, the high-fat fruit ecology tied to fall bird migration, design application in the understory layer, and an honest ecological accounting of hybrid dogwoods. Closes with expert-level Baptisia recall.
+
+In this episode:
+• Cornus florida (Flowering Dogwood) — 
+• Cornus florida f. rubra (Pink-Flowering Dogwood) — 
+• Rutgers Dogwood Breeding History — 
+• Dogwood Borer (Synanthedon scitula) Fact Sheet — 
+• Flowering Dogwood (Cornus florida) — 
+• UT Grows Disease-Resistant Dogwoods — 
+• Dogwood Anthracnose — 
+• Dogwood Anthracnose — </description>
+      <itunes:summary>Cornus florida, the flowering dogwood, is the signature understory tree of the eastern North American forest and one of the most ecologically consequential natives a designer can specify. This episode covers diagnostic ID and common confusables, the East Coast culture requirements that determine success or failure, the Discula destructiva anthracnose epidemic and what it means for specification today, the cultivar Appalachian Spring and its unusual origin, specific Lepidoptera and specialist bee relationships, the high-fat fruit ecology tied to fall bird migration, design application in the understory layer, and an honest ecological accounting of hybrid dogwoods. Closes with expert-level Baptisia recall.
+
+In this episode:
+• Cornus florida (Flowering Dogwood) — 
+• Cornus florida f. rubra (Pink-Flowering Dogwood) — 
+• Rutgers Dogwood Breeding History — 
+• Dogwood Borer (Synanthedon scitula) Fact Sheet — 
+• Flowering Dogwood (Cornus florida) — 
+• UT Grows Disease-Resistant Dogwoods — 
+• Dogwood Anthracnose — 
+• Dogwood Anthracnose — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-23.mp3" length="14599191" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-23.mp3#14599191</guid>
+      <pubDate>Sat, 23 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>20:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Daily Plant — Wild Indigo (Baptisia)</title>
+      <description>A genus-level deep dive on Baptisia, the native wild indigos — covering all five East Coast-relevant species, the critical culture notes most designers get wrong, the specialist pollinator and butterfly relationships (including the conservation-urgent Frosted Elfin), and a full survey of the major cultivar lineages with Mt. Cuba trial performance data. It is peak bloom right now on the East Coast, and this genus deserves a permanent place in your design palette.
+
+In this episode:
+• Baptisia Trials — Mt. Cuba Center — 
+• Baptisia (False Indigo, Wild Indigo) — NC State Extension Gardener Plant Toolbox — 
+• Baptisia australis (Blue False Indigo) — NC State Extension Gardener Plant Toolbox — 
+• Baptisia (False or Wild Indigo) — Clemson Home and Garden Information Center — 
+• Baptisia australis — Missouri Botanical Garden Plant Finder — 
+• Frosted Elfin (Callophrys irus) — US Fish and Wildlife Service — 
+• Wild Indigo Duskywing (Erynnis baptisiae) — Butterflies and Moths of North America — </description>
+      <itunes:summary>A genus-level deep dive on Baptisia, the native wild indigos — covering all five East Coast-relevant species, the critical culture notes most designers get wrong, the specialist pollinator and butterfly relationships (including the conservation-urgent Frosted Elfin), and a full survey of the major cultivar lineages with Mt. Cuba trial performance data. It is peak bloom right now on the East Coast, and this genus deserves a permanent place in your design palette.
+
+In this episode:
+• Baptisia Trials — Mt. Cuba Center — 
+• Baptisia (False Indigo, Wild Indigo) — NC State Extension Gardener Plant Toolbox — 
+• Baptisia australis (Blue False Indigo) — NC State Extension Gardener Plant Toolbox — 
+• Baptisia (False or Wild Indigo) — Clemson Home and Garden Information Center — 
+• Baptisia australis — Missouri Botanical Garden Plant Finder — 
+• Frosted Elfin (Callophrys irus) — US Fish and Wildlife Service — 
+• Wild Indigo Duskywing (Erynnis baptisiae) — Butterflies and Moths of North America — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-22.mp3" length="11935632" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-22.mp3#11935632</guid>
+      <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>16:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
