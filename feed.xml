@@ -22,7 +22,45 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 23 May 2026 12:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 12:58:18 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Buckeyes (Aesculus)</title>
+      <description>A genus-level deep dive into Aesculus — the buckeyes — with an East Coast designer's lens. The episode covers all four native East Coast species, the two non-natives you routinely encounter, ecological roles from ruby-throated hummingbirds to giant silk moths, and the one understory shrub that belongs in every shade garden specification.
+
+In this episode:
+• Aesculus parviflora (Bottlebrush Buckeye) — 
+• Aesculus pavia (Red Buckeye) — 
+• Aesculus flava (Yellow Buckeye) — 
+• Aesculus sylvatica (Painted Buckeye) — 
+• Aesculus parviflora — Plant Finder — 
+• Aesculus pavia — Plant Finder — 
+• How to Grow and Care for Bottlebrush Buckeye — 
+• The Other Bottlebrush Buckeye: 'Rogers' Strain — 
+• Red Buckeye (Aesculus pavia) — 
+• Aesculus pavia (Red Buckeye) — 
+• Buckeye? Horse Chestnut? Which One is Which? — 
+• Painted Buckeye (Aesculus sylvatica) — </description>
+      <itunes:summary>A genus-level deep dive into Aesculus — the buckeyes — with an East Coast designer's lens. The episode covers all four native East Coast species, the two non-natives you routinely encounter, ecological roles from ruby-throated hummingbirds to giant silk moths, and the one understory shrub that belongs in every shade garden specification.
+
+In this episode:
+• Aesculus parviflora (Bottlebrush Buckeye) — 
+• Aesculus pavia (Red Buckeye) — 
+• Aesculus flava (Yellow Buckeye) — 
+• Aesculus sylvatica (Painted Buckeye) — 
+• Aesculus parviflora — Plant Finder — 
+• Aesculus pavia — Plant Finder — 
+• How to Grow and Care for Bottlebrush Buckeye — 
+• The Other Bottlebrush Buckeye: 'Rogers' Strain — 
+• Red Buckeye (Aesculus pavia) — 
+• Aesculus pavia (Red Buckeye) — 
+• Buckeye? Horse Chestnut? Which One is Which? — 
+• Painted Buckeye (Aesculus sylvatica) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-23-084650.mp3" length="11536271" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-23-084650.mp3#11536271</guid>
+      <pubDate>Sat, 23 May 2026 12:58:18 +0000</pubDate>
+      <itunes:duration>15:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Bluestar (Amsonia)</title>
       <description>A genus-level deep dive into the three Amsonia species that define East Coast garden practice: Amsonia tabernaemontana (the genuine East Coast native), Amsonia ciliata (southeastern dry-site specialist), and Amsonia hubrichtii (Ouachita native, widely planted outside its range). Covers native range caveats, site-specific culture, ecological roles as larval hosts for sphinx moths, and Mount Cuba Center trial top performers including the cultivars 'Spring Sky' and 'Short Stack.' Closes with a Kalmia latifolia spaced-repetition quiz.
@@ -47,7 +85,7 @@ In this episode:
 • Mt. Cuba Center Trial of Amsonia Plants — </itunes:summary>
       <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-25.mp3" length="10286463" type="audio/mpeg"/>
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-25.mp3#10286463</guid>
-      <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 12:25:50 +0000</pubDate>
       <itunes:duration>14:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -79,7 +117,7 @@ In this episode:
 • Grayanotoxin Poisoning: Mad Honey Disease and Beyond — PMC — </itunes:summary>
       <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-24.mp3" length="12333439" type="audio/mpeg"/>
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-24.mp3#12333439</guid>
-      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 12:09:22 +0000</pubDate>
       <itunes:duration>16:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -109,7 +147,7 @@ In this episode:
 • Dogwood Anthracnose — </itunes:summary>
       <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-23.mp3" length="14599191" type="audio/mpeg"/>
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-23.mp3#14599191</guid>
-      <pubDate>Sat, 23 May 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 20:03:04 +0000</pubDate>
       <itunes:duration>20:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -137,7 +175,7 @@ In this episode:
 • Wild Indigo Duskywing (Erynnis baptisiae) — Butterflies and Moths of North America — </itunes:summary>
       <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-22.mp3" length="11935632" type="audio/mpeg"/>
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-22.mp3#11935632</guid>
-      <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 15:40:26 +0000</pubDate>
       <itunes:duration>16:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
