@@ -22,7 +22,33 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 26 Jul 2026 19:14:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:22:05 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Trumpet Vine (Campsis)</title>
+      <description>A deep dive on Campsis, the trumpet vine genus, at the height of its bloom: the native Campsis radicans versus the tamer Chinese Campsis grandiflora and the garden-favorite hybrid Campsis x tagliabuana, with an honest reckoning of where this hummingbird magnet earns a spot in a design and where it becomes a maintenance nightmare.
+
+In this episode:
+• Campsis radicans (Cow-itch, Cow Vine, Devil's Shoestring, Foxglove Vine, Hellvine, Trumpet Creeper, Trumpet Vine) — 
+• Campsis grandiflora (Chinese Trumpet Creeper, Trumpet Creeper, Trumpet Vine) — 
+• Campsis x tagliabueana (Madame Galen, Trumpet Creeper) — 
+• Campsis radicans - Plant Finder — 
+• Campsis radicans (Trumpet Creeper) — 
+• campsis radicans and its invasive potential — </description>
+      <itunes:summary>A deep dive on Campsis, the trumpet vine genus, at the height of its bloom: the native Campsis radicans versus the tamer Chinese Campsis grandiflora and the garden-favorite hybrid Campsis x tagliabuana, with an honest reckoning of where this hummingbird magnet earns a spot in a design and where it becomes a maintenance nightmare.
+
+In this episode:
+• Campsis radicans (Cow-itch, Cow Vine, Devil's Shoestring, Foxglove Vine, Hellvine, Trumpet Creeper, Trumpet Vine) — 
+• Campsis grandiflora (Chinese Trumpet Creeper, Trumpet Creeper, Trumpet Vine) — 
+• Campsis x tagliabueana (Madame Galen, Trumpet Creeper) — 
+• Campsis radicans - Plant Finder — 
+• Campsis radicans (Trumpet Creeper) — 
+• campsis radicans and its invasive potential — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-071709.mp3" length="6355248" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-071709.mp3#6355248</guid>
+      <pubDate>Wed, 05 Aug 2026 11:22:05 +0000</pubDate>
+      <itunes:duration>8:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Culver's Root (Veronicastrum virginicum)</title>
       <description>Midsummer means Veronicastrum virginicum: the candelabra-spiked native perennial that bridges late June through August with genuine vertical structure. This episode covers its prairie-leaning native range and what that means for East Coast specification, its demanding establishment timeline, its exceptional pollinator credentials including ties to the endangered rusty-patched bumblebee, and the cultivar choices — 'Lavender Towers', 'Fascination', 'Album' — worth knowing. Followed by spaced-repetition recall on Lindera benzoin, Persicaria, Agastache, and Helianthus.
@@ -1279,44 +1305,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-24-202625.mp3#10827830</guid>
       <pubDate>Mon, 25 May 2026 00:45:27 +0000</pubDate>
       <itunes:duration>14:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Buckeyes (Aesculus)</title>
-      <description>A genus-level deep dive into Aesculus — the buckeyes — with an East Coast designer's lens. The episode covers all four native East Coast species, the two non-natives you routinely encounter, ecological roles from ruby-throated hummingbirds to giant silk moths, and the one understory shrub that belongs in every shade garden specification.
-
-In this episode:
-• Aesculus parviflora (Bottlebrush Buckeye) — 
-• Aesculus pavia (Red Buckeye) — 
-• Aesculus flava (Yellow Buckeye) — 
-• Aesculus sylvatica (Painted Buckeye) — 
-• Aesculus parviflora — Plant Finder — 
-• Aesculus pavia — Plant Finder — 
-• How to Grow and Care for Bottlebrush Buckeye — 
-• The Other Bottlebrush Buckeye: 'Rogers' Strain — 
-• Red Buckeye (Aesculus pavia) — 
-• Aesculus pavia (Red Buckeye) — 
-• Buckeye? Horse Chestnut? Which One is Which? — 
-• Painted Buckeye (Aesculus sylvatica) — </description>
-      <itunes:summary>A genus-level deep dive into Aesculus — the buckeyes — with an East Coast designer's lens. The episode covers all four native East Coast species, the two non-natives you routinely encounter, ecological roles from ruby-throated hummingbirds to giant silk moths, and the one understory shrub that belongs in every shade garden specification.
-
-In this episode:
-• Aesculus parviflora (Bottlebrush Buckeye) — 
-• Aesculus pavia (Red Buckeye) — 
-• Aesculus flava (Yellow Buckeye) — 
-• Aesculus sylvatica (Painted Buckeye) — 
-• Aesculus parviflora — Plant Finder — 
-• Aesculus pavia — Plant Finder — 
-• How to Grow and Care for Bottlebrush Buckeye — 
-• The Other Bottlebrush Buckeye: 'Rogers' Strain — 
-• Red Buckeye (Aesculus pavia) — 
-• Aesculus pavia (Red Buckeye) — 
-• Buckeye? Horse Chestnut? Which One is Which? — 
-• Painted Buckeye (Aesculus sylvatica) — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-23-084650.mp3" length="11536271" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-23-084650.mp3#11536271</guid>
-      <pubDate>Sat, 23 May 2026 12:58:18 +0000</pubDate>
-      <itunes:duration>15:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
