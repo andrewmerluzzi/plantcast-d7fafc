@@ -22,7 +22,37 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 05 Aug 2026 11:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:29:56 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Beautyberry (Callicarpa)</title>
+      <description>A deep dive on Callicarpa, the beautyberry genus, right as its fruit clusters start coloring up for late summer: the Southeastern native Callicarpa americana against the smaller, showier Asian species that increasingly compete with it in East Coast gardens, plus the invasiveness concern designers need to know before specifying the wrong one.
+
+In this episode:
+• Callicarpa americana (American Beautyberry, American Mulberry, Beautyberry, French Mulberry, Sour-bush) — 
+• Callicarpa dichotoma (Purple Beautyberry) — 
+• Callicarpa bodinieri (Bodinier Beautyberry, Profusion Beautyberry) — 
+• purple beautyberry (Callicarpa dichotoma) — 
+• Callicarpa americana (American beautyberry) — 
+• Beautyberry (Callicarpa) — 
+• A Granddad's Advice May Help Thwart Mosquitoes — 
+• Old-Time Mosquito Remedy May Work Against Ticks, Too — </description>
+      <itunes:summary>A deep dive on Callicarpa, the beautyberry genus, right as its fruit clusters start coloring up for late summer: the Southeastern native Callicarpa americana against the smaller, showier Asian species that increasingly compete with it in East Coast gardens, plus the invasiveness concern designers need to know before specifying the wrong one.
+
+In this episode:
+• Callicarpa americana (American Beautyberry, American Mulberry, Beautyberry, French Mulberry, Sour-bush) — 
+• Callicarpa dichotoma (Purple Beautyberry) — 
+• Callicarpa bodinieri (Bodinier Beautyberry, Profusion Beautyberry) — 
+• purple beautyberry (Callicarpa dichotoma) — 
+• Callicarpa americana (American beautyberry) — 
+• Beautyberry (Callicarpa) — 
+• A Granddad's Advice May Help Thwart Mosquitoes — 
+• Old-Time Mosquito Remedy May Work Against Ticks, Too — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-072208.mp3" length="8652354" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-072208.mp3#8652354</guid>
+      <pubDate>Wed, 05 Aug 2026 11:29:55 +0000</pubDate>
+      <itunes:duration>11:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Trumpet Vine (Campsis)</title>
       <description>A deep dive on Campsis, the trumpet vine genus, at the height of its bloom: the native Campsis radicans versus the tamer Chinese Campsis grandiflora and the garden-favorite hybrid Campsis x tagliabuana, with an honest reckoning of where this hummingbird magnet earns a spot in a design and where it becomes a maintenance nightmare.
@@ -1273,38 +1303,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-25-153145.mp3#16356821</guid>
       <pubDate>Mon, 25 May 2026 20:13:42 +0000</pubDate>
       <itunes:duration>22:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Foamflower (Tiarella)</title>
-      <description>Tiarella, the foamflowers, are among the most functionally valuable native perennials for the East Coast woodland garden — yet they're too often treated as filler. This episode covers the full genus: the 2021 taxonomic revision that split the old Tiarella cordifolia complex into five distinct species, the critical design distinction between stoloniferous and clumping types, culture and heat-humidity performance across our climate zone, and key cultivar lines from Terra Nova and Primrose Path Nurseries. Closes with a spaced-repetition quiz on the Aesculus genus.
-
-In this episode:
-• Tiarella cordifolia (False Miterwort, Foamflower) — 
-• New Species of Foamflower — 
-• Tiptoeing Through the Tiarella — 
-• Foamflower — 
-• Tiarella cordifolia — Plant Finder — 
-• Tiarella — An Introduction to Foam Flowers — 
-• Foamflower — 
-• x Heucherella (Foamy Bells) — 
-• Tiarella cordifolia — </description>
-      <itunes:summary>Tiarella, the foamflowers, are among the most functionally valuable native perennials for the East Coast woodland garden — yet they're too often treated as filler. This episode covers the full genus: the 2021 taxonomic revision that split the old Tiarella cordifolia complex into five distinct species, the critical design distinction between stoloniferous and clumping types, culture and heat-humidity performance across our climate zone, and key cultivar lines from Terra Nova and Primrose Path Nurseries. Closes with a spaced-repetition quiz on the Aesculus genus.
-
-In this episode:
-• Tiarella cordifolia (False Miterwort, Foamflower) — 
-• New Species of Foamflower — 
-• Tiptoeing Through the Tiarella — 
-• Foamflower — 
-• Tiarella cordifolia — Plant Finder — 
-• Tiarella — An Introduction to Foam Flowers — 
-• Foamflower — 
-• x Heucherella (Foamy Bells) — 
-• Tiarella cordifolia — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-24-202625.mp3" length="10827830" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-24-202625.mp3#10827830</guid>
-      <pubDate>Mon, 25 May 2026 00:45:27 +0000</pubDate>
-      <itunes:duration>14:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
