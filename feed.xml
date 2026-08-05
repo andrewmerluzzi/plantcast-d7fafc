@@ -22,7 +22,33 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 05 Aug 2026 11:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:14:59 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Tree of Heaven (Ailanthus altissima)</title>
+      <description>An honest reckoning with the invasive tree every East Coast designer has to identify and talk clients through removing: origin, the diagnostic features that separate it from sumac and walnut, why it wins on the worst sites, and the herbicide timing window that happens to be open right now in early August.
+
+In this episode:
+• Ailanthus altissima (Ailanthus, Copal Tree, Paradise Tree, Stinking Sumac, Tree of Heaven, Varnish Tree) — 
+• Tree-of-Heaven — 
+• Tree of Heaven: Control Strategies — 
+• Tree-of-Heaven: Best Herbicide Treatment and Removal Timing — 
+• Worldwide Feeding Host Plants of Spotted Lanternfly, With Significant Additions From North America — 
+• Ailanthus Webworm Moth — </description>
+      <itunes:summary>An honest reckoning with the invasive tree every East Coast designer has to identify and talk clients through removing: origin, the diagnostic features that separate it from sumac and walnut, why it wins on the worst sites, and the herbicide timing window that happens to be open right now in early August.
+
+In this episode:
+• Ailanthus altissima (Ailanthus, Copal Tree, Paradise Tree, Stinking Sumac, Tree of Heaven, Varnish Tree) — 
+• Tree-of-Heaven — 
+• Tree of Heaven: Control Strategies — 
+• Tree-of-Heaven: Best Herbicide Treatment and Removal Timing — 
+• Worldwide Feeding Host Plants of Spotted Lanternfly, With Significant Additions From North America — 
+• Ailanthus Webworm Moth — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-150012.mp3" length="9290589" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-150012.mp3#9290589</guid>
+      <pubDate>Wed, 05 Aug 2026 19:14:58 +0000</pubDate>
+      <itunes:duration>12:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Beautyberry (Callicarpa)</title>
       <description>A deep dive on Callicarpa, the beautyberry genus, right as its fruit clusters start coloring up for late summer: the Southeastern native Callicarpa americana against the smaller, showier Asian species that increasingly compete with it in East Coast gardens, plus the invasiveness concern designers need to know before specifying the wrong one.
@@ -1261,48 +1287,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-26-150007.mp3#13050644</guid>
       <pubDate>Tue, 26 May 2026 19:21:02 +0000</pubDate>
       <itunes:duration>17:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Native Deciduous Azaleas (Rhododendron)</title>
-      <description>The eastern native deciduous azaleas are one of the most underused plant groups in East Coast garden design — a genus with bloom succession running from March to August, extraordinary fragrance variation, and tight ecological relationships unavailable from any hybrid. This episode covers the seven key species a designer needs to know, their cultural requirements and failure modes in real East Coast conditions, the specialist bee and sphinx moth that depend on them, and how to think about the native species versus the hybrid trade stock.
-
-In this episode:
-• Our Eastern Native Azaleas in the Twenty-first Century — 
-• Rhododendron periclymenoides (Pinxterbloom Azalea) — 
-• Rhododendron calendulaceum (Flame Azalea) — 
-• Rhododendron atlanticum (Coastal Azalea) — 
-• Rhododendron (genus overview) — 
-• Pinxterbloom Azalea (Rhododendron periclymenoides) — 
-• Flame Azalea (Rhododendron calendulaceum) — 
-• Sweet Azalea (Rhododendron arborescens) — 
-• Piedmont Azalea (Rhododendron canescens) — 
-• Native Azaleas — 
-• Planting Native Azaleas Successfully in Clay Soil — 
-• Pink Azalea: Native Shrub for Pollinators — 
-• Azalea Sphinx (Darapsa choerilus) — 
-• Azaleas and Home Gardens — </description>
-      <itunes:summary>The eastern native deciduous azaleas are one of the most underused plant groups in East Coast garden design — a genus with bloom succession running from March to August, extraordinary fragrance variation, and tight ecological relationships unavailable from any hybrid. This episode covers the seven key species a designer needs to know, their cultural requirements and failure modes in real East Coast conditions, the specialist bee and sphinx moth that depend on them, and how to think about the native species versus the hybrid trade stock.
-
-In this episode:
-• Our Eastern Native Azaleas in the Twenty-first Century — 
-• Rhododendron periclymenoides (Pinxterbloom Azalea) — 
-• Rhododendron calendulaceum (Flame Azalea) — 
-• Rhododendron atlanticum (Coastal Azalea) — 
-• Rhododendron (genus overview) — 
-• Pinxterbloom Azalea (Rhododendron periclymenoides) — 
-• Flame Azalea (Rhododendron calendulaceum) — 
-• Sweet Azalea (Rhododendron arborescens) — 
-• Piedmont Azalea (Rhododendron canescens) — 
-• Native Azaleas — 
-• Planting Native Azaleas Successfully in Clay Soil — 
-• Pink Azalea: Native Shrub for Pollinators — 
-• Azalea Sphinx (Darapsa choerilus) — 
-• Azaleas and Home Gardens — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-25-153145.mp3" length="16356821" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-05-25-153145.mp3#16356821</guid>
-      <pubDate>Mon, 25 May 2026 20:13:42 +0000</pubDate>
-      <itunes:duration>22:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
