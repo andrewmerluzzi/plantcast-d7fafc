@@ -22,7 +22,39 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 10 Aug 2026 15:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:09:25 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Pink Muhly Grass (Muhlenbergia capillaris)</title>
+      <description>A deep dive on Muhlenbergia capillaris, the East Coast native grass whose pink autumn haze has made it one of the most overplanted and most misidentified ornamental grasses in the trade. Covers the taxonomic mess with Muhlenbergia sericea, real culture and hardiness limits, the cultivar landscape, and where it actually earns its keep in a design. Closes with a review quiz on Symphyotrichum, Lobelia, Ilex, Liatris, Silphium, and Microstegium vimineum.
+
+In this episode:
+• Muhlenbergia capillaris (Gulf Muhly, Muhly Grass) — 
+• Muhlenbergia capillaris - Plant Finder — 
+• Muhlenbergia capillaris (muca2) — 
+• Muhlenbergia sericea (Dune Hairgrass, Sweetgrass) — 
+• Pink Muhly Grass - A Plant You Thought You Knew — 
+• Muhlenbergia 'Pink Flamingos' (Pink Flamingo Muhly) — 
+• Rain Garden Plants: Muhlenbergia capillaris – Muhly Grass — 
+• Muhlenbergia capillaris and cultivars — 
+• Muhlenbergia capillaris 'Fast Forward' — </description>
+      <itunes:summary>A deep dive on Muhlenbergia capillaris, the East Coast native grass whose pink autumn haze has made it one of the most overplanted and most misidentified ornamental grasses in the trade. Covers the taxonomic mess with Muhlenbergia sericea, real culture and hardiness limits, the cultivar landscape, and where it actually earns its keep in a design. Closes with a review quiz on Symphyotrichum, Lobelia, Ilex, Liatris, Silphium, and Microstegium vimineum.
+
+In this episode:
+• Muhlenbergia capillaris (Gulf Muhly, Muhly Grass) — 
+• Muhlenbergia capillaris - Plant Finder — 
+• Muhlenbergia capillaris (muca2) — 
+• Muhlenbergia sericea (Dune Hairgrass, Sweetgrass) — 
+• Pink Muhly Grass - A Plant You Thought You Knew — 
+• Muhlenbergia 'Pink Flamingos' (Pink Flamingo Muhly) — 
+• Rain Garden Plants: Muhlenbergia capillaris – Muhly Grass — 
+• Muhlenbergia capillaris and cultivars — 
+• Muhlenbergia capillaris 'Fast Forward' — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-11-150006.mp3" length="9249531" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-11-150006.mp3#9249531</guid>
+      <pubDate>Tue, 11 Aug 2026 19:09:24 +0000</pubDate>
+      <itunes:duration>12:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Japanese Stiltgrass (Microstegium vimineum)</title>
       <description>A deep dive on Microstegium vimineum, the shade-tolerant Asian annual grass now blanketing floodplains and forest understories up and down the East Coast. We cover the diagnostic silvery midrib, how to separate it from native whitegrass and basket grass, why its unusual shade-adapted physiology and deer-proof palatability make it such an effective invader, and the multi-year herbicide and hand-pulling strategy that actually works — with a note on why late summer is the critical action window.
@@ -1269,30 +1301,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-04-150005.mp3#11396463</guid>
       <pubDate>Thu, 04 Jun 2026 19:13:44 +0000</pubDate>
       <itunes:duration>15:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Virginia Sweetspire (Itea virginica)</title>
-      <description>Itea virginica is in full bloom right now across the East Coast — and it may be the most underused three-season native shrub in the designer's toolkit. This episode covers the plant's riparian origins and what its Obligate Wetland status means for specification, the non-obvious suckering behavior that defines how you use it, its spectacular fall color and how to guarantee it, and a detailed cultivar breakdown from Henry's Garnet to the newer compact selections.
-
-In this episode:
-• Itea virginica — North Carolina Extension Gardener Plant Toolbox — 
-• Itea virginica 'Henry's Garnet' — North Carolina Extension Gardener Plant Toolbox — 
-• Itea virginica 'Henry's Garnet' — Plant Finder — 
-• Virginia Sweetspire — Home and Garden Information Center — 
-• Virginia Sweetspire — Piedmont Master Gardeners — </description>
-      <itunes:summary>Itea virginica is in full bloom right now across the East Coast — and it may be the most underused three-season native shrub in the designer's toolkit. This episode covers the plant's riparian origins and what its Obligate Wetland status means for specification, the non-obvious suckering behavior that defines how you use it, its spectacular fall color and how to guarantee it, and a detailed cultivar breakdown from Henry's Garnet to the newer compact selections.
-
-In this episode:
-• Itea virginica — North Carolina Extension Gardener Plant Toolbox — 
-• Itea virginica 'Henry's Garnet' — North Carolina Extension Gardener Plant Toolbox — 
-• Itea virginica 'Henry's Garnet' — Plant Finder — 
-• Virginia Sweetspire — Home and Garden Information Center — 
-• Virginia Sweetspire — Piedmont Master Gardeners — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-03-200128.mp3" length="11154480" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-03-200128.mp3#11154480</guid>
-      <pubDate>Thu, 04 Jun 2026 00:11:33 +0000</pubDate>
-      <itunes:duration>15:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
