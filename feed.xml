@@ -22,7 +22,35 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 12 Aug 2026 19:09:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:06:48 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Turtlehead (Chelone)</title>
+      <description>A late-summer deep dive on Chelone, the turtlehead genus: how to tell glabra, lyonii, and obliqua apart in the field, why bumblebees are practically the only pollinator strong enough to work the flower, and where this moisture-loving native earns its keep in rain gardens and pondside plantings. Closes with a recall quiz on Helianthus, Clematis, and Aronia.
+
+In this episode:
+• Chelone glabra — 
+• Chelone lyonii — 
+• Chelone obliqua — 
+• Hot Lips Lyon's turtlehead (Chelone lyonii 'Hot Lips') — 
+• Turtlehead Flowering &amp; Being Pollinated By Bumble Bees — 
+• Chelone lyonii (pink turtlehead) — 
+• Chelone lyonii 'Hot Lips' — </description>
+      <itunes:summary>A late-summer deep dive on Chelone, the turtlehead genus: how to tell glabra, lyonii, and obliqua apart in the field, why bumblebees are practically the only pollinator strong enough to work the flower, and where this moisture-loving native earns its keep in rain gardens and pondside plantings. Closes with a recall quiz on Helianthus, Clematis, and Aronia.
+
+In this episode:
+• Chelone glabra — 
+• Chelone lyonii — 
+• Chelone obliqua — 
+• Hot Lips Lyon's turtlehead (Chelone lyonii 'Hot Lips') — 
+• Turtlehead Flowering &amp; Being Pollinated By Bumble Bees — 
+• Chelone lyonii (pink turtlehead) — 
+• Chelone lyonii 'Hot Lips' — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-13-150009.mp3" length="7303491" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-13-150009.mp3#7303491</guid>
+      <pubDate>Thu, 13 Aug 2026 19:06:48 +0000</pubDate>
+      <itunes:duration>9:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Chokeberry (Aronia)</title>
       <description>A deep dive on the East Coast native genus Aronia — black, red, and purple chokeberry — covering the leaf-level diagnostics that separate the three taxa, a taxonomic tug-of-war with Photinia now settled by molecular phylogenomics, and why this is the most site-flexible native fruiting shrub for wet-to-dry Eastern gardens. Closes with a recall quiz on Actaea and Muhlenbergia capillaris.
@@ -1279,40 +1307,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-07-150000.mp3#11499928</guid>
       <pubDate>Sun, 07 Jun 2026 19:12:38 +0000</pubDate>
       <itunes:duration>15:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Coneflower (Echinacea)</title>
-      <description>Echinacea is one of the most planted perennial genera in American gardens, yet few designers know the native-range story well enough to use it honestly in a Mid-Atlantic or Northeastern spec. This episode covers all nine species with an East Coast lens — which ones actually belong here and which don't — then digs into the ecology, the interspecific hybrid explosion, and the definitive Mount Cuba trial findings from 2018 to 2020 on cultivar performance, pollinator value, and longevity. Followed by a spaced-repetition quiz on Cornus florida, Tiarella, and Panicum virgatum.
-
-In this episode:
-• Echinacea for the Mid-Atlantic Region — 
-• Which Echinacea Perform Best? With Sam Hoadley of Mt. Cuba Center — 
-• Echinacea Trials at Mt. Cuba Center — 
-• Echinacea purpurea — NC State Extension Gardener Plant Toolbox — 
-• How to Grow Echinacea (Coneflower): Care, Cultivars and Common Problems — 
-• Not Native Here: Purple Coneflower — 
-• Echinacea purpurea — Plant Finder — 
-• Smooth Coneflower (Echinacea laevigata) — 
-• Coneflowers: Native vs. Hybrid — 
-• Digital Atlas of the Virginia Flora — Echinacea purpurea — </description>
-      <itunes:summary>Echinacea is one of the most planted perennial genera in American gardens, yet few designers know the native-range story well enough to use it honestly in a Mid-Atlantic or Northeastern spec. This episode covers all nine species with an East Coast lens — which ones actually belong here and which don't — then digs into the ecology, the interspecific hybrid explosion, and the definitive Mount Cuba trial findings from 2018 to 2020 on cultivar performance, pollinator value, and longevity. Followed by a spaced-repetition quiz on Cornus florida, Tiarella, and Panicum virgatum.
-
-In this episode:
-• Echinacea for the Mid-Atlantic Region — 
-• Which Echinacea Perform Best? With Sam Hoadley of Mt. Cuba Center — 
-• Echinacea Trials at Mt. Cuba Center — 
-• Echinacea purpurea — NC State Extension Gardener Plant Toolbox — 
-• How to Grow Echinacea (Coneflower): Care, Cultivars and Common Problems — 
-• Not Native Here: Purple Coneflower — 
-• Echinacea purpurea — Plant Finder — 
-• Smooth Coneflower (Echinacea laevigata) — 
-• Coneflowers: Native vs. Hybrid — 
-• Digital Atlas of the Virginia Flora — Echinacea purpurea — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-06-150000.mp3" length="15593504" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-06-150000.mp3#15593504</guid>
-      <pubDate>Sat, 06 Jun 2026 19:16:51 +0000</pubDate>
-      <itunes:duration>21:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
