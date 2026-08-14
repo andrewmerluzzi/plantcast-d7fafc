@@ -22,7 +22,37 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 13 Aug 2026 19:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:08:02 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Franklin Tree (Franklinia alatamaha)</title>
+      <description>A deep dive on Franklinia alatamaha, the Georgia native that has been extinct in the wild for two centuries and survives only as cultivated descendants of William Bartram's original seed collection. We cover the extinction mystery, the narrow cultural window that makes it a specimen rather than a workhorse, its late-summer-into-fall bloom that fills a real calendar gap, and how to weigh it against Stewartia pseudocamellia and Gordonia lasianthus in a design. Closes with a recall quiz on Pycnanthemum, Microstegium vimineum, and Chelone.
+
+In this episode:
+• Franklinia alatamaha (Franklinia, Franklin Tree) — 
+• Franklinia alatamaha - Plant Finder — 
+• Franklinia alatamaha (Franklin tree) — 
+• Franklinia — 
+• Pycnanthemum for the Mid-Atlantic Region — 
+• Stilt Grass - Microstegium vimineum — 
+• Controlling Japanese Stiltgrass — 
+• Turtlehead Tests Bumblebees' Mettle — </description>
+      <itunes:summary>A deep dive on Franklinia alatamaha, the Georgia native that has been extinct in the wild for two centuries and survives only as cultivated descendants of William Bartram's original seed collection. We cover the extinction mystery, the narrow cultural window that makes it a specimen rather than a workhorse, its late-summer-into-fall bloom that fills a real calendar gap, and how to weigh it against Stewartia pseudocamellia and Gordonia lasianthus in a design. Closes with a recall quiz on Pycnanthemum, Microstegium vimineum, and Chelone.
+
+In this episode:
+• Franklinia alatamaha (Franklinia, Franklin Tree) — 
+• Franklinia alatamaha - Plant Finder — 
+• Franklinia alatamaha (Franklin tree) — 
+• Franklinia — 
+• Pycnanthemum for the Mid-Atlantic Region — 
+• Stilt Grass - Microstegium vimineum — 
+• Controlling Japanese Stiltgrass — 
+• Turtlehead Tests Bumblebees' Mettle — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-14-150013.mp3" length="7914459" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-14-150013.mp3#7914459</guid>
+      <pubDate>Fri, 14 Aug 2026 19:08:01 +0000</pubDate>
+      <itunes:duration>10:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Turtlehead (Chelone)</title>
       <description>A late-summer deep dive on Chelone, the turtlehead genus: how to tell glabra, lyonii, and obliqua apart in the field, why bumblebees are practically the only pollinator strong enough to work the flower, and where this moisture-loving native earns its keep in rain gardens and pondside plantings. Closes with a recall quiz on Helianthus, Clematis, and Aronia.
@@ -1281,32 +1311,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-08-150006.mp3#12757865</guid>
       <pubDate>Mon, 08 Jun 2026 19:14:54 +0000</pubDate>
       <itunes:duration>17:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Sweetbay Magnolia (Magnolia virginiana)</title>
-      <description>Sweetbay magnolia — Magnolia virginiana — is in bloom across the East Coast coastal plain this week, and it is one of the most underused native trees in the design palette. This episode covers the essential distinction between northern and southern botanical varieties, the plant's unmatched wet-soil tolerance among magnolias, its three-month fragrance season, and its ecological relationships with the sweetbay silkmoth and tiger swallowtails. Cultivar selection for cold-hardy garden use, key companions, and design applications round out the episode, followed by a recall quiz on Echinacea, Hydrangea, and Asclepias.
-
-In this episode:
-• Magnolia virginiana — NC State Extension Gardener Plant Toolbox — 
-• Magnolia virginiana — Trees and Shrubs Online — 
-• Magnolia virginiana — Plant Finder — 
-• Sweetbay Magnolia — Lady Bird Johnson Wildflower Center — 
-• Sweetbay Magnolia (Magnolia virginiana) — Species Spotlight — 
-• SWEETBAY Magnolia virginiana — Plant Materials — </description>
-      <itunes:summary>Sweetbay magnolia — Magnolia virginiana — is in bloom across the East Coast coastal plain this week, and it is one of the most underused native trees in the design palette. This episode covers the essential distinction between northern and southern botanical varieties, the plant's unmatched wet-soil tolerance among magnolias, its three-month fragrance season, and its ecological relationships with the sweetbay silkmoth and tiger swallowtails. Cultivar selection for cold-hardy garden use, key companions, and design applications round out the episode, followed by a recall quiz on Echinacea, Hydrangea, and Asclepias.
-
-In this episode:
-• Magnolia virginiana — NC State Extension Gardener Plant Toolbox — 
-• Magnolia virginiana — Trees and Shrubs Online — 
-• Magnolia virginiana — Plant Finder — 
-• Sweetbay Magnolia — Lady Bird Johnson Wildflower Center — 
-• Sweetbay Magnolia (Magnolia virginiana) — Species Spotlight — 
-• SWEETBAY Magnolia virginiana — Plant Materials — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-07-150000.mp3" length="11499928" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-07-150000.mp3#11499928</guid>
-      <pubDate>Sun, 07 Jun 2026 19:12:38 +0000</pubDate>
-      <itunes:duration>15:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
