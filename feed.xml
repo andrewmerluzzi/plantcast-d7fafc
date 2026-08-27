@@ -22,7 +22,33 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 26 Aug 2026 19:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:14:14 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — American Persimmon (Diospyros virginiana)</title>
+      <description>A deep dive on American persimmon, the alligator-barked native tree quietly loading up with fruit right now. We cover its dioecious biology and the practical headaches that creates for designers, its real ecological payload as a Saturniid moth host, the persimmon wilt disease that can take out a mature specimen fast, and which grafted cultivars are worth specifying for edible landscape work.
+
+In this episode:
+• Persimmon - Diospyros virginiana — 
+• Diospyros virginiana - Plant Finder — 
+• Diospyros virginiana — 
+• Cephalosporium wilt of persimmon — 
+• Native Persimmon in the Garden and the Kitchen — 
+• Common Persimmon - Diospyros virginiana — </description>
+      <itunes:summary>A deep dive on American persimmon, the alligator-barked native tree quietly loading up with fruit right now. We cover its dioecious biology and the practical headaches that creates for designers, its real ecological payload as a Saturniid moth host, the persimmon wilt disease that can take out a mature specimen fast, and which grafted cultivars are worth specifying for edible landscape work.
+
+In this episode:
+• Persimmon - Diospyros virginiana — 
+• Diospyros virginiana - Plant Finder — 
+• Diospyros virginiana — 
+• Cephalosporium wilt of persimmon — 
+• Native Persimmon in the Garden and the Kitchen — 
+• Common Persimmon - Diospyros virginiana — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-27-120113.mp3" length="7242072" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-27-120113.mp3#7242072</guid>
+      <pubDate>Thu, 27 Aug 2026 16:14:14 +0000</pubDate>
+      <itunes:duration>9:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Purple Passionflower (Passiflora incarnata)</title>
       <description>A deep dive on Passiflora incarnata, the East Coast's hardy native passionflower, at the peak of its midsummer-into-fall bloom and fruit set. Covers its perennial-vine habit and root-suckering spread, the real fritillary host relationship on the East Coast, where it earns a place in a design versus where it becomes a management headache, and how it stacks up against native Passiflora lutea and the tropical hybrid Incense.
@@ -1265,40 +1291,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-30-150008.mp3#11701151</guid>
       <pubDate>Tue, 30 Jun 2026 19:20:05 +0000</pubDate>
       <itunes:duration>16:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Cardinal Flower and Great Blue Lobelia (Lobelia)</title>
-      <description>Today's episode covers the genus Lobelia, focusing on the two East Coast natives at the heart of late-summer moist-meadow design: cardinal flower (Lobelia cardinalis) and great blue lobelia (Lobelia siphilitica). The episode examines their contrasting pollinator ecologies — hummingbird versus bumblebee — the short-lived perennial management strategies every designer needs, key cultivars from Queen Victoria to the hybrid speciosa complex, and how to site and combine these plants for maximum effect.
-
-In this episode:
-• Lobelia cardinalis (Cardinal Flower) — 
-• Lobelia siphilitica (Great Blue Lobelia) — 
-• Lobelia puberula (Downy Lobelia) — 
-• Lobelia cardinalis — Plant Finder — 
-• Lobelia siphilitica — Plant Finder — 
-• Cardinal Flower (Lobelia cardinalis) — 
-• Cardinal Flower (Lobelia cardinalis) — 
-• Great Blue Lobelia (Lobelia siphilitica) — 
-• Great Blue Lobelia — 
-• Cardinal Flower — Spectacular Scarlet Blossoms That Hummingbirds Adore — </description>
-      <itunes:summary>Today's episode covers the genus Lobelia, focusing on the two East Coast natives at the heart of late-summer moist-meadow design: cardinal flower (Lobelia cardinalis) and great blue lobelia (Lobelia siphilitica). The episode examines their contrasting pollinator ecologies — hummingbird versus bumblebee — the short-lived perennial management strategies every designer needs, key cultivars from Queen Victoria to the hybrid speciosa complex, and how to site and combine these plants for maximum effect.
-
-In this episode:
-• Lobelia cardinalis (Cardinal Flower) — 
-• Lobelia siphilitica (Great Blue Lobelia) — 
-• Lobelia puberula (Downy Lobelia) — 
-• Lobelia cardinalis — Plant Finder — 
-• Lobelia siphilitica — Plant Finder — 
-• Cardinal Flower (Lobelia cardinalis) — 
-• Cardinal Flower (Lobelia cardinalis) — 
-• Great Blue Lobelia (Lobelia siphilitica) — 
-• Great Blue Lobelia — 
-• Cardinal Flower — Spectacular Scarlet Blossoms That Hummingbirds Adore — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-29-150003.mp3" length="10393387" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-29-150003.mp3#10393387</guid>
-      <pubDate>Mon, 29 Jun 2026 19:19:31 +0000</pubDate>
-      <itunes:duration>14:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
