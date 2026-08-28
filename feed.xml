@@ -22,7 +22,35 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 27 Aug 2026 16:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:05:18 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Bittersweet (Celastrus)</title>
+      <description>A genus episode on Celastrus: the declining native Celastrus scandens versus the aggressively invasive Celastrus orbiculatus, with a hard focus on field identification, the nursery-trade mislabeling problem, and why this genus matters for anyone managing existing East Coast properties right now, as fruit capsules are splitting open. Covers structural damage to trees, hybridization risk, and what to actually plant instead.
+
+In this episode:
+• American Bittersweet - Celastrus scandens — 
+• Celastrus orbiculatus (Asian Bittersweet, Chinese Bittersweet, Oriental Bittersweet) — 
+• American Bittersweet (Celastrus scandens) vs Oriental Bittersweet (Celastrus orbiculatus): Identification — 
+• Invasives in Your Woodland: Oriental Bittersweet — 
+• Oriental Bittersweet — 
+• Mislabeling of an invasive vine (Celastrus orbiculatus) as a native congener (C. scandens) in horticulture — 
+• Euonymus Scale — </description>
+      <itunes:summary>A genus episode on Celastrus: the declining native Celastrus scandens versus the aggressively invasive Celastrus orbiculatus, with a hard focus on field identification, the nursery-trade mislabeling problem, and why this genus matters for anyone managing existing East Coast properties right now, as fruit capsules are splitting open. Covers structural damage to trees, hybridization risk, and what to actually plant instead.
+
+In this episode:
+• American Bittersweet - Celastrus scandens — 
+• Celastrus orbiculatus (Asian Bittersweet, Chinese Bittersweet, Oriental Bittersweet) — 
+• American Bittersweet (Celastrus scandens) vs Oriental Bittersweet (Celastrus orbiculatus): Identification — 
+• Invasives in Your Woodland: Oriental Bittersweet — 
+• Oriental Bittersweet — 
+• Mislabeling of an invasive vine (Celastrus orbiculatus) as a native congener (C. scandens) in horticulture — 
+• Euonymus Scale — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-28-150005.mp3" length="8272114" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-28-150005.mp3#8272114</guid>
+      <pubDate>Fri, 28 Aug 2026 19:05:18 +0000</pubDate>
+      <itunes:duration>11:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — American Persimmon (Diospyros virginiana)</title>
       <description>A deep dive on American persimmon, the alligator-barked native tree quietly loading up with fruit right now. We cover its dioecious biology and the practical headaches that creates for designers, its real ecological payload as a Saturniid moth host, the persimmon wilt disease that can take out a mature specimen fast, and which grafted cultivars are worth specifying for edible landscape work.
@@ -1259,38 +1287,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-01-150007.mp3#9478343</guid>
       <pubDate>Wed, 01 Jul 2026 19:16:15 +0000</pubDate>
       <itunes:duration>12:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Hollies (Ilex)</title>
-      <description>The genus Ilex — the hollies — is foundational infrastructure for East Coast gardens and one of the most ecologically significant native genera in the region. This episode works through the four principal native species (American holly, winterberry, inkberry, and yaupon), the dioecious pairing system every designer must master, cultivar selection for winterberry and inkberry, and the ecological relationships — a specialist oligolectic bee, two Atlantic coastal butterfly species, and a documented list of nearly fifty bird species — that make this genus irreplaceable. Closes with a quiz on Lobelia.
-
-In this episode:
-• Ilex (Hollies) — Plant Toolbox — 
-• Ilex opaca (American Holly) — Plant Toolbox — 
-• Ilex verticillata (Winterberry) — Plant Toolbox — 
-• Ilex glabra (Inkberry) — Plant Toolbox — 
-• Ilex vomitoria (Yaupon) — Plant Toolbox — 
-• Winterberry (Ilex verticillata) — 
-• Henry's Elfin (Callophrys henrici) — 
-• Celastrina idella (Holly Azure) — 
-• The Real Story of Ilex vomitoria — </description>
-      <itunes:summary>The genus Ilex — the hollies — is foundational infrastructure for East Coast gardens and one of the most ecologically significant native genera in the region. This episode works through the four principal native species (American holly, winterberry, inkberry, and yaupon), the dioecious pairing system every designer must master, cultivar selection for winterberry and inkberry, and the ecological relationships — a specialist oligolectic bee, two Atlantic coastal butterfly species, and a documented list of nearly fifty bird species — that make this genus irreplaceable. Closes with a quiz on Lobelia.
-
-In this episode:
-• Ilex (Hollies) — Plant Toolbox — 
-• Ilex opaca (American Holly) — Plant Toolbox — 
-• Ilex verticillata (Winterberry) — Plant Toolbox — 
-• Ilex glabra (Inkberry) — Plant Toolbox — 
-• Ilex vomitoria (Yaupon) — Plant Toolbox — 
-• Winterberry (Ilex verticillata) — 
-• Henry's Elfin (Callophrys henrici) — 
-• Celastrina idella (Holly Azure) — 
-• The Real Story of Ilex vomitoria — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-30-150008.mp3" length="11701151" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-06-30-150008.mp3#11701151</guid>
-      <pubDate>Tue, 30 Jun 2026 19:20:05 +0000</pubDate>
-      <itunes:duration>16:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
