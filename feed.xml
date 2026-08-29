@@ -22,7 +22,35 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 28 Aug 2026 19:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 19:05:07 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — River Oats (Chasmanthium latifolium)</title>
+      <description>A deep dive on Chasmanthium latifolium, the East Coast's best broad-leaved grass for shade, covering its taxonomic split from true coastal sea oats, its aggressive self-seeding habit, larval host value, and where it actually earns a spot in a shaded planting plan. Closes with a recall quiz on Polystichum acrostichoides, Eupatorium, and Celastrus.
+
+In this episode:
+• Chasmanthium latifolium (Indian Wood Oats, Inland Sea Oats, Northern Sea Oats, River Oats) — 
+• Chasmanthium latifolium - Plant Finder — 
+• Wild oats (Chasmanthium latifolium) — 
+• Chasmanthium latifolium (Inland sea oats) — 
+• Chasmanthium latifolium (River Oats) — 
+• Chasmanthium plant named 'River Mist' (US Plant Patent PP20,643) — 
+• chasmanthium, a native grass for shade — </description>
+      <itunes:summary>A deep dive on Chasmanthium latifolium, the East Coast's best broad-leaved grass for shade, covering its taxonomic split from true coastal sea oats, its aggressive self-seeding habit, larval host value, and where it actually earns a spot in a shaded planting plan. Closes with a recall quiz on Polystichum acrostichoides, Eupatorium, and Celastrus.
+
+In this episode:
+• Chasmanthium latifolium (Indian Wood Oats, Inland Sea Oats, Northern Sea Oats, River Oats) — 
+• Chasmanthium latifolium - Plant Finder — 
+• Wild oats (Chasmanthium latifolium) — 
+• Chasmanthium latifolium (Inland sea oats) — 
+• Chasmanthium latifolium (River Oats) — 
+• Chasmanthium plant named 'River Mist' (US Plant Patent PP20,643) — 
+• chasmanthium, a native grass for shade — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-29-150004.mp3" length="7307895" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-29-150004.mp3#7307895</guid>
+      <pubDate>Sat, 29 Aug 2026 19:05:07 +0000</pubDate>
+      <itunes:duration>9:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Bittersweet (Celastrus)</title>
       <description>A genus episode on Celastrus: the declining native Celastrus scandens versus the aggressively invasive Celastrus orbiculatus, with a hard focus on field identification, the nursery-trade mislabeling problem, and why this genus matters for anyone managing existing East Coast properties right now, as fruit capsules are splitting open. Covers structural damage to trees, hybridization risk, and what to actually plant instead.
@@ -1257,36 +1285,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-02-150010.mp3#11763543</guid>
       <pubDate>Thu, 02 Jul 2026 19:24:30 +0000</pubDate>
       <itunes:duration>16:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Blazing Star (Liatris)</title>
-      <description>Midsummer fires up the blazing stars. This episode covers the full genus Liatris: which species are genuinely native to the East Coast versus the Midwest prairie species the trade routinely mislabels, and why drainage is the single biggest failure point in real gardens. We also dig into the specialist moth relationships that make Liatris ecologically irreplaceable and the cultivar lines that perform reliably across the Mid-Atlantic and Northeast.
-
-In this episode:
-• Liatris (Blazing Stars, Gay Feather) — 
-• Liatris spicata (Dense Blazing Star) — 
-• Liatris scariosa (Large Blazing Star) — 
-• Liatris — 
-• Northern Blazing Star (Liatris scariosa var. novae-angliae) — 
-• New England Blazing Star (Liatris scariosa var. novae-angliae) — 
-• Plants for Pollinators: Blazingstar — 
-• Mt. Cuba Center Trial Garden — </description>
-      <itunes:summary>Midsummer fires up the blazing stars. This episode covers the full genus Liatris: which species are genuinely native to the East Coast versus the Midwest prairie species the trade routinely mislabels, and why drainage is the single biggest failure point in real gardens. We also dig into the specialist moth relationships that make Liatris ecologically irreplaceable and the cultivar lines that perform reliably across the Mid-Atlantic and Northeast.
-
-In this episode:
-• Liatris (Blazing Stars, Gay Feather) — 
-• Liatris spicata (Dense Blazing Star) — 
-• Liatris scariosa (Large Blazing Star) — 
-• Liatris — 
-• Northern Blazing Star (Liatris scariosa var. novae-angliae) — 
-• New England Blazing Star (Liatris scariosa var. novae-angliae) — 
-• Plants for Pollinators: Blazingstar — 
-• Mt. Cuba Center Trial Garden — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-01-150007.mp3" length="9478343" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-01-150007.mp3#9478343</guid>
-      <pubDate>Wed, 01 Jul 2026 19:16:15 +0000</pubDate>
-      <itunes:duration>12:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
