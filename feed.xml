@@ -22,7 +22,35 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 01 Sep 2026 19:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:08:48 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Fothergilla (Fothergilla)</title>
+      <description>A genus deep dive on Fothergilla, the witch-hazel-family shrub that's about to earn its keep as fall color ramps up. We cover the real taxonomy behind the two garden species, why almost everything sold is actually a natural hybrid discovered in a Cincinnati arboretum, the culture failure points that actually matter, and how the cultivar lineup — Mount Airy, Blue Shadow, Beaver Creek, Blue Mist — sorts out by size and color.
+
+In this episode:
+• Fothergilla gardenii (Coastal Witch-alder, Dwarf Fothergilla) — 
+• Fothergilla major — 
+• Revision of Fothergilla (Hamamelidaceae), including resurrection of Fothergilla parvifolia and description of Fothergilla milleri — 
+• Who's Your Daddy? Fothergilla in Forests and Yards — 
+• Fothergilla — 
+• Chasmanthium latifolium (Indian Wood Oats, Inland Sea Oats, Northern Sea Oats) — 
+• Eurybia divaricata (White Heart-leaved Aster, White Star Aster) — </description>
+      <itunes:summary>A genus deep dive on Fothergilla, the witch-hazel-family shrub that's about to earn its keep as fall color ramps up. We cover the real taxonomy behind the two garden species, why almost everything sold is actually a natural hybrid discovered in a Cincinnati arboretum, the culture failure points that actually matter, and how the cultivar lineup — Mount Airy, Blue Shadow, Beaver Creek, Blue Mist — sorts out by size and color.
+
+In this episode:
+• Fothergilla gardenii (Coastal Witch-alder, Dwarf Fothergilla) — 
+• Fothergilla major — 
+• Revision of Fothergilla (Hamamelidaceae), including resurrection of Fothergilla parvifolia and description of Fothergilla milleri — 
+• Who's Your Daddy? Fothergilla in Forests and Yards — 
+• Fothergilla — 
+• Chasmanthium latifolium (Indian Wood Oats, Inland Sea Oats, Northern Sea Oats) — 
+• Eurybia divaricata (White Heart-leaved Aster, White Star Aster) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-02-150000.mp3" length="7731381" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-02-150000.mp3#7731381</guid>
+      <pubDate>Wed, 02 Sep 2026 19:08:47 +0000</pubDate>
+      <itunes:duration>10:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Wood Asters (Eurybia)</title>
       <description>A genus-level look at Eurybia, the wood asters, covering the nineteen-nineties split from Aster, the three East Coast garden species (white wood aster, large-leaf aster, and the coastal showy wood aster), culture and habit in dry shade, cultivar performance including Eastern Star, and how it plays against Symphyotrichum in design. Closes with a five-plant spaced-repetition review.
@@ -1247,36 +1275,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-05-084803.mp3#9273981</guid>
       <pubDate>Sun, 05 Jul 2026 12:58:40 +0000</pubDate>
       <itunes:duration>12:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Sourwood (Oxydendrum arboreum)</title>
-      <description>Oxydendrum arboreum, sourwood, is a small native tree in the Ericaceae family that blooms in midsummer — right now — filling a genuine gap in the designer's woody-plant flowering calendar. This episode covers its native range in the Appalachian corridor, its strict soil requirements, the exceptional four-season ornamental sequence, its outsize value for honey bees and specialist Lepidoptera, and where it earns a place on the East Coast property list.
-
-In this episode:
-• Oxydendrum arboreum (Lily of the Valley Tree, Sorrel Tree, Sourwood) — 
-• Oxydendrum arboreum (Sourwood) Plant Finder — 
-• Sourwood — Silvics of North America — 
-• Oxydendrum arboreum — Trees and Shrubs Online — 
-• Oxydendrum arboreum — Woody Plants Database — 
-• Oxydendrum arboreum (Sourwood) — 
-• Sourwood, Oxydendrum arboreum — Leaves for Wildlife — 
-• Species Spotlight — Oxydendrum arboreum (Sourwood) — </description>
-      <itunes:summary>Oxydendrum arboreum, sourwood, is a small native tree in the Ericaceae family that blooms in midsummer — right now — filling a genuine gap in the designer's woody-plant flowering calendar. This episode covers its native range in the Appalachian corridor, its strict soil requirements, the exceptional four-season ornamental sequence, its outsize value for honey bees and specialist Lepidoptera, and where it earns a place on the East Coast property list.
-
-In this episode:
-• Oxydendrum arboreum (Lily of the Valley Tree, Sorrel Tree, Sourwood) — 
-• Oxydendrum arboreum (Sourwood) Plant Finder — 
-• Sourwood — Silvics of North America — 
-• Oxydendrum arboreum — Trees and Shrubs Online — 
-• Oxydendrum arboreum — Woody Plants Database — 
-• Oxydendrum arboreum (Sourwood) — 
-• Sourwood, Oxydendrum arboreum — Leaves for Wildlife — 
-• Species Spotlight — Oxydendrum arboreum (Sourwood) — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-05-083649.mp3" length="10870473" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-05-083649.mp3#10870473</guid>
-      <pubDate>Sun, 05 Jul 2026 12:47:59 +0000</pubDate>
-      <itunes:duration>14:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
