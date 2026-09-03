@@ -22,7 +22,37 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 02 Sep 2026 19:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:30:31 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Witch Hazel (Hamamelis)</title>
+      <description>A deep dive on Hamamelis, the genus that flowers when nothing else will. We cover the native Hamamelis virginiana and its late-fall bloom, the Ozark-native Hamamelis vernalis, the Asian species behind the winter-blooming hybrids, and which Hamamelis x intermedia cultivars actually earn a spot on the East Coast. Quiz review covers Parthenocissus, Boltonia asteroides, and Fothergilla.
+
+In this episode:
+• Common Witchhazel - Hamamelis virginiana — 
+• Hamamelis virginiana - Plant Finder — 
+• Hamamelis x intermedia (Hybrid Witchhazel) — 
+• Hamamelis vernalis - Plant Finder — 
+• Hamamelis x intermedia 'Arnold Promise' - Plant Finder — 
+• Hybrid witch-hazels — 
+• Many to flower, few to fruit: the reproductive biology of Hamamelis virginiana — 
+• Which witch hazel should be in your yard? — </description>
+      <itunes:summary>A deep dive on Hamamelis, the genus that flowers when nothing else will. We cover the native Hamamelis virginiana and its late-fall bloom, the Ozark-native Hamamelis vernalis, the Asian species behind the winter-blooming hybrids, and which Hamamelis x intermedia cultivars actually earn a spot on the East Coast. Quiz review covers Parthenocissus, Boltonia asteroides, and Fothergilla.
+
+In this episode:
+• Common Witchhazel - Hamamelis virginiana — 
+• Hamamelis virginiana - Plant Finder — 
+• Hamamelis x intermedia (Hybrid Witchhazel) — 
+• Hamamelis vernalis - Plant Finder — 
+• Hamamelis x intermedia 'Arnold Promise' - Plant Finder — 
+• Hybrid witch-hazels — 
+• Many to flower, few to fruit: the reproductive biology of Hamamelis virginiana — 
+• Which witch hazel should be in your yard? — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-03-150005.mp3" length="7517907" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-03-150005.mp3#7517907</guid>
+      <pubDate>Thu, 03 Sep 2026 19:30:30 +0000</pubDate>
+      <itunes:duration>10:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Fothergilla (Fothergilla)</title>
       <description>A genus deep dive on Fothergilla, the witch-hazel-family shrub that's about to earn its keep as fall color ramps up. We cover the real taxonomy behind the two garden species, why almost everything sold is actually a natural hybrid discovered in a Cincinnati arboretum, the culture failure points that actually matter, and how the cultivar lineup — Mount Airy, Blue Shadow, Beaver Creek, Blue Mist — sorts out by size and color.
@@ -1247,34 +1277,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-07-063134.mp3#16069674</guid>
       <pubDate>Tue, 07 Jul 2026 10:51:45 +0000</pubDate>
       <itunes:duration>22:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Buttonbush (Cephalanthus occidentalis)</title>
-      <description>Cephalanthus occidentalis — buttonbush — is the definitive native shrub for wet sites on the East Coast, blooming in fragrant spherical white flower clusters from June through September when most shrubs have nothing to offer. This episode covers the plant's culture and the honest limits of its moisture requirement, its exceptional ecological value as a larval host for more than twenty Lepidoptera species and critical habitat for wood ducks, and the cultivar landscape — particularly Sugar Shack, which has made buttonbush genuinely specifiable in designed rain gardens and stormwater plantings at a fraction of the species' scale.
-
-In this episode:
-• Cephalanthus occidentalis — NC State Extension Gardener Plant Toolbox — 
-• Cephalanthus occidentalis — Plant Finder — 
-• Cephalanthus occidentalis — Woody Plants Database — 
-• Cephalanthus occidentalis — Fire Effects Information System — 
-• Sugar Shack Buttonbush — Cephalanthus occidentalis — 
-• Cephalanthus occidentalis — Buttonbush Pollinator Profile — 
-• Buttonbush (Cephalanthus occidentalis) — </description>
-      <itunes:summary>Cephalanthus occidentalis — buttonbush — is the definitive native shrub for wet sites on the East Coast, blooming in fragrant spherical white flower clusters from June through September when most shrubs have nothing to offer. This episode covers the plant's culture and the honest limits of its moisture requirement, its exceptional ecological value as a larval host for more than twenty Lepidoptera species and critical habitat for wood ducks, and the cultivar landscape — particularly Sugar Shack, which has made buttonbush genuinely specifiable in designed rain gardens and stormwater plantings at a fraction of the species' scale.
-
-In this episode:
-• Cephalanthus occidentalis — NC State Extension Gardener Plant Toolbox — 
-• Cephalanthus occidentalis — Plant Finder — 
-• Cephalanthus occidentalis — Woody Plants Database — 
-• Cephalanthus occidentalis — Fire Effects Information System — 
-• Sugar Shack Buttonbush — Cephalanthus occidentalis — 
-• Cephalanthus occidentalis — Buttonbush Pollinator Profile — 
-• Buttonbush (Cephalanthus occidentalis) — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-05-084803.mp3" length="9273981" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-05-084803.mp3#9273981</guid>
-      <pubDate>Sun, 05 Jul 2026 12:58:40 +0000</pubDate>
-      <itunes:duration>12:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
