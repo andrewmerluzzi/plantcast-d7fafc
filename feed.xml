@@ -22,7 +22,37 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 15 Sep 2026 19:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 19:31:26 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Elaeagnus: Autumn Olive, Thorny Olive, and Russian Olive</title>
+      <description>A genus-level deep dive on Elaeagnus — autumn olive, thorny olive, and Russian olive — the East Coast's most widely planted-then-regretted wildlife shrub. Covers field identification across all three species, why nitrogen-fixing biology makes it uniquely damaging on poor soils, the 'junk food' problem with its fruit for migrating songbirds, and practical removal guidance for existing properties. Closes with a six-plant spaced-repetition review.
+
+In this episode:
+• Elaeagnus umbellata (Autumn Olive) — 
+• Elaeagnus pungens (Thorny Olive) — 
+• Autumn Olive: Accurate Identification — 
+• Elaeagnus umbellata — 
+• Autumn olive: Elaeagnus umbellata — 
+• Thorny olive, Elaeagnus pungens — 
+• Invasive Plants Are NOT for the Birds — 
+• Elaeagnus umbellata — </description>
+      <itunes:summary>A genus-level deep dive on Elaeagnus — autumn olive, thorny olive, and Russian olive — the East Coast's most widely planted-then-regretted wildlife shrub. Covers field identification across all three species, why nitrogen-fixing biology makes it uniquely damaging on poor soils, the 'junk food' problem with its fruit for migrating songbirds, and practical removal guidance for existing properties. Closes with a six-plant spaced-repetition review.
+
+In this episode:
+• Elaeagnus umbellata (Autumn Olive) — 
+• Elaeagnus pungens (Thorny Olive) — 
+• Autumn Olive: Accurate Identification — 
+• Elaeagnus umbellata — 
+• Autumn olive: Elaeagnus umbellata — 
+• Thorny olive, Elaeagnus pungens — 
+• Invasive Plants Are NOT for the Birds — 
+• Elaeagnus umbellata — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-152434.mp3" length="7882509" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-152434.mp3#7882509</guid>
+      <pubDate>Tue, 15 Sep 2026 19:31:25 +0000</pubDate>
+      <itunes:duration>10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Bald Cypress (Taxodium distichum)</title>
       <description>A deep dive on Taxodium distichum, the deciduous conifer of Eastern swamps and river bottoms, covering its identification against dawn redwood and pond cypress, its surprising drought tolerance on upland sites, cultivars from the columnar 'Shawnee Brave' to the dwarf 'Peve Minaret', and its wildlife value. Closes with a six-plant recall quiz on Physocarpus, Persicaria, Eupatorium, Eurybia, Passiflora incarnata, and Fothergilla.
@@ -1235,36 +1265,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-12-150009.mp3#12698621</guid>
       <pubDate>Sun, 12 Jul 2026 19:18:26 +0000</pubDate>
       <itunes:duration>17:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Ironweed (Vernonia)</title>
-      <description>A genus-level deep dive into the ironweeds — Vernonia — with a close look at the East Coast native species, their cultural requirements, and how to choose among them for designed gardens. Covers the specialist bee Melissodes denticulatus and why Vernonia is ecologically irreplaceable, height management, Mount Cuba trial top performers, and how to distinguish garden-ready cultivars from the non-East-Coast trade species. Closes with a spaced-repetition review of Phlox, Hibiscus, Rhododendron, Eutrochium, Calycanthus, and Schizachyrium scoparium.
-
-In this episode:
-• Vernonia noveboracensis (New York Ironweed) — 
-• Vernonia lettermannii 'Iron Butterfly' — 
-• Vernonia angustifolia 'Plum Peachy' — Trial Results — 
-• Vibrant Vernonia for Every Garden — 
-• A Closer Look at Ironweeds with Sam Hoadley — 
-• Ironweed Part 2: An Ironweed Specialist Bee — 
-• Vernonia noveboracensis — Plant Finder — 
-• Vernonia noveboracensis — Lady Bird Johnson Wildflower Center — </description>
-      <itunes:summary>A genus-level deep dive into the ironweeds — Vernonia — with a close look at the East Coast native species, their cultural requirements, and how to choose among them for designed gardens. Covers the specialist bee Melissodes denticulatus and why Vernonia is ecologically irreplaceable, height management, Mount Cuba trial top performers, and how to distinguish garden-ready cultivars from the non-East-Coast trade species. Closes with a spaced-repetition review of Phlox, Hibiscus, Rhododendron, Eutrochium, Calycanthus, and Schizachyrium scoparium.
-
-In this episode:
-• Vernonia noveboracensis (New York Ironweed) — 
-• Vernonia lettermannii 'Iron Butterfly' — 
-• Vernonia angustifolia 'Plum Peachy' — Trial Results — 
-• Vibrant Vernonia for Every Garden — 
-• A Closer Look at Ironweeds with Sam Hoadley — 
-• Ironweed Part 2: An Ironweed Specialist Bee — 
-• Vernonia noveboracensis — Plant Finder — 
-• Vernonia noveboracensis — Lady Bird Johnson Wildflower Center — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-11-161242.mp3" length="15547112" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-11-161242.mp3#15547112</guid>
-      <pubDate>Sat, 11 Jul 2026 22:32:53 +0000</pubDate>
-      <itunes:duration>21:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
