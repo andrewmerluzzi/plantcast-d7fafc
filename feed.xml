@@ -22,7 +22,33 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 15 Sep 2026 19:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 21:50:26 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Prairie Dropseed (Sporobolus heterolepis)</title>
+      <description>A deep dive on prairie dropseed, the fine-textured, fragrant fall-blooming grass that anchors so many contemporary meadow-style plantings — with an East Coast lens on just how disjunct and slow-establishing this Midwestern prairie native really is here, plus how to choose it over Muhlenbergia or Schizachyrium. Closes with a six-plant recall quiz covering Veronicastrum, Campsis, Callicarpa, Ailanthus, Asimina, and Taxodium.
+
+In this episode:
+• Sporobolus heterolepis (Prairie Dropseed) — 
+• Sporobolus heterolepis - Plant Finder — 
+• Sporobolus heterolepis (Prairie dropseed) — 
+• County distribution map of Sporobolus heterolepis — 
+• Charm and Choices with Prairie Dropseed — 
+• Plants for Pollinators: Little Bluestem — </description>
+      <itunes:summary>A deep dive on prairie dropseed, the fine-textured, fragrant fall-blooming grass that anchors so many contemporary meadow-style plantings — with an East Coast lens on just how disjunct and slow-establishing this Midwestern prairie native really is here, plus how to choose it over Muhlenbergia or Schizachyrium. Closes with a six-plant recall quiz covering Veronicastrum, Campsis, Callicarpa, Ailanthus, Asimina, and Taxodium.
+
+In this episode:
+• Sporobolus heterolepis (Prairie Dropseed) — 
+• Sporobolus heterolepis - Plant Finder — 
+• Sporobolus heterolepis (Prairie dropseed) — 
+• County distribution map of Sporobolus heterolepis — 
+• Charm and Choices with Prairie Dropseed — 
+• Plants for Pollinators: Little Bluestem — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-20-173658.mp3" length="7793153" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-20-173658.mp3#7793153</guid>
+      <pubDate>Sun, 20 Sep 2026 21:50:26 +0000</pubDate>
+      <itunes:duration>10:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Elaeagnus: Autumn Olive, Thorny Olive, and Russian Olive</title>
       <description>A genus-level deep dive on Elaeagnus — autumn olive, thorny olive, and Russian olive — the East Coast's most widely planted-then-regretted wildlife shrub. Covers field identification across all three species, why nitrogen-fixing biology makes it uniquely damaging on poor soils, the 'junk food' problem with its fruit for migrating songbirds, and practical removal guidance for existing properties. Closes with a six-plant spaced-repetition review.
@@ -1233,38 +1259,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-13-150012.mp3#11593973</guid>
       <pubDate>Mon, 13 Jul 2026 19:25:46 +0000</pubDate>
       <itunes:duration>15:53</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Spicebush (Lindera benzoin)</title>
-      <description>Today's episode covers Lindera benzoin, eastern spicebush — a foundational native shrub of the East Coast understory that designers chronically underspecify relative to its ecological depth. We work through its four-season design value, its exceptional ecological relationships including the spicebush swallowtail, promethea silkmoth, and more than twenty bird species, the dioecious trap that produces fruitless plantings, and the emerging threat of laurel wilt. The episode closes with a six-plant spaced-repetition recall quiz.
-
-In this episode:
-• Lindera benzoin (Northern Spicebush) — NC State Extension Gardener Plant Toolbox — 
-• Native Plants of PA: Spicebush (Lindera benzoin) — 
-• Lindera benzoin — Trees and Shrubs Online — 
-• Lindera benzoin — Missouri Botanical Garden Plant Finder — 
-• Spicebush — Mount Cuba Center — 
-• Native Plant Profile: Spicebush (Lindera benzoin) — 
-• Northern Spicebush, A Great Shrub for Birds (and More) — 
-• Lindera benzoin — Wikipedia — 
-• Callosamia promethea — Wikipedia — </description>
-      <itunes:summary>Today's episode covers Lindera benzoin, eastern spicebush — a foundational native shrub of the East Coast understory that designers chronically underspecify relative to its ecological depth. We work through its four-season design value, its exceptional ecological relationships including the spicebush swallowtail, promethea silkmoth, and more than twenty bird species, the dioecious trap that produces fruitless plantings, and the emerging threat of laurel wilt. The episode closes with a six-plant spaced-repetition recall quiz.
-
-In this episode:
-• Lindera benzoin (Northern Spicebush) — NC State Extension Gardener Plant Toolbox — 
-• Native Plants of PA: Spicebush (Lindera benzoin) — 
-• Lindera benzoin — Trees and Shrubs Online — 
-• Lindera benzoin — Missouri Botanical Garden Plant Finder — 
-• Spicebush — Mount Cuba Center — 
-• Native Plant Profile: Spicebush (Lindera benzoin) — 
-• Northern Spicebush, A Great Shrub for Birds (and More) — 
-• Lindera benzoin — Wikipedia — 
-• Callosamia promethea — Wikipedia — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-12-150009.mp3" length="12698621" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-12-150009.mp3#12698621</guid>
-      <pubDate>Sun, 12 Jul 2026 19:18:26 +0000</pubDate>
-      <itunes:duration>17:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
