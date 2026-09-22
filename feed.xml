@@ -22,7 +22,37 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 21 Sep 2026 11:33:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:05:39 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Serviceberry (Amelanchier)</title>
+      <description>A deep dive into Amelanchier, the serviceberry genus, timed to its fall color: how to actually tell arborea, laevis, canadensis, and obovalis apart, the surprisingly tangled taxonomic history behind the name canadensis, the cedar-serviceberry rust connection to nearby redcedar, and an honest look at which cultivars hold their ecological value and which trade it away.
+
+In this episode:
+• Amelanchier (Serviceberry) — 
+• Amelanchier canadensis (Canadian Serviceberry) — 
+• Amelanchier laevis (Allegheny Serviceberry) — 
+• Amelanchier arborea — 
+• Coastal Serviceberry — 
+• Serviceberry — 
+• Amelanchier canadensis — 
+• The Cultivar Question — </description>
+      <itunes:summary>A deep dive into Amelanchier, the serviceberry genus, timed to its fall color: how to actually tell arborea, laevis, canadensis, and obovalis apart, the surprisingly tangled taxonomic history behind the name canadensis, the cedar-serviceberry rust connection to nearby redcedar, and an honest look at which cultivars hold their ecological value and which trade it away.
+
+In this episode:
+• Amelanchier (Serviceberry) — 
+• Amelanchier canadensis (Canadian Serviceberry) — 
+• Amelanchier laevis (Allegheny Serviceberry) — 
+• Amelanchier arborea — 
+• Coastal Serviceberry — 
+• Serviceberry — 
+• Amelanchier canadensis — 
+• The Cultivar Question — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-22-065705.mp3" length="9325061" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-22-065705.mp3#9325061</guid>
+      <pubDate>Tue, 22 Sep 2026 11:05:38 +0000</pubDate>
+      <itunes:duration>12:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Native Blueberries (Vaccinium)</title>
       <description>A deep dive on Vaccinium — the highbush, lowbush, rabbiteye, and farkleberry blueberries native to the East Coast — covering the taxonomy that separates it from Gaylussacia, the ploidy differences that shape breeding, an East Coast lens on provenance versus what's sold at the nursery, and why it's one of the best native substitutes for fall color. Closes with a six-plant recall quiz covering Elaeagnus, Hamamelis, Symphyotrichum, Silphium, Clematis, and Microstegium vimineum.
@@ -1227,34 +1257,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-17-150008.mp3#14059394</guid>
       <pubDate>Fri, 17 Jul 2026 19:16:57 +0000</pubDate>
       <itunes:duration>19:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Indian Grass (Sorghastrum nutans)</title>
-      <description>Sorghastrum nutans, Indian grass, is one of the Big Four tallgrass prairie grasses and one of the most underspecified native warm-season grasses in East Coast design work. This episode covers its genuine East Coast native range, the critical provenance distinction between Midwest and coastal ecotypes, culture requirements (especially the well-drained soil imperative), specific ecological roles including larval host relationships with two skipper species, and a comparison of the three main ornamental cultivars: Sioux Blue, Indian Steel, and Bluebird. Closes with a six-plant spaced-repetition quiz covering Hydrangea, Asclepias, Pycnanthemum, Hibiscus, Agastache, and Coreopsis.
-
-In this episode:
-• Sorghastrum nutans (Indiangrass, Yellow Indiangrass) — 
-• Sorghastrum nutans 'Sioux Blue' — 
-• Yellow Indian Grass — 
-• Sorghastrum nutans — 
-• Know Your Natives: Indiangrass — 
-• Indian Grass (Sorghastrum nutans) — 
-• Indiangrass (Sorghastrum nutans) Plant Guide — </description>
-      <itunes:summary>Sorghastrum nutans, Indian grass, is one of the Big Four tallgrass prairie grasses and one of the most underspecified native warm-season grasses in East Coast design work. This episode covers its genuine East Coast native range, the critical provenance distinction between Midwest and coastal ecotypes, culture requirements (especially the well-drained soil imperative), specific ecological roles including larval host relationships with two skipper species, and a comparison of the three main ornamental cultivars: Sioux Blue, Indian Steel, and Bluebird. Closes with a six-plant spaced-repetition quiz covering Hydrangea, Asclepias, Pycnanthemum, Hibiscus, Agastache, and Coreopsis.
-
-In this episode:
-• Sorghastrum nutans (Indiangrass, Yellow Indiangrass) — 
-• Sorghastrum nutans 'Sioux Blue' — 
-• Yellow Indian Grass — 
-• Sorghastrum nutans — 
-• Know Your Natives: Indiangrass — 
-• Indian Grass (Sorghastrum nutans) — 
-• Indiangrass (Sorghastrum nutans) Plant Guide — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-15-150005.mp3" length="14261270" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-15-150005.mp3#14261270</guid>
-      <pubDate>Wed, 15 Jul 2026 19:20:50 +0000</pubDate>
-      <itunes:duration>19:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
