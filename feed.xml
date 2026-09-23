@@ -22,7 +22,31 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 22 Sep 2026 11:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:07:33 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Spider and Surprise Lilies (Lycoris)</title>
+      <description>A genus deep dive on Lycoris — the hurricane lilies and surprise lilies popping up naked-stemmed in East Coast gardens and old homesites right now. Covers the radiata-versus-squamigera comparison, the sterile-triploid-versus-fertile-diploid wrinkle that shapes how it spreads, hysteranthous foliage timing, and how to design around a bulb that disappears for half the year.
+
+In this episode:
+• Lycoris (Cluster Amaryllis, Equinox Flower, Hurricane Lilies, Magic Lily, Naked Lily, Resurrection Lily, Spider Lilies, Surprise Lily) — 
+• Lycoris radiata (Equinox Flower, Hurricane Lily, Naked Lily, Red Magic Lily, Red Spider Lily, Red Surprise Lily, Spider Lily) — 
+• Lycoris squamigera (Magic Lily, Mystery Lily, Naked Ladies, Resurrection Lily, Sesame Lily, Surprise Lily, Upstart) — 
+• red spiderlily: Lycoris radiata — 
+• Lycoris radiata var. pumila — </description>
+      <itunes:summary>A genus deep dive on Lycoris — the hurricane lilies and surprise lilies popping up naked-stemmed in East Coast gardens and old homesites right now. Covers the radiata-versus-squamigera comparison, the sterile-triploid-versus-fertile-diploid wrinkle that shapes how it spreads, hysteranthous foliage timing, and how to design around a bulb that disappears for half the year.
+
+In this episode:
+• Lycoris (Cluster Amaryllis, Equinox Flower, Hurricane Lilies, Magic Lily, Naked Lily, Resurrection Lily, Spider Lilies, Surprise Lily) — 
+• Lycoris radiata (Equinox Flower, Hurricane Lily, Naked Lily, Red Magic Lily, Red Spider Lily, Red Surprise Lily, Spider Lily) — 
+• Lycoris squamigera (Magic Lily, Mystery Lily, Naked Ladies, Resurrection Lily, Sesame Lily, Surprise Lily, Upstart) — 
+• red spiderlily: Lycoris radiata — 
+• Lycoris radiata var. pumila — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-23-080101.mp3" length="8452374" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-23-080101.mp3#8452374</guid>
+      <pubDate>Wed, 23 Sep 2026 12:07:33 +0000</pubDate>
+      <itunes:duration>11:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Serviceberry (Amelanchier)</title>
       <description>A deep dive into Amelanchier, the serviceberry genus, timed to its fall color: how to actually tell arborea, laevis, canadensis, and obovalis apart, the surprisingly tangled taxonomic history behind the name canadensis, the cedar-serviceberry rust connection to nearby redcedar, and an honest look at which cultivars hold their ecological value and which trade it away.
@@ -1225,38 +1249,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-18-150012.mp3#16508521</guid>
       <pubDate>Sat, 18 Jul 2026 22:22:05 +0000</pubDate>
       <itunes:duration>22:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Black Gum (Nyssa sylvatica)</title>
-      <description>Nyssa sylvatica — black gum, black tupelo, pepperidge — is one of the East Coast's finest native canopy trees and one of the most underspecified. This episode covers the full designer's brief: the critical taproot transplanting constraint you cannot ignore, the exceptional moisture tolerance from summer drought to seasonally flooded sites, how to navigate cultivar selection for reliable fall color, and the tree's substantial ecological role from spring nectar bloom through fall fruit as a songbird migration fuel stop.
-
-In this episode:
-• Nyssa sylvatica — NC State Extension Gardener Plant Toolbox — 
-• Nyssa sylvatica — Plant Finder — 
-• Silvics of North America: Nyssa sylvatica — 
-• Blackgum, Sourgum, or Tupelo Tree — 
-• Black Gum — 
-• Species Spotlight — Nyssa sylvatica — 
-• Nyssa sylvatica — 
-• Tupelo (Nyssa sylvatica) — 
-• Pollen Specialist Bees of the Eastern United States — </description>
-      <itunes:summary>Nyssa sylvatica — black gum, black tupelo, pepperidge — is one of the East Coast's finest native canopy trees and one of the most underspecified. This episode covers the full designer's brief: the critical taproot transplanting constraint you cannot ignore, the exceptional moisture tolerance from summer drought to seasonally flooded sites, how to navigate cultivar selection for reliable fall color, and the tree's substantial ecological role from spring nectar bloom through fall fruit as a songbird migration fuel stop.
-
-In this episode:
-• Nyssa sylvatica — NC State Extension Gardener Plant Toolbox — 
-• Nyssa sylvatica — Plant Finder — 
-• Silvics of North America: Nyssa sylvatica — 
-• Blackgum, Sourgum, or Tupelo Tree — 
-• Black Gum — 
-• Species Spotlight — Nyssa sylvatica — 
-• Nyssa sylvatica — 
-• Tupelo (Nyssa sylvatica) — 
-• Pollen Specialist Bees of the Eastern United States — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-17-150008.mp3" length="14059394" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-17-150008.mp3#14059394</guid>
-      <pubDate>Fri, 17 Jul 2026 19:16:57 +0000</pubDate>
-      <itunes:duration>19:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
