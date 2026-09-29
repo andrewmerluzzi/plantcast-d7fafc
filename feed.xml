@@ -22,7 +22,39 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 28 Sep 2026 11:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:09:52 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Sedges (Carex)</title>
+      <description>A deep dive into the genus Carex, the sedge backbone of shade and dry-shade design on the East Coast. Covers the Eastern natives worth specifying, the Mount Cuba Center trial's top performers, the popular non-native cultivars and where they earn or don't earn their keep, and the coastal invasive that gets confused with the well-behaved natives. Closes with a recall quiz on Camellia and Helenium.
+
+In this episode:
+• Sedge - Carex — 
+• Carex pensylvanica (Oak Sedge, Pennsylvania Sedge) — 
+• Carex plantaginea — 
+• Carex morrowii (Ice Dance Sedge, Japanese Sedge) — 
+• Carex (Sedges): Trial Garden Report — 
+• Appalachian Sedge (Carex appalachica) — 
+• Native Sedges for the Home Garden — 
+• Impact of invasive Carex kobomugi on the native dune community in a US mid-Atlantic coastal system — 
+• Carex kobomugi (Japanese sedge) — </description>
+      <itunes:summary>A deep dive into the genus Carex, the sedge backbone of shade and dry-shade design on the East Coast. Covers the Eastern natives worth specifying, the Mount Cuba Center trial's top performers, the popular non-native cultivars and where they earn or don't earn their keep, and the coastal invasive that gets confused with the well-behaved natives. Closes with a recall quiz on Camellia and Helenium.
+
+In this episode:
+• Sedge - Carex — 
+• Carex pensylvanica (Oak Sedge, Pennsylvania Sedge) — 
+• Carex plantaginea — 
+• Carex morrowii (Ice Dance Sedge, Japanese Sedge) — 
+• Carex (Sedges): Trial Garden Report — 
+• Appalachian Sedge (Carex appalachica) — 
+• Native Sedges for the Home Garden — 
+• Impact of invasive Carex kobomugi on the native dune community in a US mid-Atlantic coastal system — 
+• Carex kobomugi (Japanese sedge) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-29-000116.mp3" length="8040138" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-29-000116.mp3#8040138</guid>
+      <pubDate>Tue, 29 Sep 2026 04:09:46 +0000</pubDate>
+      <itunes:duration>10:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Sneezeweed (Helenium)</title>
       <description>A deep dive on Helenium, the East Coast's underused fall-blooming Asteraceae genus. We cover the winged-stem diagnostics that separate it from Rudbeckia and Heliopsis, the split between Helenium autumnale and the purple-centered Helenium flexuosum, what the Mount Cuba trial revealed about European-bred cultivars struggling against straight species performance, and where it earns a spot in a fall design.
@@ -1217,36 +1249,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-071709.mp3#6355248</guid>
       <pubDate>Wed, 05 Aug 2026 11:22:05 +0000</pubDate>
       <itunes:duration>8:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Culver's Root (Veronicastrum virginicum)</title>
-      <description>Midsummer means Veronicastrum virginicum: the candelabra-spiked native perennial that bridges late June through August with genuine vertical structure. This episode covers its prairie-leaning native range and what that means for East Coast specification, its demanding establishment timeline, its exceptional pollinator credentials including ties to the endangered rusty-patched bumblebee, and the cultivar choices — 'Lavender Towers', 'Fascination', 'Album' — worth knowing. Followed by spaced-repetition recall on Lindera benzoin, Persicaria, Agastache, and Helianthus.
-
-In this episode:
-• Veronicastrum virginicum (Culver's-root) — Go Botany — 
-• Veronicastrum virginicum (Culver's root) — 
-• Veronicastrum virginicum — Plant Finder — 
-• Veronicastrum virginicum — Plant of the Week — 
-• Culver's Root: the Perfect Native Plant for Pollinators — 
-• Veronicastrum virginicum (Bowman's Root, Culver's Root) — 
-• Veronicastrum virginicum — 
-• Plants Favored by Rusty Patched Bumble Bee — </description>
-      <itunes:summary>Midsummer means Veronicastrum virginicum: the candelabra-spiked native perennial that bridges late June through August with genuine vertical structure. This episode covers its prairie-leaning native range and what that means for East Coast specification, its demanding establishment timeline, its exceptional pollinator credentials including ties to the endangered rusty-patched bumblebee, and the cultivar choices — 'Lavender Towers', 'Fascination', 'Album' — worth knowing. Followed by spaced-repetition recall on Lindera benzoin, Persicaria, Agastache, and Helianthus.
-
-In this episode:
-• Veronicastrum virginicum (Culver's-root) — Go Botany — 
-• Veronicastrum virginicum (Culver's root) — 
-• Veronicastrum virginicum — Plant Finder — 
-• Veronicastrum virginicum — Plant of the Week — 
-• Culver's Root: the Perfect Native Plant for Pollinators — 
-• Veronicastrum virginicum (Bowman's Root, Culver's Root) — 
-• Veronicastrum virginicum — 
-• Plants Favored by Rusty Patched Bumble Bee — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-26-150005.mp3" length="13968497" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-07-26-150005.mp3#13968497</guid>
-      <pubDate>Sun, 26 Jul 2026 19:14:02 +0000</pubDate>
-      <itunes:duration>19:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
