@@ -22,7 +22,43 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 29 Sep 2026 04:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:32:59 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Euonymus: The Invasive Burning Bush and Its Native Cousin</title>
+      <description>A genus episode on Euonymus, built around the contrast every East Coast designer needs: the widely planted, now-banned-in-parts-of-the-Northeast Euonymus alatus and the groundcover thug Euonymus fortunei, versus the native woodland shrub Euonymus americanus, whose exploding pink-and-orange capsules are peaking right now. Covers identification, the invasion mechanics, cultivar myths around sterility, and where the native earns a place in a design.
+
+In this episode:
+• Euonymus alatus (Burning Bush, Winged Euonymus) — 
+• Euonymus americanus (Hearts-a-bustin', Strawberry Bush) — 
+• Euonymus fortunei (Wintercreeper) — 
+• Euonymus alatus — 
+• Euonymus americanus — 
+• Bursting-heart (Euonymus americanus) — 
+• Strawberry-Bush (Euonymus americanus): A Native Shrub with Charm — 
+• Euonymus Diseases and Insect Pests — 
+• UConn Scientist Develops Sterile Variety of Invasive Plant — 
+• Winter Creeper — 
+• winter creeper (Euonymus fortunei) — </description>
+      <itunes:summary>A genus episode on Euonymus, built around the contrast every East Coast designer needs: the widely planted, now-banned-in-parts-of-the-Northeast Euonymus alatus and the groundcover thug Euonymus fortunei, versus the native woodland shrub Euonymus americanus, whose exploding pink-and-orange capsules are peaking right now. Covers identification, the invasion mechanics, cultivar myths around sterility, and where the native earns a place in a design.
+
+In this episode:
+• Euonymus alatus (Burning Bush, Winged Euonymus) — 
+• Euonymus americanus (Hearts-a-bustin', Strawberry Bush) — 
+• Euonymus fortunei (Wintercreeper) — 
+• Euonymus alatus — 
+• Euonymus americanus — 
+• Bursting-heart (Euonymus americanus) — 
+• Strawberry-Bush (Euonymus americanus): A Native Shrub with Charm — 
+• Euonymus Diseases and Insect Pests — 
+• UConn Scientist Develops Sterile Variety of Invasive Plant — 
+• Winter Creeper — 
+• winter creeper (Euonymus fortunei) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-30-071147.mp3" length="9192181" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-30-071147.mp3#9192181</guid>
+      <pubDate>Wed, 30 Sep 2026 13:32:59 +0000</pubDate>
+      <itunes:duration>12:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Sedges (Carex)</title>
       <description>A deep dive into the genus Carex, the sedge backbone of shade and dry-shade design on the East Coast. Covers the Eastern natives worth specifying, the Mount Cuba Center trial's top performers, the popular non-native cultivars and where they earn or don't earn their keep, and the coastal invasive that gets confused with the well-behaved natives. Closes with a recall quiz on Camellia and Helenium.
@@ -1223,32 +1259,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-072208.mp3#8652354</guid>
       <pubDate>Wed, 05 Aug 2026 11:29:55 +0000</pubDate>
       <itunes:duration>11:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Trumpet Vine (Campsis)</title>
-      <description>A deep dive on Campsis, the trumpet vine genus, at the height of its bloom: the native Campsis radicans versus the tamer Chinese Campsis grandiflora and the garden-favorite hybrid Campsis x tagliabuana, with an honest reckoning of where this hummingbird magnet earns a spot in a design and where it becomes a maintenance nightmare.
-
-In this episode:
-• Campsis radicans (Cow-itch, Cow Vine, Devil's Shoestring, Foxglove Vine, Hellvine, Trumpet Creeper, Trumpet Vine) — 
-• Campsis grandiflora (Chinese Trumpet Creeper, Trumpet Creeper, Trumpet Vine) — 
-• Campsis x tagliabueana (Madame Galen, Trumpet Creeper) — 
-• Campsis radicans - Plant Finder — 
-• Campsis radicans (Trumpet Creeper) — 
-• campsis radicans and its invasive potential — </description>
-      <itunes:summary>A deep dive on Campsis, the trumpet vine genus, at the height of its bloom: the native Campsis radicans versus the tamer Chinese Campsis grandiflora and the garden-favorite hybrid Campsis x tagliabuana, with an honest reckoning of where this hummingbird magnet earns a spot in a design and where it becomes a maintenance nightmare.
-
-In this episode:
-• Campsis radicans (Cow-itch, Cow Vine, Devil's Shoestring, Foxglove Vine, Hellvine, Trumpet Creeper, Trumpet Vine) — 
-• Campsis grandiflora (Chinese Trumpet Creeper, Trumpet Creeper, Trumpet Vine) — 
-• Campsis x tagliabueana (Madame Galen, Trumpet Creeper) — 
-• Campsis radicans - Plant Finder — 
-• Campsis radicans (Trumpet Creeper) — 
-• campsis radicans and its invasive potential — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-071709.mp3" length="6355248" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-071709.mp3#6355248</guid>
-      <pubDate>Wed, 05 Aug 2026 11:22:05 +0000</pubDate>
-      <itunes:duration>8:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
