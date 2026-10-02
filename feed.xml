@@ -22,7 +22,39 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 01 Oct 2026 04:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:29:46 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Partridgeberry (Mitchella repens)</title>
+      <description>A deep dive on Mitchella repens, the evergreen native groundcover now showing its paired red fruit in the understory. Covers the distyly that makes those twin berries possible, where it actually succeeds versus fails in designed shade gardens, and how it reads next to ferns and spring ephemerals through fall and winter.
+
+In this episode:
+• Mitchella repens (Partridgeberry, Partridge Berry, Partridge-berry, Twinberry) — 
+• Mitchella repens - Plant Finder — 
+• Mitchella repens — 
+• Reproductive Biology of Distylous Partridgeberry, Mitchella repens — 
+• Mitchella repens, partridgeberry — 
+• Pretty Partridgeberry—A Native Groundcover With Lots of Star Potential — 
+• Crataegus viridis 'Winter King' — 
+• Green Hawthorn (Crataegus viridis) — 
+• Sporobolus heterolepis (Prairie Dropseed, Prairie Drop Seed) — </description>
+      <itunes:summary>A deep dive on Mitchella repens, the evergreen native groundcover now showing its paired red fruit in the understory. Covers the distyly that makes those twin berries possible, where it actually succeeds versus fails in designed shade gardens, and how it reads next to ferns and spring ephemerals through fall and winter.
+
+In this episode:
+• Mitchella repens (Partridgeberry, Partridge Berry, Partridge-berry, Twinberry) — 
+• Mitchella repens - Plant Finder — 
+• Mitchella repens — 
+• Reproductive Biology of Distylous Partridgeberry, Mitchella repens — 
+• Mitchella repens, partridgeberry — 
+• Pretty Partridgeberry—A Native Groundcover With Lots of Star Potential — 
+• Crataegus viridis 'Winter King' — 
+• Green Hawthorn (Crataegus viridis) — 
+• Sporobolus heterolepis (Prairie Dropseed, Prairie Drop Seed) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-02-040354.mp3" length="8553306" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-02-040354.mp3#8553306</guid>
+      <pubDate>Fri, 02 Oct 2026 10:29:45 +0000</pubDate>
+      <itunes:duration>11:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Hawthorns (Crataegus)</title>
       <description>A mid-fall look at Crataegus, the hawthorn genus: why its taxonomy is a notorious mess, which East Coast species and cultivars actually earn a spot in the trade (phaenopyrum, viridis 'Winter King', crus-galli var. inermis, punctata), the rust-and-fireblight disease complex every designer needs to manage, and the wildlife payoff of thorny structure and late-persisting fruit. Closes with a six-plant recall quiz.
@@ -1233,32 +1265,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-06-150012.mp3#10025348</guid>
       <pubDate>Thu, 06 Aug 2026 19:17:36 +0000</pubDate>
       <itunes:duration>13:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Tree of Heaven (Ailanthus altissima)</title>
-      <description>An honest reckoning with the invasive tree every East Coast designer has to identify and talk clients through removing: origin, the diagnostic features that separate it from sumac and walnut, why it wins on the worst sites, and the herbicide timing window that happens to be open right now in early August.
-
-In this episode:
-• Ailanthus altissima (Ailanthus, Copal Tree, Paradise Tree, Stinking Sumac, Tree of Heaven, Varnish Tree) — 
-• Tree-of-Heaven — 
-• Tree of Heaven: Control Strategies — 
-• Tree-of-Heaven: Best Herbicide Treatment and Removal Timing — 
-• Worldwide Feeding Host Plants of Spotted Lanternfly, With Significant Additions From North America — 
-• Ailanthus Webworm Moth — </description>
-      <itunes:summary>An honest reckoning with the invasive tree every East Coast designer has to identify and talk clients through removing: origin, the diagnostic features that separate it from sumac and walnut, why it wins on the worst sites, and the herbicide timing window that happens to be open right now in early August.
-
-In this episode:
-• Ailanthus altissima (Ailanthus, Copal Tree, Paradise Tree, Stinking Sumac, Tree of Heaven, Varnish Tree) — 
-• Tree-of-Heaven — 
-• Tree of Heaven: Control Strategies — 
-• Tree-of-Heaven: Best Herbicide Treatment and Removal Timing — 
-• Worldwide Feeding Host Plants of Spotted Lanternfly, With Significant Additions From North America — 
-• Ailanthus Webworm Moth — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-150012.mp3" length="9290589" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-05-150012.mp3#9290589</guid>
-      <pubDate>Wed, 05 Aug 2026 19:14:58 +0000</pubDate>
-      <itunes:duration>12:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
