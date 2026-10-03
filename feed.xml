@@ -22,7 +22,29 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 02 Oct 2026 10:29:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:48:00 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Sassafras (Sassafras albidum)</title>
+      <description>A deep dive on Sassafras albidum, the East Coast native tree carrying three leaf shapes on one plant and some of the best fall color in the region right now. Covers identification, the taproot and suckering habits that shape how you specify it, its two specialist moth and butterfly relationships, and laurel wilt disease — a current, spreading threat to Lauraceae that every Southeast and mid-Atlantic designer should be tracking. Closes with a four-plant recall quiz on Parthenocissus, Amelanchier, Carex, and Mitchella repens.
+
+In this episode:
+• Sassafras - Sassafras albidum — 
+• Sassafras albidum - Plant Finder — 
+• Laurel wilt disease: The demise of sassafras and other species within the Lauraceae family — 
+• Emerging forest pest threat: Redbay ambrosia beetle and laurel wilt — </description>
+      <itunes:summary>A deep dive on Sassafras albidum, the East Coast native tree carrying three leaf shapes on one plant and some of the best fall color in the region right now. Covers identification, the taproot and suckering habits that shape how you specify it, its two specialist moth and butterfly relationships, and laurel wilt disease — a current, spreading threat to Lauraceae that every Southeast and mid-Atlantic designer should be tracking. Closes with a four-plant recall quiz on Parthenocissus, Amelanchier, Carex, and Mitchella repens.
+
+In this episode:
+• Sassafras - Sassafras albidum — 
+• Sassafras albidum - Plant Finder — 
+• Laurel wilt disease: The demise of sassafras and other species within the Lauraceae family — 
+• Emerging forest pest threat: Redbay ambrosia beetle and laurel wilt — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-03-110432.mp3" length="8567408" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-03-110432.mp3#8567408</guid>
+      <pubDate>Sat, 03 Oct 2026 20:47:59 +0000</pubDate>
+      <itunes:duration>11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Partridgeberry (Mitchella repens)</title>
       <description>A deep dive on Mitchella repens, the evergreen native groundcover now showing its paired red fruit in the understory. Covers the distyly that makes those twin berries possible, where it actually succeeds versus fails in designed shade gardens, and how it reads next to ferns and spring ephemerals through fall and winter.
@@ -1231,40 +1253,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-07-150011.mp3#8745451</guid>
       <pubDate>Fri, 07 Aug 2026 19:06:39 +0000</pubDate>
       <itunes:duration>11:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Asters (Symphyotrichum)</title>
-      <description>A deep dive into the East Coast native aster genus Symphyotrichum: the taxonomic split from old-world Aster, which species and cultivars actually earn a spot in the design palette, powdery mildew and flop management, and the specialist bees and butterflies that depend on them as the pollinator season winds down. Closes with a six-plant recall quiz on Helianthus, Solidago, Physocarpus opulifolius, Persicaria, Viburnum, and Lonicera.
-
-In this episode:
-• Symphyotrichum (Aster, Michaelmas daisy) — 
-• Symphyotrichum novae-angliae — 
-• Symphyotrichum oblongifolium (Aromatic Aster) — 
-• Symphyotrichum laeve (Smooth Aster) — 
-• Symphyotrichum lateriflorum (Calico Aster) — 
-• Symphyotrichum novi-belgii (Michaelmas Daisy, New York Aster) — 
-• Aster Trial — 
-• Symphyotrichum lateriflorum 'Lady in Black' — 
-• Pollen Specialist Bees of the Eastern United States — 
-• Symphyotrichum novae-angliae (New England aster) — </description>
-      <itunes:summary>A deep dive into the East Coast native aster genus Symphyotrichum: the taxonomic split from old-world Aster, which species and cultivars actually earn a spot in the design palette, powdery mildew and flop management, and the specialist bees and butterflies that depend on them as the pollinator season winds down. Closes with a six-plant recall quiz on Helianthus, Solidago, Physocarpus opulifolius, Persicaria, Viburnum, and Lonicera.
-
-In this episode:
-• Symphyotrichum (Aster, Michaelmas daisy) — 
-• Symphyotrichum novae-angliae — 
-• Symphyotrichum oblongifolium (Aromatic Aster) — 
-• Symphyotrichum laeve (Smooth Aster) — 
-• Symphyotrichum lateriflorum (Calico Aster) — 
-• Symphyotrichum novi-belgii (Michaelmas Daisy, New York Aster) — 
-• Aster Trial — 
-• Symphyotrichum lateriflorum 'Lady in Black' — 
-• Pollen Specialist Bees of the Eastern United States — 
-• Symphyotrichum novae-angliae (New England aster) — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-06-150012.mp3" length="10025348" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-06-150012.mp3#10025348</guid>
-      <pubDate>Thu, 06 Aug 2026 19:17:36 +0000</pubDate>
-      <itunes:duration>13:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
