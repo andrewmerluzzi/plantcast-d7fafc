@@ -22,7 +22,37 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 06 Oct 2026 12:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:30:09 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Chinese Silvergrass (Miscanthus)</title>
+      <description>A mid-fall deep dive on Miscanthus, the East Asian ornamental grass genus whose plumes are peaking right now on roadsides and in gardens alike. We cover the taxonomy and reproductive biology behind its slow-motion invasion of the East Coast, the shifting 2026 regulatory picture, the cultivar landscape including reduced-fertility breeding efforts, and the native substitutes already in a designer's palette that do the same design job with real ecological payback. Review quiz covers Aesculus, Aquilegia, Berberis, and Diervilla.
+
+In this episode:
+• Miscanthus sinensis (Chinese Silvergrass) — 
+• On the Lookout for Non-Native Invasive Plants: Miscanthus — 
+• Massachusetts Prohibited Plant List - Updates — 
+• Move Over Miscanthus, Three Native Grasses to Plant Instead — 
+• Erianthus giganteus (Giant Plumegrass, Sugarcane Plumegrass) — 
+• Giant Miscanthus (Miscanthus giganteus): A Perennial Biomass Crop — 
+• Miscanthus sinensis 'Morning Light' — 
+• Miscanthus sinensis, Chinese Silvergrass — </description>
+      <itunes:summary>A mid-fall deep dive on Miscanthus, the East Asian ornamental grass genus whose plumes are peaking right now on roadsides and in gardens alike. We cover the taxonomy and reproductive biology behind its slow-motion invasion of the East Coast, the shifting 2026 regulatory picture, the cultivar landscape including reduced-fertility breeding efforts, and the native substitutes already in a designer's palette that do the same design job with real ecological payback. Review quiz covers Aesculus, Aquilegia, Berberis, and Diervilla.
+
+In this episode:
+• Miscanthus sinensis (Chinese Silvergrass) — 
+• On the Lookout for Non-Native Invasive Plants: Miscanthus — 
+• Massachusetts Prohibited Plant List - Updates — 
+• Move Over Miscanthus, Three Native Grasses to Plant Instead — 
+• Erianthus giganteus (Giant Plumegrass, Sugarcane Plumegrass) — 
+• Giant Miscanthus (Miscanthus giganteus): A Perennial Biomass Crop — 
+• Miscanthus sinensis 'Morning Light' — 
+• Miscanthus sinensis, Chinese Silvergrass — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-07-031200.mp3" length="9317230" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-07-031200.mp3#9317230</guid>
+      <pubDate>Wed, 07 Oct 2026 07:30:08 +0000</pubDate>
+      <itunes:duration>12:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Bush-Honeysuckle (Diervilla)</title>
       <description>A deep dive on Diervilla, the native East Coast bush-honeysuckles, covering the three species and their ranges, the suckering habit that makes them a sleeper bank-stabilization shrub, the genus's outsized bumblebee value, and the Kodiak cultivar series with its unsettled hybrid parentage. Also untangles the common-name trap with invasive Asian Lonicera. Closes with a four-plant recall quiz on Crataegus, Camellia, Mitchella repens, and Nandina domestica.
@@ -1221,34 +1251,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-11-150006.mp3#9249531</guid>
       <pubDate>Tue, 11 Aug 2026 19:09:24 +0000</pubDate>
       <itunes:duration>12:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Japanese Stiltgrass (Microstegium vimineum)</title>
-      <description>A deep dive on Microstegium vimineum, the shade-tolerant Asian annual grass now blanketing floodplains and forest understories up and down the East Coast. We cover the diagnostic silvery midrib, how to separate it from native whitegrass and basket grass, why its unusual shade-adapted physiology and deer-proof palatability make it such an effective invader, and the multi-year herbicide and hand-pulling strategy that actually works — with a note on why late summer is the critical action window.
-
-In this episode:
-• Microstegium vimineum (Japanese Stiltgrass) — 
-• FS1237: Japanese Stiltgrass Management in the Home Lawn and Landscape — 
-• Japanese Stiltgrass Control in Turf — 
-• Japanese Stiltgrass in Home Landscapes — 
-• Whitegrass (Leersia virginica) vs Japanese Stiltgrass (Microstegium vimineum): Identification — 
-• Ecological Risk Screening Summary: Japanese Stiltgrass — 
-• Controlling Japanese Stiltgrass — </description>
-      <itunes:summary>A deep dive on Microstegium vimineum, the shade-tolerant Asian annual grass now blanketing floodplains and forest understories up and down the East Coast. We cover the diagnostic silvery midrib, how to separate it from native whitegrass and basket grass, why its unusual shade-adapted physiology and deer-proof palatability make it such an effective invader, and the multi-year herbicide and hand-pulling strategy that actually works — with a note on why late summer is the critical action window.
-
-In this episode:
-• Microstegium vimineum (Japanese Stiltgrass) — 
-• FS1237: Japanese Stiltgrass Management in the Home Lawn and Landscape — 
-• Japanese Stiltgrass Control in Turf — 
-• Japanese Stiltgrass in Home Landscapes — 
-• Whitegrass (Leersia virginica) vs Japanese Stiltgrass (Microstegium vimineum): Identification — 
-• Ecological Risk Screening Summary: Japanese Stiltgrass — 
-• Controlling Japanese Stiltgrass — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-10-105009.mp3" length="10108438" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-10-105009.mp3#10108438</guid>
-      <pubDate>Mon, 10 Aug 2026 15:03:04 +0000</pubDate>
-      <itunes:duration>13:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
