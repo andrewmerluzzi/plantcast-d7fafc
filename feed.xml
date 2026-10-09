@@ -22,7 +22,33 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 08 Oct 2026 04:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:10:36 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — American Sweetgum (Liquidambar styraciflua)</title>
+      <description>A deep dive on American sweetgum, the East Coast's most polarizing fall-color tree: its surprising taxonomy, its range from New England into Central America, the ecological payload most designers never mention, and why the fruitless cultivars solve only half the siting problem. Closes with a recall quiz on Rhododendron, Helenium, Nandina domestica, and Dryopteris.
+
+In this episode:
+• Liquidambar styraciflua (American Sweet Gum) — 
+• Liquidambar styraciflua 'Rotundiloba' (Fruitless Sweetgum) — 
+• Liquidambar styraciflua - Plant Finder — 
+• Liquidambar — 
+• Finally, a Reason to Love the Sweet Gum Tree — 
+• Luna moth (Actias luna) — </description>
+      <itunes:summary>A deep dive on American sweetgum, the East Coast's most polarizing fall-color tree: its surprising taxonomy, its range from New England into Central America, the ecological payload most designers never mention, and why the fruitless cultivars solve only half the siting problem. Closes with a recall quiz on Rhododendron, Helenium, Nandina domestica, and Dryopteris.
+
+In this episode:
+• Liquidambar styraciflua (American Sweet Gum) — 
+• Liquidambar styraciflua 'Rotundiloba' (Fruitless Sweetgum) — 
+• Liquidambar styraciflua - Plant Finder — 
+• Liquidambar — 
+• Finally, a Reason to Love the Sweet Gum Tree — 
+• Luna moth (Actias luna) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-09-000130.mp3" length="6058727" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-09-000130.mp3#6058727</guid>
+      <pubDate>Fri, 09 Oct 2026 04:10:25 +0000</pubDate>
+      <itunes:duration>8:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Wood Ferns (Dryopteris)</title>
       <description>A genus deep dive on Dryopteris, the wood ferns: how to tell the native East Coast species apart in winter, why the ubiquitous nursery staple Dryopteris erythrosora, autumn fern, has quietly become a documented invasive across the eastern United States, and where the true natives earn a place in shade design. Closes with recall questions on Acer, Sassafras albidum, and Miscanthus.
@@ -1211,48 +1237,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-13-150009.mp3#7303491</guid>
       <pubDate>Thu, 13 Aug 2026 19:06:48 +0000</pubDate>
       <itunes:duration>9:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Chokeberry (Aronia)</title>
-      <description>A deep dive on the East Coast native genus Aronia — black, red, and purple chokeberry — covering the leaf-level diagnostics that separate the three taxa, a taxonomic tug-of-war with Photinia now settled by molecular phylogenomics, and why this is the most site-flexible native fruiting shrub for wet-to-dry Eastern gardens. Closes with a recall quiz on Actaea and Muhlenbergia capillaris.
-
-In this episode:
-• Aronia melanocarpa (Black Chokeberry) — 
-• Aronia arbutifolia (Chokeberry, Red Chokeberry) — 
-• Aronia x prunifolia — 
-• Aronia arbutifolia — 
-• Aronia x prunifolia — 
-• Aronia melanocarpa 'Viking' — 
-• Aronia melanocarpa Iroquois Beauty — 
-• Refining the phylogeny and taxonomy of the apple tribe Maleae: a taxonomic synopsis of Photinia and its allies — 
-• Aronia melanocarpa (black chokeberry) — 
-• Cedar Quince Rust — 
-• Black Cohosh (Actaea racemosa) — 
-• Actaea pachypoda (Baneberry, Doll's Eyes) — 
-• Muhlenbergia capillaris (Pink Muhly Grass) — 
-• Rain Garden Plants: Muhlenbergia capillaris — </description>
-      <itunes:summary>A deep dive on the East Coast native genus Aronia — black, red, and purple chokeberry — covering the leaf-level diagnostics that separate the three taxa, a taxonomic tug-of-war with Photinia now settled by molecular phylogenomics, and why this is the most site-flexible native fruiting shrub for wet-to-dry Eastern gardens. Closes with a recall quiz on Actaea and Muhlenbergia capillaris.
-
-In this episode:
-• Aronia melanocarpa (Black Chokeberry) — 
-• Aronia arbutifolia (Chokeberry, Red Chokeberry) — 
-• Aronia x prunifolia — 
-• Aronia arbutifolia — 
-• Aronia x prunifolia — 
-• Aronia melanocarpa 'Viking' — 
-• Aronia melanocarpa Iroquois Beauty — 
-• Refining the phylogeny and taxonomy of the apple tribe Maleae: a taxonomic synopsis of Photinia and its allies — 
-• Aronia melanocarpa (black chokeberry) — 
-• Cedar Quince Rust — 
-• Black Cohosh (Actaea racemosa) — 
-• Actaea pachypoda (Baneberry, Doll's Eyes) — 
-• Muhlenbergia capillaris (Pink Muhly Grass) — 
-• Rain Garden Plants: Muhlenbergia capillaris — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-12-150010.mp3" length="8193433" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-12-150010.mp3#8193433</guid>
-      <pubDate>Wed, 12 Aug 2026 19:09:01 +0000</pubDate>
-      <itunes:duration>11:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
