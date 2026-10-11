@@ -22,7 +22,29 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 09 Oct 2026 04:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:22:14 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Garden Mums (Chrysanthemum)</title>
+      <description>A clear-eyed look at garden mums: the taxonomy and breeding history behind the pallets at every garden center this month, why so many of them die over winter despite being technically perennial, the real distinction between florist mums, hardy rubellum types, and the University of Minnesota cushion series, and an honest reckoning with their ecological value compared to the native fall composites already in the rotation.
+
+In this episode:
+• Florist's Chrysanthemum - Chrysanthemum x morifolium — 
+• Chrysanthemum Rubellum Group — 
+• Cushion Growth Habit Chrysanthemums — 
+• Fall Planting Considerations: Asters are Naturally Pollinator Friendly Compared to Chrysanthemums — </description>
+      <itunes:summary>A clear-eyed look at garden mums: the taxonomy and breeding history behind the pallets at every garden center this month, why so many of them die over winter despite being technically perennial, the real distinction between florist mums, hardy rubellum types, and the University of Minnesota cushion series, and an honest reckoning with their ecological value compared to the native fall composites already in the rotation.
+
+In this episode:
+• Florist's Chrysanthemum - Chrysanthemum x morifolium — 
+• Chrysanthemum Rubellum Group — 
+• Cushion Growth Habit Chrysanthemums — 
+• Fall Planting Considerations: Asters are Naturally Pollinator Friendly Compared to Chrysanthemums — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-10-150321.mp3" length="8264281" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-10-150321.mp3#8264281</guid>
+      <pubDate>Sun, 11 Oct 2026 12:22:13 +0000</pubDate>
+      <itunes:duration>11:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — American Sweetgum (Liquidambar styraciflua)</title>
       <description>A deep dive on American sweetgum, the East Coast's most polarizing fall-color tree: its surprising taxonomy, its range from New England into Central America, the ecological payload most designers never mention, and why the fruitless cultivars solve only half the siting problem. Closes with a recall quiz on Rhododendron, Helenium, Nandina domestica, and Dryopteris.
@@ -1209,34 +1231,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-14-150013.mp3#7914459</guid>
       <pubDate>Fri, 14 Aug 2026 19:08:01 +0000</pubDate>
       <itunes:duration>10:47</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Turtlehead (Chelone)</title>
-      <description>A late-summer deep dive on Chelone, the turtlehead genus: how to tell glabra, lyonii, and obliqua apart in the field, why bumblebees are practically the only pollinator strong enough to work the flower, and where this moisture-loving native earns its keep in rain gardens and pondside plantings. Closes with a recall quiz on Helianthus, Clematis, and Aronia.
-
-In this episode:
-• Chelone glabra — 
-• Chelone lyonii — 
-• Chelone obliqua — 
-• Hot Lips Lyon's turtlehead (Chelone lyonii 'Hot Lips') — 
-• Turtlehead Flowering &amp; Being Pollinated By Bumble Bees — 
-• Chelone lyonii (pink turtlehead) — 
-• Chelone lyonii 'Hot Lips' — </description>
-      <itunes:summary>A late-summer deep dive on Chelone, the turtlehead genus: how to tell glabra, lyonii, and obliqua apart in the field, why bumblebees are practically the only pollinator strong enough to work the flower, and where this moisture-loving native earns its keep in rain gardens and pondside plantings. Closes with a recall quiz on Helianthus, Clematis, and Aronia.
-
-In this episode:
-• Chelone glabra — 
-• Chelone lyonii — 
-• Chelone obliqua — 
-• Hot Lips Lyon's turtlehead (Chelone lyonii 'Hot Lips') — 
-• Turtlehead Flowering &amp; Being Pollinated By Bumble Bees — 
-• Chelone lyonii (pink turtlehead) — 
-• Chelone lyonii 'Hot Lips' — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-13-150009.mp3" length="7303491" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-13-150009.mp3#7303491</guid>
-      <pubDate>Thu, 13 Aug 2026 19:06:48 +0000</pubDate>
-      <itunes:duration>9:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
