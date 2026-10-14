@@ -22,7 +22,41 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 13 Oct 2026 12:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:07:16 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Smoketrees (Cotinus)</title>
+      <description>A genus episode on Cotinus: the American smoketree, Cotinus obovatus, arguably the finest fall color of any North American woody plant, and the Eurasian smokebush, Cotinus coggygria, with its purple, gold, and compact cultivars. We cover what the smoke actually is, sex and siting, verticillium and wet feet, coppicing, the Hillier hybrids like 'Grace', honest ecological value, and design use, then quiz Asclepias, Crataegus, Mitchella repens, Liquidambar styraciflua, and Juniperus.
+
+In this episode:
+• Cotinus obovatus (American Smoketree) — 
+• Cotinus coggygria (Common Smoketree) — 
+• Cotinus obovatus — 
+• Cotinus coggygria — 
+• American Smoketree — 
+• Cultivar: Grace for Cotinus coggygria — 
+• Smoke Tree (Cotinus coggygria) — Verticillium Wilt — 
+• A New Leafmining Moth (Cameraria cotinivora) of the American Smoketree — 
+• First Record of Citheronia regalis Feeding on Cotinus obovatus — 
+• Cotinus coggygria 'Royal Purple' fact sheet — </description>
+      <itunes:summary>A genus episode on Cotinus: the American smoketree, Cotinus obovatus, arguably the finest fall color of any North American woody plant, and the Eurasian smokebush, Cotinus coggygria, with its purple, gold, and compact cultivars. We cover what the smoke actually is, sex and siting, verticillium and wet feet, coppicing, the Hillier hybrids like 'Grace', honest ecological value, and design use, then quiz Asclepias, Crataegus, Mitchella repens, Liquidambar styraciflua, and Juniperus.
+
+In this episode:
+• Cotinus obovatus (American Smoketree) — 
+• Cotinus coggygria (Common Smoketree) — 
+• Cotinus obovatus — 
+• Cotinus coggygria — 
+• American Smoketree — 
+• Cultivar: Grace for Cotinus coggygria — 
+• Smoke Tree (Cotinus coggygria) — Verticillium Wilt — 
+• A New Leafmining Moth (Cameraria cotinivora) of the American Smoketree — 
+• First Record of Citheronia regalis Feeding on Cotinus obovatus — 
+• Cotinus coggygria 'Royal Purple' fact sheet — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-14-000010.mp3" length="12632470" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-14-000010.mp3#12632470</guid>
+      <pubDate>Wed, 14 Oct 2026 04:07:16 +0000</pubDate>
+      <itunes:duration>17:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Junipers (Juniperus)</title>
       <description>A genus deep dive on Juniperus through an East Coast designer's lens: eastern redcedar and southern redcedar, the native common and creeping junipers, and the Asian groundcovers and uprights that fill foundation plantings. Covers identification, the rust and tip-blight problems, juniper hairstreak and bird value, cultivar sex and form, where junipers earn their place, and a review quiz on switchgrass, Miscanthus, mums, Euonymus, Dryopteris, and Hydrangea.
@@ -1221,30 +1255,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-16-150008.mp3#7614162</guid>
       <pubDate>Sun, 16 Aug 2026 19:07:04 +0000</pubDate>
       <itunes:duration>10:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Christmas Fern (Polystichum acrostichoides)</title>
-      <description>A deep dive on Polystichum acrostichoides, the workhorse evergreen fern of Eastern woodlands, covering its dimorphic fronds and lookalikes, its real tolerance for dry shade, why it never became a naturalizing thug, and where it earns its keep as a hosta substitute in deer country. Closes with a recall quiz on Veronicastrum virginicum, Muhlenbergia capillaris, and Franklinia alatamaha.
-
-In this episode:
-• Polystichum acrostichoides (Christmas Dagger, Christmas Dagger Fern, Christmas Fern) — 
-• Polystichum acrostichoides - Plant Finder — 
-• Polystichum acrostichoides — 
-• Polystichum acrostichoides — 
-• Dryopteris marginalis — </description>
-      <itunes:summary>A deep dive on Polystichum acrostichoides, the workhorse evergreen fern of Eastern woodlands, covering its dimorphic fronds and lookalikes, its real tolerance for dry shade, why it never became a naturalizing thug, and where it earns its keep as a hosta substitute in deer country. Closes with a recall quiz on Veronicastrum virginicum, Muhlenbergia capillaris, and Franklinia alatamaha.
-
-In this episode:
-• Polystichum acrostichoides (Christmas Dagger, Christmas Dagger Fern, Christmas Fern) — 
-• Polystichum acrostichoides - Plant Finder — 
-• Polystichum acrostichoides — 
-• Polystichum acrostichoides — 
-• Dryopteris marginalis — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-15-150005.mp3" length="7178439" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-15-150005.mp3#7178439</guid>
-      <pubDate>Sat, 15 Aug 2026 19:07:20 +0000</pubDate>
-      <itunes:duration>9:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
