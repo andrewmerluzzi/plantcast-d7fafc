@@ -22,7 +22,47 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 17 Oct 2026 04:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:17:16 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Callery Pear (Pyrus calleryana)</title>
+      <description>An invasive-species deep dive on Callery pear, the tree behind 'Bradford', and why mid fall is the best time to map it. We cover the USDA fire blight program that brought it here, how self-incompatibility plus a crowd of cultivars turned a sterile clone into an invader, field ID against native look-alikes, the state bans and bounties now in force, control that actually works, and what to specify in its place.
+
+In this episode:
+• The Rise and Fall of the Ornamental Callery Pear Tree — 
+• Pyrus calleryana — 
+• Callery Pear: History, Identification, and Control (FOR-2078) — 
+• Callery Pear: Accurate Identification — 
+• Invasive Bradford (Callery) Pear: Why It Is So Detrimental and What to Plant Instead — 
+• Invasive Callery Pear: Identification and Control (MF3570) — 
+• Callery Pear — 
+• Ohio outlaws ubiquitous pear trees — 
+• Banned Callery pear tree: phased ban to begin next month — 
+• Pennsylvania Callery (Bradford) pear tree ban — 
+• Ecologists have declared war on this popular decorative tree — 
+• Checklist of Cultivars of Callery Pear (Pyrus calleryana) — 
+• Pyrus calleryana Chanticleer — </description>
+      <itunes:summary>An invasive-species deep dive on Callery pear, the tree behind 'Bradford', and why mid fall is the best time to map it. We cover the USDA fire blight program that brought it here, how self-incompatibility plus a crowd of cultivars turned a sterile clone into an invader, field ID against native look-alikes, the state bans and bounties now in force, control that actually works, and what to specify in its place.
+
+In this episode:
+• The Rise and Fall of the Ornamental Callery Pear Tree — 
+• Pyrus calleryana — 
+• Callery Pear: History, Identification, and Control (FOR-2078) — 
+• Callery Pear: Accurate Identification — 
+• Invasive Bradford (Callery) Pear: Why It Is So Detrimental and What to Plant Instead — 
+• Invasive Callery Pear: Identification and Control (MF3570) — 
+• Callery Pear — 
+• Ohio outlaws ubiquitous pear trees — 
+• Banned Callery pear tree: phased ban to begin next month — 
+• Pennsylvania Callery (Bradford) pear tree ban — 
+• Ecologists have declared war on this popular decorative tree — 
+• Checklist of Cultivars of Callery Pear (Pyrus calleryana) — 
+• Pyrus calleryana Chanticleer — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-18-091017.mp3" length="11323120" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-18-091017.mp3#11323120</guid>
+      <pubDate>Sun, 18 Oct 2026 13:17:15 +0000</pubDate>
+      <itunes:duration>15:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Alumroot and Coral Bells (Heuchera)</title>
       <description>A genus deep dive on Heuchera through an East Coast lens: the eastern native species, from the Appalachian Heuchera villosa that is blooming right now to rock-ledge Heuchera americana and the obscure Ridge and Valley species. We cover why the hybrid boom split along western versus eastern parentage, what the Mount Cuba and Chicago Botanic Garden trials actually showed, crown rise and short lifespan, the Heuchera-specialist bee Colletes aestivalis, and how to specify coral bells honestly in a design.
@@ -1253,32 +1293,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-24-150012.mp3#9199986</guid>
       <pubDate>Mon, 24 Aug 2026 19:09:36 +0000</pubDate>
       <itunes:duration>12:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Virginia Creeper and Boston Ivy (Parthenocissus)</title>
-      <description>A late-summer look at the woody vine genus Parthenocissus: the East Coast native Virginia creeper and its Asian relative Boston ivy. We cover identification against poison ivy, real ecological value as a sphinx moth host and migratory bird fuel, and the design tradeoffs between the two species on masonry and in the wild garden.
-
-In this episode:
-• Parthenocissus quinquefolia (Virginia Creeper, Virginia-creeper, Woodbine) — 
-• Parthenocissus quinquefolia - Plant Finder — 
-• Parthenocissus tricuspidata (Boston Ivy, Grape Ivy, Japanese Creeper, Japanese Ivy) — 
-• Boston ivy: Parthenocissus tricuspidata — 
-• Parthenocissus quinquefolia (Virginia creeper) — 
-• Shoot growth and leaf dimorphism in Boston ivy (Parthenocissus tricuspidata) — </description>
-      <itunes:summary>A late-summer look at the woody vine genus Parthenocissus: the East Coast native Virginia creeper and its Asian relative Boston ivy. We cover identification against poison ivy, real ecological value as a sphinx moth host and migratory bird fuel, and the design tradeoffs between the two species on masonry and in the wild garden.
-
-In this episode:
-• Parthenocissus quinquefolia (Virginia Creeper, Virginia-creeper, Woodbine) — 
-• Parthenocissus quinquefolia - Plant Finder — 
-• Parthenocissus tricuspidata (Boston Ivy, Grape Ivy, Japanese Creeper, Japanese Ivy) — 
-• Boston ivy: Parthenocissus tricuspidata — 
-• Parthenocissus quinquefolia (Virginia creeper) — 
-• Shoot growth and leaf dimorphism in Boston ivy (Parthenocissus tricuspidata) — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-22-150329.mp3" length="8151767" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-22-150329.mp3#8151767</guid>
-      <pubDate>Sat, 22 Aug 2026 22:02:49 +0000</pubDate>
-      <itunes:duration>11:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
