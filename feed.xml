@@ -22,7 +22,39 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 18 Oct 2026 13:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:14:25 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Bayberry and Wax Myrtle (Morella)</title>
+      <description>A genus episode on Morella, the bayberries and wax myrtle: the evergreen, nitrogen-fixing, salt-proof backbone shrubs of the Atlantic coastal plain. We cover the unsettled Myrica-versus-Morella taxonomy, how to tell wax myrtle, northern bayberry, and evergreen bayberry apart, their culture limits and failure modes, the wax-eating warblers that depend on them, cultivars, and where they belong in East Coast design. Closes with a recall quiz on Cotinus, Carpinus, and Callery pear.
+
+In this episode:
+• Morella cerifera (Southern Wax Myrtle) — 
+• Morella pensylvanica (Northern Bayberry) — 
+• Comptonia peregrina (Sweet Fern) — 
+• Waxmyrtle — 
+• Species review: Morella pensylvanica — 
+• Morella (genus overview) — 
+• Southern Bayberry (Morella caroliniensis) — 
+• Morella genus page — 
+• 2002 Plant of the Year: Morella cerifera — </description>
+      <itunes:summary>A genus episode on Morella, the bayberries and wax myrtle: the evergreen, nitrogen-fixing, salt-proof backbone shrubs of the Atlantic coastal plain. We cover the unsettled Myrica-versus-Morella taxonomy, how to tell wax myrtle, northern bayberry, and evergreen bayberry apart, their culture limits and failure modes, the wax-eating warblers that depend on them, cultivars, and where they belong in East Coast design. Closes with a recall quiz on Cotinus, Carpinus, and Callery pear.
+
+In this episode:
+• Morella cerifera (Southern Wax Myrtle) — 
+• Morella pensylvanica (Northern Bayberry) — 
+• Comptonia peregrina (Sweet Fern) — 
+• Waxmyrtle — 
+• Species review: Morella pensylvanica — 
+• Morella (genus overview) — 
+• Southern Bayberry (Morella caroliniensis) — 
+• Morella genus page — 
+• 2002 Plant of the Year: Morella cerifera — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-19-080615.mp3" length="14686335" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-19-080615.mp3#14686335</guid>
+      <pubDate>Mon, 19 Oct 2026 12:14:25 +0000</pubDate>
+      <itunes:duration>20:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Callery Pear (Pyrus calleryana)</title>
       <description>An invasive-species deep dive on Callery pear, the tree behind 'Bradford', and why mid fall is the best time to map it. We cover the USDA fire blight program that brought it here, how self-incompatibility plus a crowd of cultivars turned a sterile clone into an invader, field ID against native look-alikes, the state bans and bounties now in force, control that actually works, and what to specify in its place.
@@ -1263,36 +1295,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-25-150004.mp3#8628230</guid>
       <pubDate>Tue, 25 Aug 2026 19:06:57 +0000</pubDate>
       <itunes:duration>11:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Stonecrop (Hylotelephium)</title>
-      <description>A genus deep dive on Hylotelephium, the upright border stonecrops split out of Sedum: the Chinese and European species behind the trade hybrids, the one true East Coast native tucked into Appalachian rock outcrops, and why these succulent late-summer bloomers are some of the most important late-season nectar plants a designer can specify. Closes with a six-plant spaced-repetition quiz covering Hibiscus, Coreopsis, Vernonia, Aronia, Chelone, and Parthenocissus.
-
-In this episode:
-• Hylotelephium (Live-forever, Orpine, Sedum, Stonecrop) — 
-• Hylotelephium telephioides — 
-• Hylotelephium spectabile (Ice Plant, Showy Stonecrop, Stonecrop) — 
-• Hylotelephium spectabile 'Autumn Joy' — 
-• Hylotelephium spectabile — 
-• Hylotelephium 'Herbstfreude' AUTUMN JOY — 
-• Sedum is a reliable fall food source for foraging butterflies — 
-• Monarch Nectar Plant Guides — </description>
-      <itunes:summary>A genus deep dive on Hylotelephium, the upright border stonecrops split out of Sedum: the Chinese and European species behind the trade hybrids, the one true East Coast native tucked into Appalachian rock outcrops, and why these succulent late-summer bloomers are some of the most important late-season nectar plants a designer can specify. Closes with a six-plant spaced-repetition quiz covering Hibiscus, Coreopsis, Vernonia, Aronia, Chelone, and Parthenocissus.
-
-In this episode:
-• Hylotelephium (Live-forever, Orpine, Sedum, Stonecrop) — 
-• Hylotelephium telephioides — 
-• Hylotelephium spectabile (Ice Plant, Showy Stonecrop, Stonecrop) — 
-• Hylotelephium spectabile 'Autumn Joy' — 
-• Hylotelephium spectabile — 
-• Hylotelephium 'Herbstfreude' AUTUMN JOY — 
-• Sedum is a reliable fall food source for foraging butterflies — 
-• Monarch Nectar Plant Guides — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-24-150012.mp3" length="9199986" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-24-150012.mp3#9199986</guid>
-      <pubDate>Mon, 24 Aug 2026 19:09:36 +0000</pubDate>
-      <itunes:duration>12:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
