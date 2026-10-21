@@ -22,7 +22,43 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 20 Oct 2026 13:34:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:38:57 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Birches (Betula)</title>
+      <description>A genus deep dive on Betula from an East Coast designer's point of view: river birch, sweet birch, yellow birch, gray birch, and paper birch, plus the white-barked imports. We cover identification by bark and twig, the bronze birch borer problem and which species shrug it off, pH and heat limits, the outsized caterpillar value of the genus, and how to specify birches without regretting it. Closes with a review quiz on sweetgum, Heuchera, and boxwood.
+
+In this episode:
+• Betula nigra (River Birch) — 
+• Betula lenta (Sweet Birch) — 
+• Betula alleghaniensis (Yellow Birch) — 
+• Yellow Birch — 
+• Bronze Birch Borer — 
+• Resistance of ornamental birch to bronze birch borer — 
+• Progress in the Development of Borer-Resistant White-Barked Birches — 
+• Betula populifolia 'Whitespire Senior' — 
+• Whitespire Senior gray birch — 
+• Managing Chlorosis in Trees — 
+• 20 Most Valuable Woody and Perennial Native Plant Genera (Tallamy) — </description>
+      <itunes:summary>A genus deep dive on Betula from an East Coast designer's point of view: river birch, sweet birch, yellow birch, gray birch, and paper birch, plus the white-barked imports. We cover identification by bark and twig, the bronze birch borer problem and which species shrug it off, pH and heat limits, the outsized caterpillar value of the genus, and how to specify birches without regretting it. Closes with a review quiz on sweetgum, Heuchera, and boxwood.
+
+In this episode:
+• Betula nigra (River Birch) — 
+• Betula lenta (Sweet Birch) — 
+• Betula alleghaniensis (Yellow Birch) — 
+• Yellow Birch — 
+• Bronze Birch Borer — 
+• Resistance of ornamental birch to bronze birch borer — 
+• Progress in the Development of Borer-Resistant White-Barked Birches — 
+• Betula populifolia 'Whitespire Senior' — 
+• Whitespire Senior gray birch — 
+• Managing Chlorosis in Trees — 
+• 20 Most Valuable Woody and Perennial Native Plant Genera (Tallamy) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-21-063050.mp3" length="14064081" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-21-063050.mp3#14064081</guid>
+      <pubDate>Wed, 21 Oct 2026 10:38:56 +0000</pubDate>
+      <itunes:duration>19:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Boxwood (Buxus)</title>
       <description>A clear-eyed look at Buxus, the evergreen backbone of East Coast foundation plantings, now under pressure from two imported threats: boxwood blight and the box tree moth. We cover the species groups and the trade hybrids, blight-resistance data by cultivar, how the moth is spreading and how to manage it, culture and pruning that keep plants healthy, and when to specify an alternative. The episode closes with a recall quiz on Miscanthus, Dryopteris, Pachysandra and Morella.
@@ -1279,32 +1315,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-27-120113.mp3#7242072</guid>
       <pubDate>Thu, 27 Aug 2026 16:14:14 +0000</pubDate>
       <itunes:duration>9:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Purple Passionflower (Passiflora incarnata)</title>
-      <description>A deep dive on Passiflora incarnata, the East Coast's hardy native passionflower, at the peak of its midsummer-into-fall bloom and fruit set. Covers its perennial-vine habit and root-suckering spread, the real fritillary host relationship on the East Coast, where it earns a place in a design versus where it becomes a management headache, and how it stacks up against native Passiflora lutea and the tropical hybrid Incense.
-
-In this episode:
-• Passiflora incarnata (Apricot Vine, Maypop, Passionflower, Passion Vine) — 
-• Passiflora lutea (Dwarf Passionflower, Eastern Yellow Passionflower) — 
-• Passiflora lutea (Yellow passionflower) — 
-• Variegated Fritillary, Euptoieta claudia — 
-• Know Your Native Pollinators: Gulf Fritillary — 
-• Passiflora incarnata x cincinnata Incense — </description>
-      <itunes:summary>A deep dive on Passiflora incarnata, the East Coast's hardy native passionflower, at the peak of its midsummer-into-fall bloom and fruit set. Covers its perennial-vine habit and root-suckering spread, the real fritillary host relationship on the East Coast, where it earns a place in a design versus where it becomes a management headache, and how it stacks up against native Passiflora lutea and the tropical hybrid Incense.
-
-In this episode:
-• Passiflora incarnata (Apricot Vine, Maypop, Passionflower, Passion Vine) — 
-• Passiflora lutea (Dwarf Passionflower, Eastern Yellow Passionflower) — 
-• Passiflora lutea (Yellow passionflower) — 
-• Variegated Fritillary, Euptoieta claudia — 
-• Know Your Native Pollinators: Gulf Fritillary — 
-• Passiflora incarnata x cincinnata Incense — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-26-150012.mp3" length="8363040" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-26-150012.mp3#8363040</guid>
-      <pubDate>Wed, 26 Aug 2026 19:15:58 +0000</pubDate>
-      <itunes:duration>11:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
