@@ -22,7 +22,49 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 21 Oct 2026 10:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:31:36 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Gentians (Gentiana)</title>
+      <description>A late-October deep dive on the eastern native gentians: bottle gentian, closed gentian, soapwort gentian, striped gentian, and the coastal plain gentian. We cover how to tell the bottle gentians apart, how to keep them alive in eastern gardens, the bumblebee pollination story and the carpenter bees that cheat it, conservation status, and where garden hybrids like True Blue fit. Plus a review quiz on Ligustrum, Eurybia, Fothergilla, Callery pear, and Betula.
+
+In this episode:
+• Bottle Gentian (Gentiana andrewsii) — 
+• Gentiana andrewsii (Bottle Gentian) — 
+• Gentiana andrewsii — 
+• Gentiana clausa — 
+• Gentiana saponaria — 
+• Hidden beauties... when you thought our flowering season was over — 
+• Gentiana villosa (Striped Gentian) species factsheet — 
+• Gentiana villosa — 
+• Gentiana catesbaei species account — 
+• Blazing Star, Fall 2013 (coastal plain gentian) — 
+• Jenkins' Seed Packets: Bottle Gentian — 
+• Gentiana plant named True Blue (USPP20433) — 
+• June 2012 Plant Profile: Gentiana x True Blue — 
+• Gentiana True Blue — </description>
+      <itunes:summary>A late-October deep dive on the eastern native gentians: bottle gentian, closed gentian, soapwort gentian, striped gentian, and the coastal plain gentian. We cover how to tell the bottle gentians apart, how to keep them alive in eastern gardens, the bumblebee pollination story and the carpenter bees that cheat it, conservation status, and where garden hybrids like True Blue fit. Plus a review quiz on Ligustrum, Eurybia, Fothergilla, Callery pear, and Betula.
+
+In this episode:
+• Bottle Gentian (Gentiana andrewsii) — 
+• Gentiana andrewsii (Bottle Gentian) — 
+• Gentiana andrewsii — 
+• Gentiana clausa — 
+• Gentiana saponaria — 
+• Hidden beauties... when you thought our flowering season was over — 
+• Gentiana villosa (Striped Gentian) species factsheet — 
+• Gentiana villosa — 
+• Gentiana catesbaei species account — 
+• Blazing Star, Fall 2013 (coastal plain gentian) — 
+• Jenkins' Seed Packets: Bottle Gentian — 
+• Gentiana plant named True Blue (USPP20433) — 
+• June 2012 Plant Profile: Gentiana x True Blue — 
+• Gentiana True Blue — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-22-061010.mp3" length="13123989" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-22-061010.mp3#13123989</guid>
+      <pubDate>Thu, 22 Oct 2026 11:31:36 +0000</pubDate>
+      <itunes:duration>18:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Birches (Betula)</title>
       <description>A genus deep dive on Betula from an East Coast designer's point of view: river birch, sweet birch, yellow birch, gray birch, and paper birch, plus the white-barked imports. We cover identification by bark and twig, the bronze birch borer problem and which species shrug it off, pH and heat limits, the outsized caterpillar value of the genus, and how to specify birches without regretting it. Closes with a review quiz on sweetgum, Heuchera, and boxwood.
@@ -1289,32 +1331,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-28-150005.mp3#8272114</guid>
       <pubDate>Fri, 28 Aug 2026 19:05:18 +0000</pubDate>
       <itunes:duration>11:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — American Persimmon (Diospyros virginiana)</title>
-      <description>A deep dive on American persimmon, the alligator-barked native tree quietly loading up with fruit right now. We cover its dioecious biology and the practical headaches that creates for designers, its real ecological payload as a Saturniid moth host, the persimmon wilt disease that can take out a mature specimen fast, and which grafted cultivars are worth specifying for edible landscape work.
-
-In this episode:
-• Persimmon - Diospyros virginiana — 
-• Diospyros virginiana - Plant Finder — 
-• Diospyros virginiana — 
-• Cephalosporium wilt of persimmon — 
-• Native Persimmon in the Garden and the Kitchen — 
-• Common Persimmon - Diospyros virginiana — </description>
-      <itunes:summary>A deep dive on American persimmon, the alligator-barked native tree quietly loading up with fruit right now. We cover its dioecious biology and the practical headaches that creates for designers, its real ecological payload as a Saturniid moth host, the persimmon wilt disease that can take out a mature specimen fast, and which grafted cultivars are worth specifying for edible landscape work.
-
-In this episode:
-• Persimmon - Diospyros virginiana — 
-• Diospyros virginiana - Plant Finder — 
-• Diospyros virginiana — 
-• Cephalosporium wilt of persimmon — 
-• Native Persimmon in the Garden and the Kitchen — 
-• Common Persimmon - Diospyros virginiana — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-27-120113.mp3" length="7242072" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-27-120113.mp3#7242072</guid>
-      <pubDate>Thu, 27 Aug 2026 16:14:14 +0000</pubDate>
-      <itunes:duration>9:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
