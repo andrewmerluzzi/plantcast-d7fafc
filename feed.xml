@@ -22,7 +22,45 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 23 Oct 2026 12:22:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:37:10 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Red-osier Dogwood (Cornus sericea)</title>
+      <description>A species deep dive on red-osier dogwood, Cornus sericea, the red-stemmed shrub dogwood that every Northeastern designer specifies and every Southern designer should think twice about. We cover separating it from silky dogwood, gray dogwood and the Asian Cornus alba, its heat and leaf-spot limits, coppicing for stem color, its value for migrating birds, specialist bees and caterpillars, the cultivars worth using, and a recall quiz on Juniperus, Buxus and Wisteria.
+
+In this episode:
+• Cornus sericea — 
+• Cornus amomum — 
+• Cornus racemosa — 
+• Cornus sericea — 
+• Cornus alba — 
+• Cornus alba 'Bailhalo' (Ivory Halo) — 
+• Red-twig Dogwood Color — 
+• Leaf spot susceptibility of dogwood taxa — 
+• Cornus spp. insect associations — 
+• Beyond the Bird Feeder: Dogwood Trees — 
+• Fall berries for the birds — 
+• Silky dogwood identification — </description>
+      <itunes:summary>A species deep dive on red-osier dogwood, Cornus sericea, the red-stemmed shrub dogwood that every Northeastern designer specifies and every Southern designer should think twice about. We cover separating it from silky dogwood, gray dogwood and the Asian Cornus alba, its heat and leaf-spot limits, coppicing for stem color, its value for migrating birds, specialist bees and caterpillars, the cultivars worth using, and a recall quiz on Juniperus, Buxus and Wisteria.
+
+In this episode:
+• Cornus sericea — 
+• Cornus amomum — 
+• Cornus racemosa — 
+• Cornus sericea — 
+• Cornus alba — 
+• Cornus alba 'Bailhalo' (Ivory Halo) — 
+• Red-twig Dogwood Color — 
+• Leaf spot susceptibility of dogwood taxa — 
+• Cornus spp. insect associations — 
+• Beyond the Bird Feeder: Dogwood Trees — 
+• Fall berries for the birds — 
+• Silky dogwood identification — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-24-082739.mp3" length="13674143" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-24-082739.mp3#13674143</guid>
+      <pubDate>Sat, 24 Oct 2026 12:37:09 +0000</pubDate>
+      <itunes:duration>18:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Wisteria (Wisteria)</title>
       <description>A genus episode on Wisteria: the native American and Kentucky wisterias versus the Asian Chinese and Japanese species and their hybrid swarm that now dominates naturalized stands in the Southeast. We cover field identification in fall, culture and pruning, real host-plant value, the cultivar picture, how to specify the native responsibly, and how to remove the Asian vines. Quiz on Chrysanthemum, Morella, and Gentiana.
@@ -1309,34 +1347,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-30-150000.mp3#7143634</guid>
       <pubDate>Sun, 30 Aug 2026 19:05:59 +0000</pubDate>
       <itunes:duration>9:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — River Oats (Chasmanthium latifolium)</title>
-      <description>A deep dive on Chasmanthium latifolium, the East Coast's best broad-leaved grass for shade, covering its taxonomic split from true coastal sea oats, its aggressive self-seeding habit, larval host value, and where it actually earns a spot in a shaded planting plan. Closes with a recall quiz on Polystichum acrostichoides, Eupatorium, and Celastrus.
-
-In this episode:
-• Chasmanthium latifolium (Indian Wood Oats, Inland Sea Oats, Northern Sea Oats, River Oats) — 
-• Chasmanthium latifolium - Plant Finder — 
-• Wild oats (Chasmanthium latifolium) — 
-• Chasmanthium latifolium (Inland sea oats) — 
-• Chasmanthium latifolium (River Oats) — 
-• Chasmanthium plant named 'River Mist' (US Plant Patent PP20,643) — 
-• chasmanthium, a native grass for shade — </description>
-      <itunes:summary>A deep dive on Chasmanthium latifolium, the East Coast's best broad-leaved grass for shade, covering its taxonomic split from true coastal sea oats, its aggressive self-seeding habit, larval host value, and where it actually earns a spot in a shaded planting plan. Closes with a recall quiz on Polystichum acrostichoides, Eupatorium, and Celastrus.
-
-In this episode:
-• Chasmanthium latifolium (Indian Wood Oats, Inland Sea Oats, Northern Sea Oats, River Oats) — 
-• Chasmanthium latifolium - Plant Finder — 
-• Wild oats (Chasmanthium latifolium) — 
-• Chasmanthium latifolium (Inland sea oats) — 
-• Chasmanthium latifolium (River Oats) — 
-• Chasmanthium plant named 'River Mist' (US Plant Patent PP20,643) — 
-• chasmanthium, a native grass for shade — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-29-150004.mp3" length="7307895" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-08-29-150004.mp3#7307895</guid>
-      <pubDate>Sat, 29 Aug 2026 19:05:07 +0000</pubDate>
-      <itunes:duration>9:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
