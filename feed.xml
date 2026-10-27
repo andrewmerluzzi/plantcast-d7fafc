@@ -22,7 +22,25 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 26 Oct 2026 12:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:33:00 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Eastern Redbud (Cercis canadensis)</title>
+      <description>A deep dive on eastern redbud, Cercis canadensis: identification and cauliflory, native range and varieties, culture and disease pressure, ecological value, and an honest rundown of cultivars such as Forest Pansy, Hearts of Gold, and Appalachian Red. Closes with a recall quiz on Pachysandra, Wisteria, and Phragmites australis.
+
+In this episode:
+• Cercis canadensis - NC State Extension Gardener Plant Toolbox — 
+• Purdue Arboretum plant explorer (Cercis canadensis cultivars) — </description>
+      <itunes:summary>A deep dive on eastern redbud, Cercis canadensis: identification and cauliflory, native range and varieties, culture and disease pressure, ecological value, and an honest rundown of cultivars such as Forest Pansy, Hearts of Gold, and Appalachian Red. Closes with a recall quiz on Pachysandra, Wisteria, and Phragmites australis.
+
+In this episode:
+• Cercis canadensis - NC State Extension Gardener Plant Toolbox — 
+• Purdue Arboretum plant explorer (Cercis canadensis cultivars) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-27-035237.mp3" length="6953046" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-27-035237.mp3#6953046</guid>
+      <pubDate>Tue, 27 Oct 2026 12:32:59 +0000</pubDate>
+      <itunes:duration>9:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Common Reed (Phragmites australis)</title>
       <description>An invasive-management episode on Phragmites australis, the tan-plumed reed now towering over every Eastern ditch, marsh edge, and stormwater basin. We cover the cryptic invasion story, how to tell the native subspecies from the Eurasian lineage in the field, why it wins, what it does and doesn't do ecologically, and a realistic fall control program for a designer inheriting a stand. Closes with a review quiz on Cotinus, Carpinus, Gentiana, and Fagus.
@@ -1315,38 +1333,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-02-150000.mp3#7731381</guid>
       <pubDate>Wed, 02 Sep 2026 19:08:47 +0000</pubDate>
       <itunes:duration>10:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Wood Asters (Eurybia)</title>
-      <description>A genus-level look at Eurybia, the wood asters, covering the nineteen-nineties split from Aster, the three East Coast garden species (white wood aster, large-leaf aster, and the coastal showy wood aster), culture and habit in dry shade, cultivar performance including Eastern Star, and how it plays against Symphyotrichum in design. Closes with a five-plant spaced-repetition review.
-
-In this episode:
-• Eurybia divaricata (White Wood Aster) — 
-• Eurybia divaricata — 
-• White Wood Aster — 
-• Blue Wood Aster — 
-• Large-leaf Aster — 
-• Aster Trial — 
-• Eurybia — 
-• Eurybia spectabilis — 
-• Eurybia divaricata Eastern Star — </description>
-      <itunes:summary>A genus-level look at Eurybia, the wood asters, covering the nineteen-nineties split from Aster, the three East Coast garden species (white wood aster, large-leaf aster, and the coastal showy wood aster), culture and habit in dry shade, cultivar performance including Eastern Star, and how it plays against Symphyotrichum in design. Closes with a five-plant spaced-repetition review.
-
-In this episode:
-• Eurybia divaricata (White Wood Aster) — 
-• Eurybia divaricata — 
-• White Wood Aster — 
-• Blue Wood Aster — 
-• Large-leaf Aster — 
-• Aster Trial — 
-• Eurybia — 
-• Eurybia spectabilis — 
-• Eurybia divaricata Eastern Star — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-01-150005.mp3" length="9738208" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-01-150005.mp3#9738208</guid>
-      <pubDate>Tue, 01 Sep 2026 19:10:20 +0000</pubDate>
-      <itunes:duration>13:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
