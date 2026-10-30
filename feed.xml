@@ -22,7 +22,35 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 29 Oct 2026 04:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:06:23 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Hemlock (Tsuga)</title>
+      <description>A genus-level look at the two eastern hemlocks, Tsuga canadensis and Tsuga caroliniana: how to tell them apart, where they truly belong, what the hemlock woolly adelgid has changed about specifying them, and which cultivars are worth knowing. Closes with a recall quiz on pawpaw, bald cypress, Morella, Phragmites, and Rosa.
+
+In this episode:
+• Tsuga canadensis — NC State Extension Gardener Plant Toolbox — 
+• Tsuga caroliniana — NC State Extension Gardener Plant Toolbox — 
+• Tsuga canadensis — Trees and Shrubs Online — 
+• Hemlock Woolly Adelgid — 
+• Scientific fact sheet: Adelges tsugae — 
+• Cultivar: Jeddeloh for Tsuga canadensis — 
+• Conifer Database — Jeddeloh — </description>
+      <itunes:summary>A genus-level look at the two eastern hemlocks, Tsuga canadensis and Tsuga caroliniana: how to tell them apart, where they truly belong, what the hemlock woolly adelgid has changed about specifying them, and which cultivars are worth knowing. Closes with a recall quiz on pawpaw, bald cypress, Morella, Phragmites, and Rosa.
+
+In this episode:
+• Tsuga canadensis — NC State Extension Gardener Plant Toolbox — 
+• Tsuga caroliniana — NC State Extension Gardener Plant Toolbox — 
+• Tsuga canadensis — Trees and Shrubs Online — 
+• Hemlock Woolly Adelgid — 
+• Scientific fact sheet: Adelges tsugae — 
+• Cultivar: Jeddeloh for Tsuga canadensis — 
+• Conifer Database — Jeddeloh — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-30-000005.mp3" length="11343166" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-30-000005.mp3#11343166</guid>
+      <pubDate>Fri, 30 Oct 2026 04:06:22 +0000</pubDate>
+      <itunes:duration>15:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Wild Roses (Rosa)</title>
       <description>A designer's tour of the genus Rosa on the East Coast: the native roses worth specifying (Virginia, Carolina, swamp, and climbing prairie rose), the invasive Asian roses you'll be ripping out (multiflora, rugosa on the dunes, Cherokee and Macartney in the South), and the rose rosette problem that ties them all together. Closes with a recall quiz on Callery pear, beech, and maidenhair fern.
@@ -1335,32 +1363,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-151648.mp3#8826338</guid>
       <pubDate>Tue, 15 Sep 2026 19:24:29 +0000</pubDate>
       <itunes:duration>12:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Pawpaw (Asimina triloba)</title>
-      <description>A deep dive on Asimina triloba, the only temperate member of the tropical Annonaceae, timed to when its fruit is actually ripening on East Coast trees. Covers its odd fly-and-beetle pollination, the self-incompatibility that trips up half the pawpaw patches ever planted, its status as the sole host plant for the zebra swallowtail, and how the named cultivars from the Kentucky State University and Peterson breeding programs stack up for a designer specifying an edible woodland-edge planting.
-
-In this episode:
-• Asimina triloba (Common Pawpaw, Pawpaw) — 
-• Asimina triloba — 
-• The Pawpaw — 
-• Pawpaws and the Zebra Swallowtail Butterfly — 
-• Pawpaw — 
-• The Kentucky Pawpaw Regional Variety Trial — </description>
-      <itunes:summary>A deep dive on Asimina triloba, the only temperate member of the tropical Annonaceae, timed to when its fruit is actually ripening on East Coast trees. Covers its odd fly-and-beetle pollination, the self-incompatibility that trips up half the pawpaw patches ever planted, its status as the sole host plant for the zebra swallowtail, and how the named cultivars from the Kentucky State University and Peterson breeding programs stack up for a designer specifying an edible woodland-edge planting.
-
-In this episode:
-• Asimina triloba (Common Pawpaw, Pawpaw) — 
-• Asimina triloba — 
-• The Pawpaw — 
-• Pawpaws and the Zebra Swallowtail Butterfly — 
-• Pawpaw — 
-• The Kentucky Pawpaw Regional Variety Trial — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-150814.mp3" length="10253555" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-150814.mp3#10253555</guid>
-      <pubDate>Tue, 15 Sep 2026 19:16:27 +0000</pubDate>
-      <itunes:duration>14:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
