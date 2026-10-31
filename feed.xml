@@ -22,7 +22,39 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 30 Oct 2026 04:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:10:59 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Pines (Pinus)</title>
+      <description>A genus-level look at Pinus for the East Coast designer: the eastern white pine as the workhorse and its failure modes, the hard-pine natives from pitch to longleaf, the Asian pines you inherit, and why the October needle drop on a white pine is usually nothing to worry about. Closes with a recall quiz on Elaeagnus, Buxus, Cercis canadensis and Tsuga.
+
+In this episode:
+• Pinus strobus (White Pine) — NC State Extension Gardener Plant Toolbox — 
+• White Pine Decline — 
+• White Pine Blister Rust — 
+• Pinus rigida (Pitch Pine) — Native Plant Finder — 
+• Pinus rigida — Purdue Arboretum Explorer — 
+• Pinus rigida — Plant Database — 
+• Pinus strobus — Fire Effects Information System — 
+• Pinus strobus — Cornell Woody Plants Database — 
+• Pinus strobus — North Carolina Native Plant Society — </description>
+      <itunes:summary>A genus-level look at Pinus for the East Coast designer: the eastern white pine as the workhorse and its failure modes, the hard-pine natives from pitch to longleaf, the Asian pines you inherit, and why the October needle drop on a white pine is usually nothing to worry about. Closes with a recall quiz on Elaeagnus, Buxus, Cercis canadensis and Tsuga.
+
+In this episode:
+• Pinus strobus (White Pine) — NC State Extension Gardener Plant Toolbox — 
+• White Pine Decline — 
+• White Pine Blister Rust — 
+• Pinus rigida (Pitch Pine) — Native Plant Finder — 
+• Pinus rigida — Purdue Arboretum Explorer — 
+• Pinus rigida — Plant Database — 
+• Pinus strobus — Fire Effects Information System — 
+• Pinus strobus — Cornell Woody Plants Database — 
+• Pinus strobus — North Carolina Native Plant Society — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-31-144715.mp3" length="9807164" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-31-144715.mp3#9807164</guid>
+      <pubDate>Sat, 31 Oct 2026 21:10:59 +0000</pubDate>
+      <itunes:duration>13:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Hemlock (Tsuga)</title>
       <description>A genus-level look at the two eastern hemlocks, Tsuga canadensis and Tsuga caroliniana: how to tell them apart, where they truly belong, what the hemlock woolly adelgid has changed about specifying them, and which cultivars are worth knowing. Closes with a recall quiz on pawpaw, bald cypress, Morella, Phragmites, and Rosa.
@@ -1333,36 +1365,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-152434.mp3#7882509</guid>
       <pubDate>Tue, 15 Sep 2026 19:31:25 +0000</pubDate>
       <itunes:duration>10:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Bald Cypress (Taxodium distichum)</title>
-      <description>A deep dive on Taxodium distichum, the deciduous conifer of Eastern swamps and river bottoms, covering its identification against dawn redwood and pond cypress, its surprising drought tolerance on upland sites, cultivars from the columnar 'Shawnee Brave' to the dwarf 'Peve Minaret', and its wildlife value. Closes with a six-plant recall quiz on Physocarpus, Persicaria, Eupatorium, Eurybia, Passiflora incarnata, and Fothergilla.
-
-In this episode:
-• Taxodium distichum (Baldcypress, Bald Cypress, Cypress, Swamp Cypress) — 
-• Taxodium distichum var. imbricarium (Pond Cypress) — 
-• Taxodium distichum var. distichum — 
-• Taxodium distichum 'Mickelson' SHAWNEE BRAVE — 
-• Taxodium distichum 'Peve Minaret' — 
-• Taxodium distichum (Bald cypress) — 
-• Metasequoia glyptostroboides and Taxodium distichum — 
-• Assessing Field Level Cold Tolerance in Improved Genotypes of Taxodium distichum Tolerant of Alkaline Soils and Drought — </description>
-      <itunes:summary>A deep dive on Taxodium distichum, the deciduous conifer of Eastern swamps and river bottoms, covering its identification against dawn redwood and pond cypress, its surprising drought tolerance on upland sites, cultivars from the columnar 'Shawnee Brave' to the dwarf 'Peve Minaret', and its wildlife value. Closes with a six-plant recall quiz on Physocarpus, Persicaria, Eupatorium, Eurybia, Passiflora incarnata, and Fothergilla.
-
-In this episode:
-• Taxodium distichum (Baldcypress, Bald Cypress, Cypress, Swamp Cypress) — 
-• Taxodium distichum var. imbricarium (Pond Cypress) — 
-• Taxodium distichum var. distichum — 
-• Taxodium distichum 'Mickelson' SHAWNEE BRAVE — 
-• Taxodium distichum 'Peve Minaret' — 
-• Taxodium distichum (Bald cypress) — 
-• Metasequoia glyptostroboides and Taxodium distichum — 
-• Assessing Field Level Cold Tolerance in Improved Genotypes of Taxodium distichum Tolerant of Alkaline Soils and Drought — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-151648.mp3" length="8826338" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-151648.mp3#8826338</guid>
-      <pubDate>Tue, 15 Sep 2026 19:24:29 +0000</pubDate>
-      <itunes:duration>12:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
