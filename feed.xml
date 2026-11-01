@@ -22,7 +22,33 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 31 Oct 2026 21:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:33:26 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Eastern Teaberry (Gaultheria procumbens)</title>
+      <description>Eastern teaberry, or wintergreen, is the little evergreen ericaceous groundcover that finally earns its keep in November, when its red fruit and burgundy-bronzed foliage read against bare woodland floor. We cover identification, the northern-Appalachian provenance, why it fails in so many installations, and where it genuinely belongs in a design. The episode closes with a recall quiz on prairie dropseed, Vaccinium, Betula, Adiantum and Pinus.
+
+In this episode:
+• Gaultheria procumbens — NC State Extension Gardener Plant Toolbox — 
+• Vascular Plants of North Carolina: Gaultheria procumbens — 
+• Fire Effects Information System: Gaultheria procumbens — 
+• Wintergreen (Gaultheria procumbens) — 
+• Gaultheria procumbens — 
+• Gaultheria procumbens — </description>
+      <itunes:summary>Eastern teaberry, or wintergreen, is the little evergreen ericaceous groundcover that finally earns its keep in November, when its red fruit and burgundy-bronzed foliage read against bare woodland floor. We cover identification, the northern-Appalachian provenance, why it fails in so many installations, and where it genuinely belongs in a design. The episode closes with a recall quiz on prairie dropseed, Vaccinium, Betula, Adiantum and Pinus.
+
+In this episode:
+• Gaultheria procumbens — NC State Extension Gardener Plant Toolbox — 
+• Vascular Plants of North Carolina: Gaultheria procumbens — 
+• Fire Effects Information System: Gaultheria procumbens — 
+• Wintergreen (Gaultheria procumbens) — 
+• Gaultheria procumbens — 
+• Gaultheria procumbens — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-01-082906.mp3" length="9102512" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-01-082906.mp3#9102512</guid>
+      <pubDate>Sun, 01 Nov 2026 13:33:25 +0000</pubDate>
+      <itunes:duration>12:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Pines (Pinus)</title>
       <description>A genus-level look at Pinus for the East Coast designer: the eastern white pine as the workhorse and its failure modes, the hard-pine natives from pitch to longleaf, the Asian pines you inherit, and why the October needle drop on a white pine is usually nothing to worry about. Closes with a recall quiz on Elaeagnus, Buxus, Cercis canadensis and Tsuga.
@@ -1335,36 +1361,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-20-173658.mp3#7793153</guid>
       <pubDate>Sun, 20 Sep 2026 21:50:26 +0000</pubDate>
       <itunes:duration>10:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Elaeagnus: Autumn Olive, Thorny Olive, and Russian Olive</title>
-      <description>A genus-level deep dive on Elaeagnus — autumn olive, thorny olive, and Russian olive — the East Coast's most widely planted-then-regretted wildlife shrub. Covers field identification across all three species, why nitrogen-fixing biology makes it uniquely damaging on poor soils, the 'junk food' problem with its fruit for migrating songbirds, and practical removal guidance for existing properties. Closes with a six-plant spaced-repetition review.
-
-In this episode:
-• Elaeagnus umbellata (Autumn Olive) — 
-• Elaeagnus pungens (Thorny Olive) — 
-• Autumn Olive: Accurate Identification — 
-• Elaeagnus umbellata — 
-• Autumn olive: Elaeagnus umbellata — 
-• Thorny olive, Elaeagnus pungens — 
-• Invasive Plants Are NOT for the Birds — 
-• Elaeagnus umbellata — </description>
-      <itunes:summary>A genus-level deep dive on Elaeagnus — autumn olive, thorny olive, and Russian olive — the East Coast's most widely planted-then-regretted wildlife shrub. Covers field identification across all three species, why nitrogen-fixing biology makes it uniquely damaging on poor soils, the 'junk food' problem with its fruit for migrating songbirds, and practical removal guidance for existing properties. Closes with a six-plant spaced-repetition review.
-
-In this episode:
-• Elaeagnus umbellata (Autumn Olive) — 
-• Elaeagnus pungens (Thorny Olive) — 
-• Autumn Olive: Accurate Identification — 
-• Elaeagnus umbellata — 
-• Autumn olive: Elaeagnus umbellata — 
-• Thorny olive, Elaeagnus pungens — 
-• Invasive Plants Are NOT for the Birds — 
-• Elaeagnus umbellata — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-152434.mp3" length="7882509" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-15-152434.mp3#7882509</guid>
-      <pubDate>Tue, 15 Sep 2026 19:31:25 +0000</pubDate>
-      <itunes:duration>10:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
