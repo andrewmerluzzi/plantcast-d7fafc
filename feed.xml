@@ -22,7 +22,33 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 01 Nov 2026 13:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:23:12 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Barrenwort (Epimedium)</title>
+      <description>A genus-level look at Epimedium, the Asian and Mediterranean woodland groundcovers that earn their keep in dry shade. We cover evergreen versus deciduous behavior, the hybrids worth specifying, how to manage the foliage, and the honest ecological caveat. The episode closes with a recall quiz on Amelanchier, Gentiana, Rosa, and Gaultheria procumbens.
+
+In this episode:
+• Epimedium (genus) — Plant Toolbox — 
+• Epimedium sempervirens — Plant Toolbox — 
+• Epimedium x rubrum — Plant Toolbox — 
+• Epimedium x perralchicum — Plant Toolbox — 
+• Epimedium x versicolor Sulphureum — Plant Toolbox — 
+• Epimedium x youngianum Niveum — Plant Toolbox — </description>
+      <itunes:summary>A genus-level look at Epimedium, the Asian and Mediterranean woodland groundcovers that earn their keep in dry shade. We cover evergreen versus deciduous behavior, the hybrids worth specifying, how to manage the foliage, and the honest ecological caveat. The episode closes with a recall quiz on Amelanchier, Gentiana, Rosa, and Gaultheria procumbens.
+
+In this episode:
+• Epimedium (genus) — Plant Toolbox — 
+• Epimedium sempervirens — Plant Toolbox — 
+• Epimedium x rubrum — Plant Toolbox — 
+• Epimedium x perralchicum — Plant Toolbox — 
+• Epimedium x versicolor Sulphureum — Plant Toolbox — 
+• Epimedium x youngianum Niveum — Plant Toolbox — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-02-011718.mp3" length="9646363" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-02-011718.mp3#9646363</guid>
+      <pubDate>Mon, 02 Nov 2026 06:23:12 +0000</pubDate>
+      <itunes:duration>13:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Eastern Teaberry (Gaultheria procumbens)</title>
       <description>Eastern teaberry, or wintergreen, is the little evergreen ericaceous groundcover that finally earns its keep in November, when its red fruit and burgundy-bronzed foliage read against bare woodland floor. We cover identification, the northern-Appalachian provenance, why it fails in so many installations, and where it genuinely belongs in a design. The episode closes with a recall quiz on prairie dropseed, Vaccinium, Betula, Adiantum and Pinus.
@@ -1335,32 +1361,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-21-071737.mp3#11215916</guid>
       <pubDate>Mon, 21 Sep 2026 11:33:30 +0000</pubDate>
       <itunes:duration>15:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Prairie Dropseed (Sporobolus heterolepis)</title>
-      <description>A deep dive on prairie dropseed, the fine-textured, fragrant fall-blooming grass that anchors so many contemporary meadow-style plantings — with an East Coast lens on just how disjunct and slow-establishing this Midwestern prairie native really is here, plus how to choose it over Muhlenbergia or Schizachyrium. Closes with a six-plant recall quiz covering Veronicastrum, Campsis, Callicarpa, Ailanthus, Asimina, and Taxodium.
-
-In this episode:
-• Sporobolus heterolepis (Prairie Dropseed) — 
-• Sporobolus heterolepis - Plant Finder — 
-• Sporobolus heterolepis (Prairie dropseed) — 
-• County distribution map of Sporobolus heterolepis — 
-• Charm and Choices with Prairie Dropseed — 
-• Plants for Pollinators: Little Bluestem — </description>
-      <itunes:summary>A deep dive on prairie dropseed, the fine-textured, fragrant fall-blooming grass that anchors so many contemporary meadow-style plantings — with an East Coast lens on just how disjunct and slow-establishing this Midwestern prairie native really is here, plus how to choose it over Muhlenbergia or Schizachyrium. Closes with a six-plant recall quiz covering Veronicastrum, Campsis, Callicarpa, Ailanthus, Asimina, and Taxodium.
-
-In this episode:
-• Sporobolus heterolepis (Prairie Dropseed) — 
-• Sporobolus heterolepis - Plant Finder — 
-• Sporobolus heterolepis (Prairie dropseed) — 
-• County distribution map of Sporobolus heterolepis — 
-• Charm and Choices with Prairie Dropseed — 
-• Plants for Pollinators: Little Bluestem — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-20-173658.mp3" length="7793153" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-20-173658.mp3#7793153</guid>
-      <pubDate>Sun, 20 Sep 2026 21:50:26 +0000</pubDate>
-      <itunes:duration>10:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
