@@ -22,7 +22,37 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 02 Nov 2026 06:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 05:05:17 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Feather Reed Grass (Calamagrostis)</title>
+      <description>A genus-level look at Calamagrostis: the sterile hybrid Karl Foerster and its sports, the late-blooming shade-tolerant Korean feather reed grass, and the little-used Eastern natives like bluejoint and Porter's reedgrass. Covers siting limits in the humid East, rust, cultivar reversion, and winter structure, followed by a recall quiz on Itea, Monarda, Echinacea, Magnolia virginiana, Penstemon and Clethra.
+
+In this episode:
+• Calamagrostis x acutiflora 'Karl Foerster' - NC State Extension Plant Toolbox — 
+• Feather Reed Grass, Calamagrostis x acutiflora 'Karl Foerster' — 
+• Calamagrostis brachytricha — 
+• Calamagrostis brachytricha — 
+• Calamagrostis canadensis fact sheet — 
+• Calamagrostis porteri — 
+• Calamagrostis plant named 'Eldorado' (patent PP16486) — 
+• Chee reedgrass (Calamagrostis epigejos) — </description>
+      <itunes:summary>A genus-level look at Calamagrostis: the sterile hybrid Karl Foerster and its sports, the late-blooming shade-tolerant Korean feather reed grass, and the little-used Eastern natives like bluejoint and Porter's reedgrass. Covers siting limits in the humid East, rust, cultivar reversion, and winter structure, followed by a recall quiz on Itea, Monarda, Echinacea, Magnolia virginiana, Penstemon and Clethra.
+
+In this episode:
+• Calamagrostis x acutiflora 'Karl Foerster' - NC State Extension Plant Toolbox — 
+• Feather Reed Grass, Calamagrostis x acutiflora 'Karl Foerster' — 
+• Calamagrostis brachytricha — 
+• Calamagrostis brachytricha — 
+• Calamagrostis canadensis fact sheet — 
+• Calamagrostis porteri — 
+• Calamagrostis plant named 'Eldorado' (patent PP16486) — 
+• Chee reedgrass (Calamagrostis epigejos) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-03-000007.mp3" length="10224413" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-03-000007.mp3#10224413</guid>
+      <pubDate>Tue, 03 Nov 2026 05:05:17 +0000</pubDate>
+      <itunes:duration>13:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Barrenwort (Epimedium)</title>
       <description>A genus-level look at Epimedium, the Asian and Mediterranean woodland groundcovers that earn their keep in dry shade. We cover evergreen versus deciduous behavior, the hybrids worth specifying, how to manage the foliage, and the honest ecological caveat. The episode closes with a recall quiz on Amelanchier, Gentiana, Rosa, and Gaultheria procumbens.
@@ -1333,34 +1363,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-22-065705.mp3#9325061</guid>
       <pubDate>Tue, 22 Sep 2026 11:05:38 +0000</pubDate>
       <itunes:duration>12:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Native Blueberries (Vaccinium)</title>
-      <description>A deep dive on Vaccinium — the highbush, lowbush, rabbiteye, and farkleberry blueberries native to the East Coast — covering the taxonomy that separates it from Gaylussacia, the ploidy differences that shape breeding, an East Coast lens on provenance versus what's sold at the nursery, and why it's one of the best native substitutes for fall color. Closes with a six-plant recall quiz covering Elaeagnus, Hamamelis, Symphyotrichum, Silphium, Clematis, and Microstegium vimineum.
-
-In this episode:
-• Vaccinium corymbosum (Highbush Blueberry) — 
-• Vaccinium angustifolium (Lowbush Blueberry) — 
-• Vaccinium arboreum (Farkleberry, Sparkleberry) — 
-• Vaccinium virgatum (Ericaceae): A species to be recognized — 
-• Southeastern Blueberry Bee Habropoda laboriosa (Insecta: Hymenoptera: Apidae) — 
-• Bradley's Mining Bee (Andrena bradleyi) — 
-• Blueberry and Huckleberry Shrubs — </description>
-      <itunes:summary>A deep dive on Vaccinium — the highbush, lowbush, rabbiteye, and farkleberry blueberries native to the East Coast — covering the taxonomy that separates it from Gaylussacia, the ploidy differences that shape breeding, an East Coast lens on provenance versus what's sold at the nursery, and why it's one of the best native substitutes for fall color. Closes with a six-plant recall quiz covering Elaeagnus, Hamamelis, Symphyotrichum, Silphium, Clematis, and Microstegium vimineum.
-
-In this episode:
-• Vaccinium corymbosum (Highbush Blueberry) — 
-• Vaccinium angustifolium (Lowbush Blueberry) — 
-• Vaccinium arboreum (Farkleberry, Sparkleberry) — 
-• Vaccinium virgatum (Ericaceae): A species to be recognized — 
-• Southeastern Blueberry Bee Habropoda laboriosa (Insecta: Hymenoptera: Apidae) — 
-• Bradley's Mining Bee (Andrena bradleyi) — 
-• Blueberry and Huckleberry Shrubs — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-21-071737.mp3" length="11215916" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-21-071737.mp3#11215916</guid>
-      <pubDate>Mon, 21 Sep 2026 11:33:30 +0000</pubDate>
-      <itunes:duration>15:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
