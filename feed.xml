@@ -22,7 +22,31 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 04 Nov 2026 14:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:29:40 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Stewartia (Stewartia)</title>
+      <description>A genus episode on Stewartia: the two rare Southeastern natives, mountain camellia and silky camellia, against the Asian species that actually fill nurseries, Japanese and orangebark stewartia. We cover bark as a November feature, siting and transplant failure modes, cultivars, and an honest accounting of the ecological value. Closes with a six item recall quiz.
+
+In this episode:
+• Native Stewartias: The American Camellia Relatives — 
+• Stewartia pseudocamellia — 
+• Stewartia ovata (mountain camellia) — 
+• Stewartia malacodendron (round-fruited stewartia) — 
+• Stewartia monadelpha (hime-syara stewartia) — </description>
+      <itunes:summary>A genus episode on Stewartia: the two rare Southeastern natives, mountain camellia and silky camellia, against the Asian species that actually fill nurseries, Japanese and orangebark stewartia. We cover bark as a November feature, siting and transplant failure modes, cultivars, and an honest accounting of the ecological value. Closes with a six item recall quiz.
+
+In this episode:
+• Native Stewartias: The American Camellia Relatives — 
+• Stewartia pseudocamellia — 
+• Stewartia ovata (mountain camellia) — 
+• Stewartia malacodendron (round-fruited stewartia) — 
+• Stewartia monadelpha (hime-syara stewartia) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-05-092240.mp3" length="10332860" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-05-092240.mp3#10332860</guid>
+      <pubDate>Thu, 05 Nov 2026 14:29:39 +0000</pubDate>
+      <itunes:duration>14:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Arborvitae (Thuja)</title>
       <description>A genus deep dive on Thuja: the eastern native northern white cedar, the Pacific Northwest giant, and the Green Giant hybrid that now screens half the East Coast. We cover identification, real site limits, deer and bagworm, ecological value, and which cultivars earn a specification. The episode closes with a recall quiz on Wisteria, Tsuga, Epimedium, Viburnum, Lonicera, and Lycoris.
@@ -1335,30 +1359,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-24-000008.mp3#8476174</guid>
       <pubDate>Thu, 24 Sep 2026 04:06:16 +0000</pubDate>
       <itunes:duration>11:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Spider and Surprise Lilies (Lycoris)</title>
-      <description>A genus deep dive on Lycoris — the hurricane lilies and surprise lilies popping up naked-stemmed in East Coast gardens and old homesites right now. Covers the radiata-versus-squamigera comparison, the sterile-triploid-versus-fertile-diploid wrinkle that shapes how it spreads, hysteranthous foliage timing, and how to design around a bulb that disappears for half the year.
-
-In this episode:
-• Lycoris (Cluster Amaryllis, Equinox Flower, Hurricane Lilies, Magic Lily, Naked Lily, Resurrection Lily, Spider Lilies, Surprise Lily) — 
-• Lycoris radiata (Equinox Flower, Hurricane Lily, Naked Lily, Red Magic Lily, Red Spider Lily, Red Surprise Lily, Spider Lily) — 
-• Lycoris squamigera (Magic Lily, Mystery Lily, Naked Ladies, Resurrection Lily, Sesame Lily, Surprise Lily, Upstart) — 
-• red spiderlily: Lycoris radiata — 
-• Lycoris radiata var. pumila — </description>
-      <itunes:summary>A genus deep dive on Lycoris — the hurricane lilies and surprise lilies popping up naked-stemmed in East Coast gardens and old homesites right now. Covers the radiata-versus-squamigera comparison, the sterile-triploid-versus-fertile-diploid wrinkle that shapes how it spreads, hysteranthous foliage timing, and how to design around a bulb that disappears for half the year.
-
-In this episode:
-• Lycoris (Cluster Amaryllis, Equinox Flower, Hurricane Lilies, Magic Lily, Naked Lily, Resurrection Lily, Spider Lilies, Surprise Lily) — 
-• Lycoris radiata (Equinox Flower, Hurricane Lily, Naked Lily, Red Magic Lily, Red Spider Lily, Red Surprise Lily, Spider Lily) — 
-• Lycoris squamigera (Magic Lily, Mystery Lily, Naked Ladies, Resurrection Lily, Sesame Lily, Surprise Lily, Upstart) — 
-• red spiderlily: Lycoris radiata — 
-• Lycoris radiata var. pumila — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-23-080101.mp3" length="8452374" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-23-080101.mp3#8452374</guid>
-      <pubDate>Wed, 23 Sep 2026 12:07:33 +0000</pubDate>
-      <itunes:duration>11:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
