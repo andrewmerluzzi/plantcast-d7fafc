@@ -22,7 +22,33 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 05 Nov 2026 14:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:31:48 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Crape Myrtle (Lagerstroemia)</title>
+      <description>A genus-level look at Lagerstroemia as East Coast designers actually meet it: the common crape myrtle, the Japanese species, and the National Arboretum hybrids that dominate the trade. Covers bark as a winter feature, the real pros and cons of the cultivar lines, crape myrtle bark scale, pruning abuse, and where the plant earns or loses its place. Ends with a spaced-repetition quiz on Fagus, Gaultheria, Thuja, Osmunda, Berberis and Phragmites.
+
+In this episode:
+• Lagerstroemia subcostata var. fauriei — 
+• Pests and Diseases Threaten Crapemyrtle in U.S. Landscapes and Nurseries — 
+• Lagerstroemia indica — 
+• Lagerstroemia Checklist — 
+• Identification of pest and disease resistant crapemyrtle cultivars for nursery production — 
+• Crapemyrtle Bark Scale — </description>
+      <itunes:summary>A genus-level look at Lagerstroemia as East Coast designers actually meet it: the common crape myrtle, the Japanese species, and the National Arboretum hybrids that dominate the trade. Covers bark as a winter feature, the real pros and cons of the cultivar lines, crape myrtle bark scale, pruning abuse, and where the plant earns or loses its place. Ends with a spaced-repetition quiz on Fagus, Gaultheria, Thuja, Osmunda, Berberis and Phragmites.
+
+In this episode:
+• Lagerstroemia subcostata var. fauriei — 
+• Pests and Diseases Threaten Crapemyrtle in U.S. Landscapes and Nurseries — 
+• Lagerstroemia indica — 
+• Lagerstroemia Checklist — 
+• Identification of pest and disease resistant crapemyrtle cultivars for nursery production — 
+• Crapemyrtle Bark Scale — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-06-091437.mp3" length="9210333" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-06-091437.mp3#9210333</guid>
+      <pubDate>Fri, 06 Nov 2026 15:31:47 +0000</pubDate>
+      <itunes:duration>12:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Stewartia (Stewartia)</title>
       <description>A genus episode on Stewartia: the two rare Southeastern natives, mountain camellia and silky camellia, against the Asian species that actually fill nurseries, Japanese and orangebark stewartia. We cover bark as a November feature, siting and transplant failure modes, cultivars, and an honest accounting of the ecological value. Closes with a six item recall quiz.
@@ -1321,44 +1347,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-25-084129.mp3#7161206</guid>
       <pubDate>Fri, 25 Sep 2026 12:46:44 +0000</pubDate>
       <itunes:duration>9:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Oaks (Quercus)</title>
-      <description>A deep dive on the genus Quercus for East Coast designers: telling the white oak and red oak groups apart in the field, matching species to site from swamp to ridge, the urban traps of pin oak chlorosis and bacterial leaf scorch, the current oak wilt picture in the Northeast, and why oaks are the single highest-value woody genus for moth and butterfly caterpillars in the mid-Atlantic.
-
-In this episode:
-• Quercus (Oak, Oaks) — 
-• Quercus alba (American White Oak) — 
-• Quercus bicolor (Swamp White Oak) — 
-• Quercus phellos (Willow Oak) — 
-• Quercus palustris (Pin Oak) — 
-• Quercus virginiana (Southern Live Oak) — 
-• Quercus michauxii (Swamp Chestnut Oak) — 
-• Bacterial Leaf Scorch — 
-• Oak Wilt — 
-• Dealing with Severe Chlorosis in Pin Oaks — 
-• Oaks offer great variety for urban areas — 
-• Want to Nurture Wildlife? Plant a Native Oak. — </description>
-      <itunes:summary>A deep dive on the genus Quercus for East Coast designers: telling the white oak and red oak groups apart in the field, matching species to site from swamp to ridge, the urban traps of pin oak chlorosis and bacterial leaf scorch, the current oak wilt picture in the Northeast, and why oaks are the single highest-value woody genus for moth and butterfly caterpillars in the mid-Atlantic.
-
-In this episode:
-• Quercus (Oak, Oaks) — 
-• Quercus alba (American White Oak) — 
-• Quercus bicolor (Swamp White Oak) — 
-• Quercus phellos (Willow Oak) — 
-• Quercus palustris (Pin Oak) — 
-• Quercus virginiana (Southern Live Oak) — 
-• Quercus michauxii (Swamp Chestnut Oak) — 
-• Bacterial Leaf Scorch — 
-• Oak Wilt — 
-• Dealing with Severe Chlorosis in Pin Oaks — 
-• Oaks offer great variety for urban areas — 
-• Want to Nurture Wildlife? Plant a Native Oak. — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-24-000008.mp3" length="8476174" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-24-000008.mp3#8476174</guid>
-      <pubDate>Thu, 24 Sep 2026 04:06:16 +0000</pubDate>
-      <itunes:duration>11:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
