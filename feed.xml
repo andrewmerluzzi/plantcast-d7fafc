@@ -22,7 +22,35 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 06 Nov 2026 15:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:38:13 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Hellebore (Helleborus)</title>
+      <description>A genus episode on Helleborus: the stemless and stemmed groups, the Helleborus hybridus complex that dominates East Coast shade gardens, the newer interspecific hybrids, and the real culture and disease issues, including black death. The episode closes with a recall quiz on Stewartia, Acer, Cercis canadensis, Epimedium, and Lagerstroemia.
+
+In this episode:
+• Helleborus (Plant Toolbox) — 
+• Helleborus x hybridus (Hybrid Lenten Rose) — 
+• Helleborus foetidus — 
+• Lenten Rose — 
+• Hellebore black death — 
+• Black Death of Hellebore — 
+• Honeymoon series Lenten rose — </description>
+      <itunes:summary>A genus episode on Helleborus: the stemless and stemmed groups, the Helleborus hybridus complex that dominates East Coast shade gardens, the newer interspecific hybrids, and the real culture and disease issues, including black death. The episode closes with a recall quiz on Stewartia, Acer, Cercis canadensis, Epimedium, and Lagerstroemia.
+
+In this episode:
+• Helleborus (Plant Toolbox) — 
+• Helleborus x hybridus (Hybrid Lenten Rose) — 
+• Helleborus foetidus — 
+• Lenten Rose — 
+• Hellebore black death — 
+• Black Death of Hellebore — 
+• Honeymoon series Lenten rose — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-07-150904.mp3" length="10374239" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-07-150904.mp3#10374239</guid>
+      <pubDate>Sun, 08 Nov 2026 00:38:12 +0000</pubDate>
+      <itunes:duration>14:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Crape Myrtle (Lagerstroemia)</title>
       <description>A genus-level look at Lagerstroemia as East Coast designers actually meet it: the common crape myrtle, the Japanese species, and the National Arboretum hybrids that dominate the trade. Covers bark as a winter feature, the real pros and cons of the cultivar lines, crape myrtle bark scale, pruning abuse, and where the plant earns or loses its place. Ends with a spaced-repetition quiz on Fagus, Gaultheria, Thuja, Osmunda, Berberis and Phragmites.
@@ -1319,34 +1347,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-26-150213.mp3#7431699</guid>
       <pubDate>Sat, 26 Sep 2026 23:58:13 +0000</pubDate>
       <itunes:duration>10:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Camellia (Camellia sasanqua and Camellia japonica)</title>
-      <description>A deep dive into garden camellias as the sasanquas start opening on the East Coast: taxonomy and Theaceae kinship with Franklinia and Stewartia, the practical split between sasanqua and japonica, siting and disease realities in humid Eastern gardens, the Ackerman cold-hardy hybrids that push the genus into zone six b, and where camellias actually earn their keep in a design. Closes with a recall quiz on Sporobolus heterolepis, Vaccinium, and Quercus.
-
-In this episode:
-• Camellia sasanqua — 
-• Camellia japonica — 
-• Camellia Winter Group (Ackerman Hybrids) — 
-• Camellia — 
-• Camellia Diseases and Insect Pests in South Carolina — 
-• Camellia japonica — 
-• Some Like it Cold — </description>
-      <itunes:summary>A deep dive into garden camellias as the sasanquas start opening on the East Coast: taxonomy and Theaceae kinship with Franklinia and Stewartia, the practical split between sasanqua and japonica, siting and disease realities in humid Eastern gardens, the Ackerman cold-hardy hybrids that push the genus into zone six b, and where camellias actually earn their keep in a design. Closes with a recall quiz on Sporobolus heterolepis, Vaccinium, and Quercus.
-
-In this episode:
-• Camellia sasanqua — 
-• Camellia japonica — 
-• Camellia Winter Group (Ackerman Hybrids) — 
-• Camellia — 
-• Camellia Diseases and Insect Pests in South Carolina — 
-• Camellia japonica — 
-• Some Like it Cold — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-25-084129.mp3" length="7161206" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-25-084129.mp3#7161206</guid>
-      <pubDate>Fri, 25 Sep 2026 12:46:44 +0000</pubDate>
-      <itunes:duration>9:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
