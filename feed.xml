@@ -22,7 +22,33 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 09 Nov 2026 08:54:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:14:18 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — White Fringetree (Chionanthus virginicus)</title>
+      <description>White fringetree, the native olive-family small tree that most designers under-specify. We cover its identification against Chinese fringetree, its odd sexual system, real culture and its late-season fall color, the emerald ash borer problem, its modest but real ecological role, and how to use it. The episode closes with a recall quiz on snowberry and coralberry, Stewartia, crape myrtle, and English ivy.
+
+In this episode:
+• Chionanthus virginicus - NC State Extension Gardener Plant Toolbox — 
+• Fringetree: an enchanting native tree for the home landscape — 
+• White Fringetree as a Novel Larval Host for Emerald Ash Borer — 
+• Emerald ash borer confirmed as threat to white fringetree — 
+• Waved sphinx, Ceratomia undulosa — 
+• Chionanthus virginicus (Cornell woody plants database) — </description>
+      <itunes:summary>White fringetree, the native olive-family small tree that most designers under-specify. We cover its identification against Chinese fringetree, its odd sexual system, real culture and its late-season fall color, the emerald ash borer problem, its modest but real ecological role, and how to use it. The episode closes with a recall quiz on snowberry and coralberry, Stewartia, crape myrtle, and English ivy.
+
+In this episode:
+• Chionanthus virginicus - NC State Extension Gardener Plant Toolbox — 
+• Fringetree: an enchanting native tree for the home landscape — 
+• White Fringetree as a Novel Larval Host for Emerald Ash Borer — 
+• Emerald ash borer confirmed as threat to white fringetree — 
+• Waved sphinx, Ceratomia undulosa — 
+• Chionanthus virginicus (Cornell woody plants database) — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-10-000947.mp3" length="8569615" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-10-000947.mp3#8569615</guid>
+      <pubDate>Tue, 10 Nov 2026 05:14:17 +0000</pubDate>
+      <itunes:duration>11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — English Ivy (Hedera helix)</title>
       <description>A deep dive on English ivy, Hedera helix, the evergreen vine every Eastern designer inherits on old properties. We cover juvenile versus adult growth, the Atlantic ivy taxonomy problem, its invasive status and its role as a reservoir for bacterial leaf scorch, how to remove it from trees and beds, and what to specify instead. The episode closes with a recall quiz on Lobelia, Ilex, Liatris, Carex, Rosa, and Thuja.
@@ -1301,36 +1327,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-29-000116.mp3#8040138</guid>
       <pubDate>Tue, 29 Sep 2026 04:09:46 +0000</pubDate>
       <itunes:duration>10:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Sneezeweed (Helenium)</title>
-      <description>A deep dive on Helenium, the East Coast's underused fall-blooming Asteraceae genus. We cover the winged-stem diagnostics that separate it from Rudbeckia and Heliopsis, the split between Helenium autumnale and the purple-centered Helenium flexuosum, what the Mount Cuba trial revealed about European-bred cultivars struggling against straight species performance, and where it earns a spot in a fall design.
-
-In this episode:
-• Helenium autumnale - Plant Finder — 
-• Helenium autumnale (Autumn Sneezeweed) - Plant Toolbox — 
-• Helenium flexuosum (Purple-headed Sneezeweed) - Plant Toolbox — 
-• Helenium flexuosum - Go Botany — 
-• Helenium - Mount Cuba Center trial report — 
-• Helenium autumnale (Common sneezeweed) — 
-• Helenium flexuosum (Purplehead sneezeweed) — 
-• Helenium - Flora of North America — </description>
-      <itunes:summary>A deep dive on Helenium, the East Coast's underused fall-blooming Asteraceae genus. We cover the winged-stem diagnostics that separate it from Rudbeckia and Heliopsis, the split between Helenium autumnale and the purple-centered Helenium flexuosum, what the Mount Cuba trial revealed about European-bred cultivars struggling against straight species performance, and where it earns a spot in a fall design.
-
-In this episode:
-• Helenium autumnale - Plant Finder — 
-• Helenium autumnale (Autumn Sneezeweed) - Plant Toolbox — 
-• Helenium flexuosum (Purple-headed Sneezeweed) - Plant Toolbox — 
-• Helenium flexuosum - Go Botany — 
-• Helenium - Mount Cuba Center trial report — 
-• Helenium autumnale (Common sneezeweed) — 
-• Helenium flexuosum (Purplehead sneezeweed) — 
-• Helenium - Flora of North America — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-28-072845.mp3" length="8179952" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-28-072845.mp3#8179952</guid>
-      <pubDate>Mon, 28 Sep 2026 11:37:59 +0000</pubDate>
-      <itunes:duration>11:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
