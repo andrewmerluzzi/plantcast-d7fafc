@@ -22,7 +22,37 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 10 Nov 2026 05:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:23:50 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Yew (Taxus)</title>
+      <description>A genus-level look at Taxus: the native Canada yew and its deer-driven decline, the critically endangered Florida yew, and the English, Japanese and hybrid yews that fill East Coast foundation plantings. Covers culture, the Phytophthora and deer problems, key cultivars, and where yew still beats every alternative. Ends with a recall quiz on hemlock, hellebore and fringetree.
+
+In this episode:
+• Taxus x media — 
+• Yews: environmentally sensitive pest management — 
+• Taxus x media 'Hicksii' — 
+• Taxus x media — 
+• Taxus x media 'Hicksii' — 
+• The ecology of Canada yew (Taxus canadensis Marsh.): A review — 
+• Taxus canadensis — 
+• Taxus floridana — </description>
+      <itunes:summary>A genus-level look at Taxus: the native Canada yew and its deer-driven decline, the critically endangered Florida yew, and the English, Japanese and hybrid yews that fill East Coast foundation plantings. Covers culture, the Phytophthora and deer problems, key cultivars, and where yew still beats every alternative. Ends with a recall quiz on hemlock, hellebore and fringetree.
+
+In this episode:
+• Taxus x media — 
+• Yews: environmentally sensitive pest management — 
+• Taxus x media 'Hicksii' — 
+• Taxus x media — 
+• Taxus x media 'Hicksii' — 
+• The ecology of Canada yew (Taxus canadensis Marsh.): A review — 
+• Taxus canadensis — 
+• Taxus floridana — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-11-121510.mp3" length="8621934" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-11-121510.mp3#8621934</guid>
+      <pubDate>Wed, 11 Nov 2026 17:23:49 +0000</pubDate>
+      <itunes:duration>11:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — White Fringetree (Chionanthus virginicus)</title>
       <description>White fringetree, the native olive-family small tree that most designers under-specify. We cover its identification against Chinese fringetree, its odd sexual system, real culture and its late-season fall color, the emerald ash borer problem, its modest but real ecological role, and how to use it. The episode closes with a recall quiz on snowberry and coralberry, Stewartia, crape myrtle, and English ivy.
@@ -1295,38 +1325,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-30-071147.mp3#9192181</guid>
       <pubDate>Wed, 30 Sep 2026 13:32:59 +0000</pubDate>
       <itunes:duration>12:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Sedges (Carex)</title>
-      <description>A deep dive into the genus Carex, the sedge backbone of shade and dry-shade design on the East Coast. Covers the Eastern natives worth specifying, the Mount Cuba Center trial's top performers, the popular non-native cultivars and where they earn or don't earn their keep, and the coastal invasive that gets confused with the well-behaved natives. Closes with a recall quiz on Camellia and Helenium.
-
-In this episode:
-• Sedge - Carex — 
-• Carex pensylvanica (Oak Sedge, Pennsylvania Sedge) — 
-• Carex plantaginea — 
-• Carex morrowii (Ice Dance Sedge, Japanese Sedge) — 
-• Carex (Sedges): Trial Garden Report — 
-• Appalachian Sedge (Carex appalachica) — 
-• Native Sedges for the Home Garden — 
-• Impact of invasive Carex kobomugi on the native dune community in a US mid-Atlantic coastal system — 
-• Carex kobomugi (Japanese sedge) — </description>
-      <itunes:summary>A deep dive into the genus Carex, the sedge backbone of shade and dry-shade design on the East Coast. Covers the Eastern natives worth specifying, the Mount Cuba Center trial's top performers, the popular non-native cultivars and where they earn or don't earn their keep, and the coastal invasive that gets confused with the well-behaved natives. Closes with a recall quiz on Camellia and Helenium.
-
-In this episode:
-• Sedge - Carex — 
-• Carex pensylvanica (Oak Sedge, Pennsylvania Sedge) — 
-• Carex plantaginea — 
-• Carex morrowii (Ice Dance Sedge, Japanese Sedge) — 
-• Carex (Sedges): Trial Garden Report — 
-• Appalachian Sedge (Carex appalachica) — 
-• Native Sedges for the Home Garden — 
-• Impact of invasive Carex kobomugi on the native dune community in a US mid-Atlantic coastal system — 
-• Carex kobomugi (Japanese sedge) — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-29-000116.mp3" length="8040138" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-29-000116.mp3#8040138</guid>
-      <pubDate>Tue, 29 Sep 2026 04:09:46 +0000</pubDate>
-      <itunes:duration>10:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
