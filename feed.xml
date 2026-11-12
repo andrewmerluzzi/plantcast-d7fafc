@@ -22,7 +22,39 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 11 Nov 2026 17:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:28:42 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Anise Trees (Illicium)</title>
+      <description>A genus-level look at Illicium, the evergreen anise shrubs of the Southeast: Florida anise, small anise tree, and the hybrid cultivars that have made the genus a staple of deer-resistant shade planting. We cover identification, hardiness limits, culture, design use, and the real differences between the species and cultivars. The episode closes with a recall quiz on Pycnanthemum, Euonymus, Pinus, and Taxus.
+
+In this episode:
+• Illicium floridanum — 
+• Illicium parviflorum — 
+• Illicium (genus page) — 
+• Illicium Woodland Ruby — 
+• Illicium Scorpio — 
+• Illicium floridanum — 
+• Illicium floridanum fact sheet — 
+• Illicium parviflorum Forest Green — 
+• Illicium mexicanum x floridanum album Woodland Ruby — </description>
+      <itunes:summary>A genus-level look at Illicium, the evergreen anise shrubs of the Southeast: Florida anise, small anise tree, and the hybrid cultivars that have made the genus a staple of deer-resistant shade planting. We cover identification, hardiness limits, culture, design use, and the real differences between the species and cultivars. The episode closes with a recall quiz on Pycnanthemum, Euonymus, Pinus, and Taxus.
+
+In this episode:
+• Illicium floridanum — 
+• Illicium parviflorum — 
+• Illicium (genus page) — 
+• Illicium Woodland Ruby — 
+• Illicium Scorpio — 
+• Illicium floridanum — 
+• Illicium floridanum fact sheet — 
+• Illicium parviflorum Forest Green — 
+• Illicium mexicanum x floridanum album Woodland Ruby — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-12-091941.mp3" length="9730059" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-12-091941.mp3#9730059</guid>
+      <pubDate>Thu, 12 Nov 2026 14:28:41 +0000</pubDate>
+      <itunes:duration>13:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Yew (Taxus)</title>
       <description>A genus-level look at Taxus: the native Canada yew and its deer-driven decline, the critically endangered Florida yew, and the English, Japanese and hybrid yews that fill East Coast foundation plantings. Covers culture, the Phytophthora and deer problems, key cultivars, and where yew still beats every alternative. Ends with a recall quiz on hemlock, hellebore and fringetree.
@@ -1289,42 +1321,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-01-000009.mp3#10689275</guid>
       <pubDate>Thu, 01 Oct 2026 04:06:40 +0000</pubDate>
       <itunes:duration>14:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Euonymus: The Invasive Burning Bush and Its Native Cousin</title>
-      <description>A genus episode on Euonymus, built around the contrast every East Coast designer needs: the widely planted, now-banned-in-parts-of-the-Northeast Euonymus alatus and the groundcover thug Euonymus fortunei, versus the native woodland shrub Euonymus americanus, whose exploding pink-and-orange capsules are peaking right now. Covers identification, the invasion mechanics, cultivar myths around sterility, and where the native earns a place in a design.
-
-In this episode:
-• Euonymus alatus (Burning Bush, Winged Euonymus) — 
-• Euonymus americanus (Hearts-a-bustin', Strawberry Bush) — 
-• Euonymus fortunei (Wintercreeper) — 
-• Euonymus alatus — 
-• Euonymus americanus — 
-• Bursting-heart (Euonymus americanus) — 
-• Strawberry-Bush (Euonymus americanus): A Native Shrub with Charm — 
-• Euonymus Diseases and Insect Pests — 
-• UConn Scientist Develops Sterile Variety of Invasive Plant — 
-• Winter Creeper — 
-• winter creeper (Euonymus fortunei) — </description>
-      <itunes:summary>A genus episode on Euonymus, built around the contrast every East Coast designer needs: the widely planted, now-banned-in-parts-of-the-Northeast Euonymus alatus and the groundcover thug Euonymus fortunei, versus the native woodland shrub Euonymus americanus, whose exploding pink-and-orange capsules are peaking right now. Covers identification, the invasion mechanics, cultivar myths around sterility, and where the native earns a place in a design.
-
-In this episode:
-• Euonymus alatus (Burning Bush, Winged Euonymus) — 
-• Euonymus americanus (Hearts-a-bustin', Strawberry Bush) — 
-• Euonymus fortunei (Wintercreeper) — 
-• Euonymus alatus — 
-• Euonymus americanus — 
-• Bursting-heart (Euonymus americanus) — 
-• Strawberry-Bush (Euonymus americanus): A Native Shrub with Charm — 
-• Euonymus Diseases and Insect Pests — 
-• UConn Scientist Develops Sterile Variety of Invasive Plant — 
-• Winter Creeper — 
-• winter creeper (Euonymus fortunei) — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-30-071147.mp3" length="9192181" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-09-30-071147.mp3#9192181</guid>
-      <pubDate>Wed, 30 Sep 2026 13:32:59 +0000</pubDate>
-      <itunes:duration>12:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
