@@ -22,7 +22,35 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 12 Nov 2026 14:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:14:28 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Wild Ginger (Asarum)</title>
+      <description>A genus-level look at wild ginger: the deciduous Canadian wild ginger versus the evergreen southeastern heartleaf gingers once split off as Hexastylis, plus the Asian foliage species. We cover the taxonomy argument, ant and fly ecology, slug management, and where each earns a place in an East Coast shade planting. The episode closes with a recall quiz on hawthorn, partridgeberry, wintergreen, snowberry, English ivy, and Illicium.
+
+In this episode:
+• Asarum canadense — Plant Toolbox — 
+• Asarum arifolium — Plant Toolbox — 
+• Wild Ginger — HGIC 1113 — 
+• Wild ginger (Asarum spp.) — 
+• Frequency-dependent seed dispersal by ants of two deciduous forest herbs — 
+• A Review of the Taxonomy and Biogeography of Hexastylis (Aristolochiaceae) — 
+• Asarum shuttleworthii — World Flora Online — </description>
+      <itunes:summary>A genus-level look at wild ginger: the deciduous Canadian wild ginger versus the evergreen southeastern heartleaf gingers once split off as Hexastylis, plus the Asian foliage species. We cover the taxonomy argument, ant and fly ecology, slug management, and where each earns a place in an East Coast shade planting. The episode closes with a recall quiz on hawthorn, partridgeberry, wintergreen, snowberry, English ivy, and Illicium.
+
+In this episode:
+• Asarum canadense — Plant Toolbox — 
+• Asarum arifolium — Plant Toolbox — 
+• Wild Ginger — HGIC 1113 — 
+• Wild ginger (Asarum spp.) — 
+• Frequency-dependent seed dispersal by ants of two deciduous forest herbs — 
+• A Review of the Taxonomy and Biogeography of Hexastylis (Aristolochiaceae) — 
+• Asarum shuttleworthii — World Flora Online — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-13-130453.mp3" length="10440692" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-13-130453.mp3#10440692</guid>
+      <pubDate>Fri, 13 Nov 2026 18:14:27 +0000</pubDate>
+      <itunes:duration>14:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Anise Trees (Illicium)</title>
       <description>A genus-level look at Illicium, the evergreen anise shrubs of the Southeast: Florida anise, small anise tree, and the hybrid cultivars that have made the genus a staple of deer-resistant shade planting. We cover identification, hardiness limits, culture, design use, and the real differences between the species and cultivars. The episode closes with a recall quiz on Pycnanthemum, Euonymus, Pinus, and Taxus.
@@ -1291,36 +1319,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-02-040354.mp3#8553306</guid>
       <pubDate>Fri, 02 Oct 2026 10:29:45 +0000</pubDate>
       <itunes:duration>11:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Hawthorns (Crataegus)</title>
-      <description>A mid-fall look at Crataegus, the hawthorn genus: why its taxonomy is a notorious mess, which East Coast species and cultivars actually earn a spot in the trade (phaenopyrum, viridis 'Winter King', crus-galli var. inermis, punctata), the rust-and-fireblight disease complex every designer needs to manage, and the wildlife payoff of thorny structure and late-persisting fruit. Closes with a six-plant recall quiz.
-
-In this episode:
-• Crataegus phaenopyrum (Hawthorn, Thornapple, Washington Hawthorn) — 
-• Crataegus viridis (Hawthorn, Green Hawthorn, Washington Hawthorn) — 
-• Crataegus crus-galli (Cockspur Hawthorn, Cockspur Thorn) — 
-• Crataegus viridis 'Winter King' — 
-• Washington Hawthorn (Crataegus phaenopyrum) — 
-• Cedar-Quince Rust — 
-• Hiding in Plain Sight: Georgia's Native Hawthorn Trees (Crataegus spp.) — 
-• Crataegus punctata (Dotted Hawthorn) — </description>
-      <itunes:summary>A mid-fall look at Crataegus, the hawthorn genus: why its taxonomy is a notorious mess, which East Coast species and cultivars actually earn a spot in the trade (phaenopyrum, viridis 'Winter King', crus-galli var. inermis, punctata), the rust-and-fireblight disease complex every designer needs to manage, and the wildlife payoff of thorny structure and late-persisting fruit. Closes with a six-plant recall quiz.
-
-In this episode:
-• Crataegus phaenopyrum (Hawthorn, Thornapple, Washington Hawthorn) — 
-• Crataegus viridis (Hawthorn, Green Hawthorn, Washington Hawthorn) — 
-• Crataegus crus-galli (Cockspur Hawthorn, Cockspur Thorn) — 
-• Crataegus viridis 'Winter King' — 
-• Washington Hawthorn (Crataegus phaenopyrum) — 
-• Cedar-Quince Rust — 
-• Hiding in Plain Sight: Georgia's Native Hawthorn Trees (Crataegus spp.) — 
-• Crataegus punctata (Dotted Hawthorn) — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-01-000009.mp3" length="10689275" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-01-000009.mp3#10689275</guid>
-      <pubDate>Thu, 01 Oct 2026 04:06:40 +0000</pubDate>
-      <itunes:duration>14:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
