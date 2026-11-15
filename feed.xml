@@ -22,7 +22,49 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 14 Nov 2026 06:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:33:33 +0000</lastBuildDate>
+    <item>
+      <title>The Daily Plant — Rattlesnake Master and the Eryngos (Eryngium)</title>
+      <description>A late-fall look at Eryngium, the spiny, architectural carrot-family genus. It covers rattlesnake master (Eryngium yuccifolium) in depth: provenance through an East Coast lens, culture, and its wasp-heavy insect community. It also compares the two coastal plain natives, Eryngium aquaticum and Eryngium integrifolium, with the European sea hollies sold in the trade, and closes with a six-question review quiz.
+
+In this episode:
+• Eryngium yuccifolium (Rattlesnake Master) — 
+• Eryngium aquaticum — 
+• Eryngium planum — 
+• Button Eryngo Plant Guide — 
+• Rattlesnake Master (Eryngium yuccifolium) — 
+• A Three-Year Survey of the Rare Stem-Boring Moth Papaipema eryngii — 
+• Coleotechnites eryngiella note — 
+• Rattlesnake Master — 
+• Eryngium integrifolium — 
+• Eryngium giganteum — 
+• Eryngium x olivierianum Big Blue ('Myersblue') — 
+• Eryngium plant named 'Big Blue' (USPP20636) — 
+• Eryngium plant named 'Sapphire Blue' (USPP11088) — 
+• Rattlesnake master in grassland habitat — </description>
+      <itunes:summary>A late-fall look at Eryngium, the spiny, architectural carrot-family genus. It covers rattlesnake master (Eryngium yuccifolium) in depth: provenance through an East Coast lens, culture, and its wasp-heavy insect community. It also compares the two coastal plain natives, Eryngium aquaticum and Eryngium integrifolium, with the European sea hollies sold in the trade, and closes with a six-question review quiz.
+
+In this episode:
+• Eryngium yuccifolium (Rattlesnake Master) — 
+• Eryngium aquaticum — 
+• Eryngium planum — 
+• Button Eryngo Plant Guide — 
+• Rattlesnake Master (Eryngium yuccifolium) — 
+• A Three-Year Survey of the Rare Stem-Boring Moth Papaipema eryngii — 
+• Coleotechnites eryngiella note — 
+• Rattlesnake Master — 
+• Eryngium integrifolium — 
+• Eryngium giganteum — 
+• Eryngium x olivierianum Big Blue ('Myersblue') — 
+• Eryngium plant named 'Big Blue' (USPP20636) — 
+• Eryngium plant named 'Sapphire Blue' (USPP11088) — 
+• Rattlesnake master in grassland habitat — </itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-15-082458.mp3" length="13570396" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-11-15-082458.mp3#13570396</guid>
+      <pubDate>Sun, 15 Nov 2026 13:33:32 +0000</pubDate>
+      <itunes:duration>18:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Daily Plant — Sycamore and the Plane Trees (Platanus)</title>
       <description>A late-fall deep dive on Platanus: the American sycamore, the London plane, and the anthracnose-resistant cultivars that dominate East Coast street and campus planting. We cover winter ID, the diseases that actually shape the tree, wildlife value from tussock moths to chimney swifts, and when to specify the native versus a hybrid. Closes with a recall quiz on Epimedium, fringetree, and wild ginger.
@@ -1305,28 +1347,6 @@ In this episode:
       <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-05-085449.mp3#9113478</guid>
       <pubDate>Mon, 05 Oct 2026 13:02:45 +0000</pubDate>
       <itunes:duration>12:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Daily Plant — Sassafras (Sassafras albidum)</title>
-      <description>A deep dive on Sassafras albidum, the East Coast native tree carrying three leaf shapes on one plant and some of the best fall color in the region right now. Covers identification, the taproot and suckering habits that shape how you specify it, its two specialist moth and butterfly relationships, and laurel wilt disease — a current, spreading threat to Lauraceae that every Southeast and mid-Atlantic designer should be tracking. Closes with a four-plant recall quiz on Parthenocissus, Amelanchier, Carex, and Mitchella repens.
-
-In this episode:
-• Sassafras - Sassafras albidum — 
-• Sassafras albidum - Plant Finder — 
-• Laurel wilt disease: The demise of sassafras and other species within the Lauraceae family — 
-• Emerging forest pest threat: Redbay ambrosia beetle and laurel wilt — </description>
-      <itunes:summary>A deep dive on Sassafras albidum, the East Coast native tree carrying three leaf shapes on one plant and some of the best fall color in the region right now. Covers identification, the taproot and suckering habits that shape how you specify it, its two specialist moth and butterfly relationships, and laurel wilt disease — a current, spreading threat to Lauraceae that every Southeast and mid-Atlantic designer should be tracking. Closes with a four-plant recall quiz on Parthenocissus, Amelanchier, Carex, and Mitchella repens.
-
-In this episode:
-• Sassafras - Sassafras albidum — 
-• Sassafras albidum - Plant Finder — 
-• Laurel wilt disease: The demise of sassafras and other species within the Lauraceae family — 
-• Emerging forest pest threat: Redbay ambrosia beetle and laurel wilt — </itunes:summary>
-      <enclosure url="https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-03-110432.mp3" length="8567408" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://andrewmerluzzi.github.io/plantcast-d7fafc/audio/2026-10-03-110432.mp3#8567408</guid>
-      <pubDate>Sat, 03 Oct 2026 20:47:59 +0000</pubDate>
-      <itunes:duration>11:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
